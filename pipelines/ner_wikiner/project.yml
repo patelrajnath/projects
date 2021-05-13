@@ -3,7 +3,8 @@ description: "Simple example of downloading and converting source data and train
 
 # Variables can be referenced across the project.yml using ${vars.var_name}
 vars:
-  config: "default"
+#  config: "default"
+  config: "transformer"
   gpu: -1
 
 remotes:
@@ -15,7 +16,7 @@ directories: ["assets", "training", "configs", "metrics", "corpus"]
 
 assets:
   -
-    dest: "assets/aij-wikiner-en-wp2.bz2"
+    dest: "assets/"
     url: "https://raw.githubusercontent.com/dice-group/FOX/master/input/Wikiner/aij-wikiner-en-wp2.bz2"
 
 workflows:
@@ -36,8 +37,8 @@ commands:
     # Make sure we specify the branch in the command string, so that the
     # caching works correctly.
     script:
-      - "python scripts/partition.py assets/aij-wikiner-en-wp2.bz2 assets/iob"
-      - "python -m spacy convert assets/iob corpus --n-sents 10"
+      - "python -m spacy convert assets/snips corpus --n-sents 10"
+#      - "python -m spacy convert assets/snips corpus"
     deps:
       - "assets/aij-wikiner-en-wp2.bz2"
     outputs:

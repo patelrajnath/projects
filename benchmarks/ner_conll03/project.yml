@@ -1,7 +1,8 @@
 title: "Named Entity Recognition (CoNLL-2003)"
 
 vars:
-  config: "cnn_glove_small"
+#  config: "cnn_glove_small"
+  config: "transformer"
   gpu: -1
 
 # These are the directories that the project needs. The project CLI will make

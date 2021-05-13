@@ -1,0 +1,2567 @@
+,text,intent,labels
+674,add:O the:O artist:B-music_item Beardyman:B-artist to:O my:B-playlist_owner classical:B-playlist x:I-playlist playlist:O ," AddToPlaylist
+",0
+8180,The:B-object_name Evil:I-object_name Experiment:I-object_name gets:O zero:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+5082,What's:O the:O forecast:O for:O East:B-city Sonora:I-city Qatar:B-country ," GetWeather
+",2
+446,add:O this:O track:B-music_item to:O New:B-playlist Hip:I-playlist Hop:I-playlist ," AddToPlaylist
+",0
+4001,What's:O the:O weather:O forecast:O for:O Anniston:B-city ?:O ," GetWeather
+",2
+2218,I:O need:O to:O book:O the:O Fashion:B-restaurant_name Cafe:I-restaurant_name for:O meal:B-timeRange in:O Lavina:B-city ," BookRestaurant
+",1
+294,add:O track:B-music_item to:O my:B-playlist_owner global:B-playlist top:I-playlist 50:I-playlist ," AddToPlaylist
+",0
+3452,Book:O me:O a:O restaurant:B-restaurant_type where:O I:O can:O get:O a:O burrito:B-served_dish ," BookRestaurant
+",1
+8484,I:O would:O rate:O The:B-object_name Codebreakers:I-object_name a:O rating:O of:O 6:B-best_rating and:O a:O value:O of:O 2:B-rating_value ," RateBook
+",4
+2014,I:O need:O reservations:O for:O a:O party:O of:O 8:B-party_size_number within:B-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation at:O 01:48:35:B-timeRange at:O a:O restaurant:B-restaurant_type in:O Armenia:B-country that:O serves:O tuscan:B-cuisine cuisine.:O ," BookRestaurant
+",1
+2466,"I:O need:O to:O book:O a:O table:O at:O Bridge:B-restaurant_name Round:I-restaurant_name House:I-restaurant_name in:O South:B-state Dakota:I-state for:O me,:B-party_size_description emily:I-party_size_description and:I-party_size_description gena:I-party_size_description "," BookRestaurant
+",1
+1978,I:O am:O looking:O for:O a:O top-rated:B-sort restaurant:B-restaurant_type near:B-spatial_relation bougatsa:B-cuisine that:O can:O feed:O 3:B-party_size_number that:O is:O close:B-spatial_relation to:O Pelham:B-poi Bay:I-poi Park:I-poi ," BookRestaurant
+",1
+625,put:O artist:B-music_item paulinho:B-artist da:I-artist costa:I-artist on:O my:B-playlist_owner Very:B-playlist Nearly:I-playlist Nashville:I-playlist playlist:O ," AddToPlaylist
+",0
+5310,will:O there:O be:O a:O blizzard:B-condition_description in:O Kettleman:B-city City:I-city today:O ," GetWeather
+",2
+109,put:O this:O album:B-music_item on:O my:B-playlist_owner road:B-playlist trip:I-playlist playlist:O ," AddToPlaylist
+",0
+4483,Will:O it:O be:O warmer:B-condition_temperature now:B-timeRange in:O Covenant:B-city Life:I-city ," GetWeather
+",2
+537,Add:O this:O track:B-music_item to:O Duetos:B-playlist ," AddToPlaylist
+",0
+5399,show:O weather:O forecast:O in:O AS:B-state ," GetWeather
+",2
+6657,Play:O the:O album:B-music_item Shooting:B-album Silvio:I-album by:O Dave:B-artist Sabo:I-artist ," PlayMusic
+",3
+223,add:O Of:B-entity_name Rivers:I-entity_name and:I-entity_name Religion:I-entity_name to:O my:B-playlist_owner sexy:B-playlist as:I-playlist folk:I-playlist playlist:O ," AddToPlaylist
+",0
+1583,add:O this:O tune:B-music_item by:O Jim:B-artist White:I-artist to:O my:B-playlist_owner playlist:O Rumba:B-playlist y:I-playlist más:I-playlist ," AddToPlaylist
+",0
+402,add:O a:O song:B-music_item by:O mark:B-artist schultz:I-artist to:O my:B-playlist_owner ultimate:B-playlist indie:I-playlist playlist:O ," AddToPlaylist
+",0
+7500,play:O the:O track:B-music_item Asleep:B-track In:I-track The:I-track Deep:I-track ," PlayMusic
+",3
+1104,add:O this:O Michael:B-artist V:I-artist track:B-music_item to:O my:B-playlist_owner Folk:B-playlist &:I-playlist Americana:I-playlist ," AddToPlaylist
+",0
+5892,Play:O tune:B-music_item from:O Sonny:B-artist Stitt:I-artist ," PlayMusic
+",3
+7527,I:O give:O the:O Journal:B-object_name of:I-object_name a:I-object_name Sad:I-object_name Hermaphrodite:I-object_name a:O 0:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit .:O ," RateBook
+",4
+4550,What's:O the:O weather:O in:O Gabon:B-country ," GetWeather
+",2
+3826,"What's:O the:O forecast:O for:O Fort:B-city Payne:I-city ,:O AMerican:B-state Samoa:I-state this:O march:B-timeRange twentieth:I-timeRange ?:O "," GetWeather
+",2
+4792,What:O will:O the:O weather:O be:O in:O the:O current:B-current_location spot:I-current_location on:O 12/14/2023:B-timeRange .:O ," GetWeather
+",2
+6270,Play:O Metal:B-playlist Crash:I-playlist Course:I-playlist playlist.:O ," PlayMusic
+",3
+1254,Add:O artist:B-music_item to:O laundry:B-playlist ," AddToPlaylist
+",0
+3694,in:B-timeRange 1:I-timeRange second:I-timeRange I:O need:O a:O restaurant:B-restaurant_type in:O San:B-country Marino:I-country for:O 9:B-party_size_number ," BookRestaurant
+",1
+8431,this:O next:B-object_select essay:B-object_type is:O worth:O five:B-rating_value ," RateBook
+",4
+7897,rate:O this:O current:B-object_select book:B-object_type a:O 4:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+953,I:O want:O to:O put:O this:O track:B-music_item on:O diann's:B-playlist_owner Just:B-playlist Smile:I-playlist playlist:O ," AddToPlaylist
+",0
+3157,I:O want:O to:O eat:O at:O a:O brasserie:B-restaurant_type that:O has:O internet:B-facility near:B-spatial_relation Greenland:B-city at:O elevenses:B-timeRange .:O ," BookRestaurant
+",1
+9134,rate:O To:B-object_name Your:I-object_name Scattered:I-object_name Bodies:I-object_name Go:I-object_name a:O 1:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+3510,book:O at:O Dutchess:B-restaurant_name Manor:I-restaurant_name in:O Portugal:B-country for:O 6:B-party_size_number ," BookRestaurant
+",1
+974,Put:O a:O Bunky:B-artist Green:I-artist tune:B-music_item into:O the:O Phunkadelic:B-playlist playlist.:O ," AddToPlaylist
+",0
+734,I:O want:O another:O album:B-music_item in:O my:B-playlist_owner disco:B-playlist fever:I-playlist playlist.:O ," AddToPlaylist
+",0
+746,Add:O this:O tune:B-music_item to:O This:B-playlist Is:I-playlist Nicky:I-playlist Jam:I-playlist ," AddToPlaylist
+",0
+8066,The:O book:B-object_type History:B-object_name by:I-object_name Contract:I-object_name is:O rated:O five:B-rating_value stars:B-rating_unit in:O my:O opinion.:O ," RateBook
+",4
+199,add:O this:O track:B-music_item to:O my:B-playlist_owner epic:B-playlist wall:I-playlist of:I-playlist sound:I-playlist playlist:O ," AddToPlaylist
+",0
+4478,Will:O there:O be:O a:O storm:B-condition_description in:O Aspinwall:B-city ?:O ," GetWeather
+",2
+4786,Will:O there:O be:O a:O blizzard:B-condition_description in:O Egypt:B-country on:O Jul.:B-timeRange 3:I-timeRange ?:O ," GetWeather
+",2
+3683,book:O a:O restaurant:B-restaurant_type in:O Puerto:B-state Rico:I-state ," BookRestaurant
+",1
+451,Add:O a:O tune:B-music_item to:O this:B-playlist is:I-playlist wagner:I-playlist ," AddToPlaylist
+",0
+7298,Play:O Praise:B-track The:I-track Lord:I-track And:I-track Pass:I-track The:I-track Ammunition:I-track .:O ," PlayMusic
+",3
+1805,put:O artist:B-music_item hridaynath:B-artist mangeshkar:I-artist onto:O my:B-playlist_owner night:B-playlist out:I-playlist playlist:O ," AddToPlaylist
+",0
+4333,What:O is:O the:O forecast:O in:O Heber:B-city ," GetWeather
+",2
+4561,"Tell:O me:O if:O it'll:O be:O freezing:B-condition_temperature in:B-timeRange 5:I-timeRange years:I-timeRange in:O Rockholds:B-city ,:O Norfolk:B-country Island:I-country "," GetWeather
+",2
+2698,I'd:O like:O to:O eat:O at:O a:O bar:B-restaurant_type that:O serves:O corn:B-served_dish relish:I-served_dish with:O a:O party:O of:O five:B-party_size_number ," BookRestaurant
+",1
+6227,Play:O some:O movement:B-music_item from:O 1959:B-year on:O deezer:B-service .:O ," PlayMusic
+",3
+405,add:O Adam:B-artist Yauch:I-artist to:O my:B-playlist_owner Spooning:B-playlist ," AddToPlaylist
+",0
+8946,I:O give:O the:O next:B-object_select novel:B-object_type two:B-rating_value stars:B-rating_unit ," RateBook
+",4
+771,put:O this:O dave:B-artist abbruzzese:I-artist tune:B-music_item on:O Family:B-playlist Road:I-playlist Trip:I-playlist ," AddToPlaylist
+",0
+1871,book:O a:O spot:O for:O 8:B-party_size_number at:O a:O popular:B-sort taverna:B-restaurant_type ," BookRestaurant
+",1
+5564,"Will:O it:O be:O windy:B-condition_description in:O Breaux:B-city Bridge:I-city ,:O Turks:B-country and:I-country Caicos:I-country Islands:I-country eleven:B-timeRange hours:I-timeRange from:I-timeRange now:I-timeRange ?:O "," GetWeather
+",2
+1053,add:O song:B-music_item to:O marta's:B-playlist_owner endorphin:B-playlist rush:I-playlist playlist:O ," AddToPlaylist
+",0
+2033,"Please:O book:O a:O restaurant:B-restaurant_type for:O party:O of:O 1:B-party_size_number in:O Seeley:B-city Lake:I-city on:O july:B-timeRange the:I-timeRange fourteenth,:I-timeRange 2022:I-timeRange .:O "," BookRestaurant
+",1
+4167,"Will:O there:O be:O a:O snowstorm:B-condition_description in:O Slick:B-city ,:O OR:B-state four:B-timeRange hours:I-timeRange from:I-timeRange now:I-timeRange ?:O "," GetWeather
+",2
+5532,Will:O it:O be:O warmer:B-condition_temperature at:O fourteen:B-timeRange o'clock:I-timeRange in:O Atlas:B-city Mongolia:B-country ," GetWeather
+",2
+8563,I:O give:O 4:B-rating_value of:O 6:B-best_rating stars:B-rating_unit for:O the:O saga:B-object_part_of_series_type A:B-object_name Severe:I-object_name Mercy:I-object_name ," RateBook
+",4
+931,Add:O nana:B-artist tanimura:I-artist to:O a:B-playlist sudden:I-playlist rainstorm:I-playlist ," AddToPlaylist
+",0
+5302,Will:O it:O be:O foggy:B-condition_description on:O the:O town:B-timeRange meeting:I-timeRange day:I-timeRange vermont:I-timeRange in:O Angola:B-country ," GetWeather
+",2
+7607,I:O want:O to:O give:O The:B-object_name Black:I-object_name Cloud:I-object_name one:B-rating_value points:B-rating_unit ," RateBook
+",4
+6510,play:O a:O symphonic:B-genre rock:I-genre on:O Pandora:B-service ," PlayMusic
+",3
+4972,At:O meal:B-timeRange time:O while:O I'm:O here:B-current_location will:O it:O be:O hot:B-condition_temperature ?:O ," GetWeather
+",2
+890,Add:O First:B-entity_name Issue:I-entity_name to:O my:B-playlist_owner your:B-playlist favorite:I-playlist slaughterhouse:I-playlist playlist:O ," AddToPlaylist
+",0
+3812,what:O is:O the:O Afternoon:B-timeRange forecast:O for:O Shannon:B-city and:O Pitcairn:B-country Islands:I-country ," GetWeather
+",2
+5205,will:O it:O be:O freezing:B-condition_temperature in:O New:B-city Ringgold:I-city Nebraska:B-state ," GetWeather
+",2
+4673,"Will:O it:O get:O chillier:B-condition_temperature in:O Arkinda:B-city ,:O Myanmar:B-country ?:O "," GetWeather
+",2
+6051,Play:O the:O greatest:B-sort soundtrack:B-music_item by:O Jesse:B-artist Harms:I-artist .:O ," PlayMusic
+",3
+3167,I:O need:O a:O table:O at:O The:B-restaurant_name Middle:I-restaurant_name East:I-restaurant_name in:O MN:B-state for:O a:O party:O of:O 6:B-party_size_number ," BookRestaurant
+",1
+4556,will:O it:O be:O warm:B-condition_temperature within:B-spatial_relation walking:I-spatial_relation distance:I-spatial_relation of:O Saint:B-country Pierre:I-country and:I-country Miquelon:I-country ," GetWeather
+",2
+1034,The:O Songs:B-playlist to:I-playlist Sing:I-playlist in:I-playlist the:I-playlist Car:I-playlist playlist:O needs:O k:B-artist j:I-artist yesudas:I-artist discography:I-artist in:O it.:O ," AddToPlaylist
+",0
+4495,what:O is:O the:O forecast:O for:O the:O current:B-current_location spot:I-current_location for:O cloudy:B-condition_description conditions:O ," GetWeather
+",2
+465,add:O this:O track:B-music_item by:O clem:B-artist burke:I-artist to:O my:B-playlist_owner atmospheric:B-playlist black:I-playlist metal:I-playlist playlist:O ," AddToPlaylist
+",0
+9050,Give:O this:B-object_select novel:B-object_type a:O rating:O of:O 1:B-rating_value points:B-rating_unit .:O ," RateBook
+",4
+2224,Please:O make:O reservations:O for:O me:B-party_size_description and:I-party_size_description my:I-party_size_description roommate:I-party_size_description somewhere:O in:O Bouvet:B-country Island:I-country ," BookRestaurant
+",1
+6974,play:O By:B-track The:I-track Sleepy:I-track Lagoon:I-track by:O Greg:B-artist Kurstin:I-artist ," PlayMusic
+",3
+1761,I'd:O like:O to:O put:O qriii:B-entity_name onto:O songs:B-playlist to:I-playlist sing:I-playlist in:I-playlist the:I-playlist car:I-playlist .:O ," AddToPlaylist
+",0
+2197,Book:O reservations:O at:O a:O :O for:O seven:B-party_size_number at:O a:O highly:B-sort rated:I-sort restaurant:B-restaurant_type that:O serves:O kosher:B-cuisine food:O in:O VI:B-state ," BookRestaurant
+",1
+5242,"On:O oct.:B-timeRange 26:I-timeRange ,:O I:O will:O need:O to:O make:O reservations:O to:O eat:O in:O Halibut:B-geographic_poi Point:I-geographic_poi State:I-geographic_poi Park:I-geographic_poi .:O "," GetWeather
+",2
+7115,Play:O music:O from:O 2015:B-year ," PlayMusic
+",3
+1621,Can:O you:O put:O a:O song:B-music_item by:O jessica:B-artist mauboy:I-artist on:O my:B-playlist_owner playlist:O entitled:O a:B-playlist sudden:I-playlist rainstorm:I-playlist ," AddToPlaylist
+",0
+6078,play:O an:O eighties:B-year track:B-music_item ," PlayMusic
+",3
+6229,Play:O me:O a:O 1990:B-year sound:B-music_item track:I-music_item ," PlayMusic
+",3
+8190,I:O would:O rate:O this:B-object_select essay:B-object_type 2:B-rating_value stars:B-rating_unit and:O a:O best:O rating:O of:O 6:B-best_rating ," RateBook
+",4
+5490,Is:O it:O warm:B-condition_temperature in:O West:B-city Monroe:I-city ," GetWeather
+",2
+1380,add:O album:B-music_item to:O metal:B-playlist overload:I-playlist playlist:O ," AddToPlaylist
+",0
+2966,I:O want:O to:O bring:O four:B-party_size_number people:O to:O a:O place:O that's:O close:B-spatial_relation to:O downtown:B-poi that:O serves:O churrascaria:B-restaurant_type cuisine.:O ," BookRestaurant
+",1
+3136,Book:O a:O joint:B-restaurant_type restaurant:I-restaurant_type for:O four:B-party_size_number with:O an:O outdoor:B-facility area:B-spatial_relation within:I-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation as:O Borough:B-poi de:I-poi Denali:I-poi ," BookRestaurant
+",1
+7116,play:O some:O sad:O songs:O from:O the:O fifties:B-year ," PlayMusic
+",3
+3289,book:O a:O spot:O for:O six:B-party_size_number at:O a:O restaurant:B-restaurant_type that:O serves:O fish:B-served_dish and:I-served_dish chips:I-served_dish ," BookRestaurant
+",1
+4997,Is:O it:O hot:B-condition_temperature in:O Round:B-city Hill:I-city HI:B-state ," GetWeather
+",2
+1174,Add:O another:O artist:B-music_item to:O my:B-playlist_owner soul:B-playlist bpm:I-playlist playlist:O ," AddToPlaylist
+",0
+3326,Need:O a:O booking:O for:O a:O party:O of:O five:B-party_size_number at:O a:O restaurant:B-restaurant_type in:O French:B-country Polynesia:I-country ," BookRestaurant
+",1
+5366,Weather:O for:O six:B-timeRange am:I-timeRange in:O SC:B-state ," GetWeather
+",2
+8719,Rate:O Religion:B-object_name and:I-object_name Dharma:I-object_name saga:B-object_part_of_series_type 1:B-rating_value points:B-rating_unit ," RateBook
+",4
+4196,Forecast:O for:O my:O current:B-current_location location:I-current_location at:O 6:B-timeRange ," GetWeather
+",2
+6637,play:O the:O top-twenty:B-sort margaret:B-artist becker:I-artist songs:O with:O google:B-service music:I-service ," PlayMusic
+",3
+8556,rate:O the:O book:B-object_type English:B-object_name Grammar:I-object_name In:I-object_name Use:I-object_name a:O five:B-rating_value ," RateBook
+",4
+9096,Rate:O Gota’s:B-object_name War:I-object_name a:O one:B-rating_value ," RateBook
+",4
+5559,"Is:O it:O going:O to:O be:O hot:B-condition_temperature on:O Oct.:B-timeRange the:I-timeRange 8th,:I-timeRange 2020:I-timeRange in:O the:O neighboring:B-spatial_relation Greenland:B-country area:B-spatial_relation "," GetWeather
+",2
+3490,I'd:O like:O to:O eat:O with:O a:O party:O of:O 8:B-party_size_number in:O Hitchita:B-city OR:B-state ," BookRestaurant
+",1
+5714,Play:O Bitch:B-track Please:I-track Ii:I-track from:O Julee:B-artist Cruise:I-artist on:O Iheart:B-service ," PlayMusic
+",3
+8736,I'd:O rate:O the:O current:B-object_select essay:B-object_type 1:B-rating_value stars:B-rating_unit ," RateBook
+",4
+8240,I:O want:O to:O give:O Science:B-object_name Fiction:I-object_name Adventures:I-object_name in:I-object_name Mutation:I-object_name 0:B-rating_value stars:B-rating_unit ," RateBook
+",4
+725,add:O rise:B-entity_name of:I-entity_name the:I-entity_name infidels:I-entity_name to:O my:B-playlist_owner bring:B-playlist back:I-playlist the:I-playlist 90s:I-playlist playlist:O ," AddToPlaylist
+",0
+4275,Will:O there:O be:O a:O blizzard:B-condition_description at:O a:O 4:B-timeRange AM:I-timeRange in:O Sky:B-city Valley:I-city ," GetWeather
+",2
+3218,Book:O a:O steakhouse:B-restaurant_type with:O a:O pool:B-facility for:O eight:B-party_size_number people.:O ," BookRestaurant
+",1
+3245,book:O a:O table:O for:O 10:B-party_size_number at:O a:O restaurant:B-restaurant_type in:O Federated:B-state States:I-state Of:I-state Micronesia:I-state ," BookRestaurant
+",1
+1637,Add:O a:O track:B-music_item from:O The:B-artist Edge:I-artist to:O my:B-playlist_owner funk:B-playlist soul:I-playlist disco:I-playlist playlist:O ," AddToPlaylist
+",0
+3281,"casey:B-party_size_description chavez,:I-party_size_description lucinda:I-party_size_description and:I-party_size_description karina:I-party_size_description want:O to:O eat:O at:O a:O diner:B-restaurant_type on:O december:B-timeRange the:I-timeRange 7th:I-timeRange "," BookRestaurant
+",1
+1447,Add:O Theater:B-entity_name to:O my:B-playlist_owner New:B-playlist Metal:I-playlist Tracks:I-playlist playlist:O ," AddToPlaylist
+",0
+7309,Play:O That:B-track Would:I-track Be:I-track Something:I-track by:O Eden:B-artist Ahbez:I-artist ," PlayMusic
+",3
+1960,"book:O a:O table:O at:O an:O oyster:B-restaurant_type bar:I-restaurant_type that:O serves:O apple:B-served_dish butter:I-served_dish on:O Jul.:B-timeRange 10th,:I-timeRange 2028:I-timeRange "," BookRestaurant
+",1
+115,add:O Black:B-entity_name Ribbons:I-entity_name to:O the:O autumn:B-playlist playlis:O ," AddToPlaylist
+",0
+5435,Will:O there:O be:O a:O cloud:B-condition_description in:O the:O sky:O in:O 175:B-timeRange days:I-timeRange from:I-timeRange now:I-timeRange in:O Golconda:B-city in:O VT:B-state ," GetWeather
+",2
+3316,book:O a:O spot:O at:O the:O best:B-sort steakhouse:B-restaurant_type in:O Florida:B-state ," BookRestaurant
+",1
+4118,"Will:O there:O be:O a:O lot:O of:O wind:B-condition_description far:B-spatial_relation away:O from:O here:B-current_location on:O Sep.:B-timeRange the:I-timeRange twenty-third,:I-timeRange 2021:I-timeRange "," GetWeather
+",2
+4798,what:O is:O the:O forecast:O for:O here:B-current_location ," GetWeather
+",2
+536,add:O Ghost:B-entity_name on:I-entity_name the:I-entity_name Dance:I-entity_name Floor:I-entity_name to:O my:B-playlist_owner Autumn:B-playlist Lounge:I-playlist playlist:O ," AddToPlaylist
+",0
+1299,Please:O include:O Emily:B-artist Remler:I-artist in:O Indie:B-playlist Bluegrass:I-playlist ," AddToPlaylist
+",0
+4406,Is:O it:O going:O to:O storm:B-condition_description in:O NE:B-state ," GetWeather
+",2
+6261,Play:O my:O entertaining:B-playlist playlist:O ," PlayMusic
+",3
+297,Can:O you:O add:O Honey:B-entity_name Hush:I-entity_name to:O hits:B-playlist of:I-playlist the:I-playlist 60s:I-playlist ," AddToPlaylist
+",0
+7878,I:O would:O give:O this:O current:B-object_select chronicle:B-object_part_of_series_type three:B-rating_value points:B-rating_unit ," RateBook
+",4
+7711,rate:O the:O current:B-object_select chronicle:B-object_part_of_series_type five:B-rating_value stars:B-rating_unit ," RateBook
+",4
+7074,play:O the:O greatest:B-sort 1972:B-year album:B-music_item by:O Wes:B-artist Dakus:I-artist ," PlayMusic
+",3
+1502,add:O repent:B-entity_name replenish:I-entity_name repeat:I-entity_name to:O Classical:B-playlist Moments:I-playlist in:I-playlist Movies:I-playlist ," AddToPlaylist
+",0
+8083,give:O 5:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit to:O Myths:B-object_name of:I-object_name the:I-object_name Hindus:I-object_name &:I-object_name Buddhists:I-object_name ," RateBook
+",4
+7983,Rate:O the:O current:B-object_select book:B-object_type 0:B-rating_value stars:B-rating_unit ," RateBook
+",4
+3074,I:O want:O to:O book:O a:O highly:B-sort rated:I-sort pizzeria:B-restaurant_type in:B-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation as:O tia's:B-poi house:I-poi ," BookRestaurant
+",1
+7283,play:O a:O tune:B-music_item from:O 1973:B-year ," PlayMusic
+",3
+1671,Add:O this:O artist:B-music_item to:O sleep:B-playlist tight:I-playlist ," AddToPlaylist
+",0
+8062,This:O current:B-object_select book:B-object_type should:O get:O four:B-rating_value stars:B-rating_unit or:O a:O rating:O of:O 6:B-best_rating ," RateBook
+",4
+4585,How:O will:O be:O the:O weather:O in:O Waltersville:B-city in:B-timeRange one:I-timeRange hour:I-timeRange ?:O ," GetWeather
+",2
+3993,What:O is:O the:O weather:O going:O to:O be:O at:O dinner:B-timeRange time:O in:O the:O Lake:B-geographic_poi Le-Aqua-Na:I-geographic_poi State:I-geographic_poi Recreation:I-geographic_poi Area:I-geographic_poi ," GetWeather
+",2
+8940,Rate:O The:B-object_name Rules:I-object_name of:I-object_name Survival:I-object_name a:O 5:B-rating_value value:O ," RateBook
+",4
+8133,the:O current:B-object_select saga:B-object_part_of_series_type gets:O 0:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+7184,Play:O some:O music:O from:O Victor:B-artist Kunonga:I-artist .:O ," PlayMusic
+",3
+5745,Play:O Miyavi:B-artist 's:O music:O from:O seventies:B-year on:O Google:B-service Music:I-service .:O ," PlayMusic
+",3
+6113,Play:O a:O 2004:B-year song:B-music_item by:O eliel:B-artist on:O Zvooq:B-service .:O ," PlayMusic
+",3
+1424,add:O the:O tune:B-music_item to:O my:B-playlist_owner viajes:B-playlist playlist:O ," AddToPlaylist
+",0
+2161,Need:O to:O book:O a:O reservtion:O for:O a:O restaurant:B-restaurant_type in:O Maryland:B-state for:O me:B-party_size_description and:I-party_size_description my:I-party_size_description half:I-party_size_description sister:I-party_size_description ," BookRestaurant
+",1
+384,Add:O Pimp:B-artist C:I-artist to:O my:B-playlist_owner workout:B-playlist remix:I-playlist .:O ," AddToPlaylist
+",0
+1854,book:O a:O restaurant:B-restaurant_type for:O me:B-party_size_description and:I-party_size_description my:I-party_size_description mother:I-party_size_description in:I-party_size_description law:I-party_size_description in:O Montserrat:B-country ," BookRestaurant
+",1
+6068,Play:O some:O alternative:B-genre music:O on:O Vimeo:B-service ," PlayMusic
+",3
+390,Can:O you:O please:O put:O this:O track:B-music_item onto:O my:B-playlist_owner TODO:B-playlist NOVEDADES:I-playlist playlist?:O ," AddToPlaylist
+",0
+4464,Please:O let:O me:O know:O the:O weather:O forcast:O of:O Stanislaus:B-geographic_poi National:I-geographic_poi Forest:I-geographic_poi far:B-spatial_relation in:B-timeRange nine:I-timeRange months:I-timeRange ," GetWeather
+",2
+3079,book:O The:B-restaurant_name Lake:I-restaurant_name House:I-restaurant_name for:O me:B-party_size_description and:I-party_size_description carmella:I-party_size_description ," BookRestaurant
+",1
+1663,Add:O this:O tune:B-music_item to:O the:O Leche:B-playlist con:I-playlist Chocolate:I-playlist playlist:O ," AddToPlaylist
+",0
+4738,"Is:O it:O warmer:B-condition_temperature now:B-timeRange in:O Wetumpka:B-city ,:O Mauritania:B-country ?:O "," GetWeather
+",2
+6620,I:O wish:O to:O hear:O the:O playlist:O Estado:B-playlist de:I-playlist ánimo:I-playlist on:O Last:B-service Fm:I-service .:O ," PlayMusic
+",3
+2375,book:O a:O spot:O at:O a:O steakhouse:B-restaurant_type with:O internet:B-facility ," BookRestaurant
+",1
+6532,Play:O an:O ep:B-music_item by:O Uncle:B-artist Jimmy:I-artist Thompson:I-artist ," PlayMusic
+",3
+5072,What's:O the:O weather:O like:O in:O Big:B-city Delta:I-city ," GetWeather
+",2
+8661,rate:O The:B-object_name Key:I-object_name Word:I-object_name and:I-object_name Other:I-object_name Mysteries:I-object_name 4:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+1065,Can:O my:B-playlist_owner electro:B-playlist sur:I-playlist have:O this:O song:B-music_item added:O to:O it?:O ," AddToPlaylist
+",0
+6443,Play:O music:O from:O 2016:B-year .:O ," PlayMusic
+",3
+4491,What:O is:O the:O weather:O in:O South:B-city Bradenton:I-city ," GetWeather
+",2
+8198,rate:O this:B-object_select book:B-object_type 2:B-rating_value of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+595,I:O want:O to:O add:O a:O song:B-music_item by:O jazz:B-playlist brasileiro:I-playlist ," AddToPlaylist
+",0
+183,Place:O Raise:B-entity_name Your:I-entity_name Fist:I-entity_name onto:O year:B-playlist in:I-playlist metal:I-playlist 2016:I-playlist .:O ," AddToPlaylist
+",0
+3203,I:O need:O a:O reservation:O for:O Blue:B-restaurant_name Ribbon:I-restaurant_name Barbecue:I-restaurant_name far:B-spatial_relation from:O NY:B-state for:O a:O party:O of:O 10:B-party_size_number ," BookRestaurant
+",1
+3535,I:O would:O like:O to:O book:O a:O donut:B-served_dish serving:O delicatessen:B-restaurant_type in:O Cuba:B-country for:O 5:B-party_size_number on:O april:B-timeRange eleventh:I-timeRange ," BookRestaurant
+",1
+1263,ad:O artist:B-music_item to:O sxsw:B-playlist latin:I-playlist my:B-playlist_owner playlist:O ," AddToPlaylist
+",0
+7407,"Play:O a:O tune:B-music_item or:O two:O from:O Kansas:B-artist City,:I-artist Missouri:I-artist "," PlayMusic
+",3
+7819,rate:O The:B-object_name Plutonium:I-object_name Files:I-object_name a:O five:B-rating_value ," RateBook
+",4
+6575,"Play:O some:O 2011:B-year chant:B-music_item music,:O new:B-sort first,:O by:O Shaggy:B-artist .:O "," PlayMusic
+",3
+7354,Can:O you:O play:O some:O music:O by:O andrew:B-artist diamond:I-artist ," PlayMusic
+",3
+8822,Please:O rate:O the:O current:B-object_select album:B-object_type 4:B-rating_value stars:B-rating_unit .:O ," RateBook
+",4
+1785,add:O sonntag:B-entity_name to:O my:B-playlist_owner Assassin's:B-playlist Creed:I-playlist ," AddToPlaylist
+",0
+8690,I:O give:O the:O current:B-object_select textbook:B-object_type 0:B-rating_value of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+3611,Book:O me:O seats:O for:O 6:B-party_size_number at:O a:O restaurant:B-restaurant_type in:O WV:B-state in:B-timeRange one:I-timeRange second:I-timeRange ," BookRestaurant
+",1
+4893,"hot:B-condition_temperature weather:O forecast:O for:O Pilar:B-city ,:O Réunion:B-country "," GetWeather
+",2
+9139,give:O this:B-object_select album:B-object_type a:O 4:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+82,add:O this:O artist:B-music_item to:O romántica:B-playlist ," AddToPlaylist
+",0
+2924,Find:O a:O reservation:O at:O Boone:B-restaurant_name Tavern:I-restaurant_name for:O 4:B-party_size_number people:O in:O 10:24:B-timeRange ," BookRestaurant
+",1
+1389,add:O this:O song:B-music_item to:O my:B-playlist_owner Canción:B-playlist del:I-playlist Día:I-playlist playlist:O ," AddToPlaylist
+",0
+147,add:O a:O new:B-playlist entry:O for:O mon:B-entity_name beau:I-entity_name sapin:I-entity_name in:O lela's:B-playlist_owner música:B-playlist libre:I-playlist playlist:O ," AddToPlaylist
+",0
+8107,rate:O this:O book:B-object_type called:O Kings:B-object_name of:I-object_name the:I-object_name High:I-object_name Frontier:I-object_name four:B-rating_value points:B-rating_unit ," RateBook
+",4
+6845,Play:O the:O most:B-sort popular:I-sort Grace:B-artist Slick:I-artist song:B-music_item that:O has:O a:O symphony:B-music_item sound:I-music_item ," PlayMusic
+",3
+8229,give:O 3:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit to:O The:B-object_name Secrets:I-object_name of:I-object_name Love:I-object_name ," RateBook
+",4
+1184,add:O agua:B-entity_name y:I-entity_name sal:I-entity_name in:O Classic:B-playlist Jazz:I-playlist Funk:I-playlist ," AddToPlaylist
+",0
+8851,Rate:O Gates:B-object_name of:I-object_name Fire:I-object_name a:O 2:B-rating_value ," RateBook
+",4
+8397,give:O 4:B-rating_value star:O for:O this:B-object_select album:B-object_type ," RateBook
+",4
+1897,Book:O table:O on:O the:O 23:B-timeRange in:O Illinois:B-state at:O the:O Maison:B-restaurant_name Parthenais-Perrault:I-restaurant_name II:I-restaurant_name .:O ," BookRestaurant
+",1
+5044,Is:O it:O going:O to:O be:O temperate:B-condition_temperature at:O six:B-timeRange am:I-timeRange in:O Washington:B-state ," GetWeather
+",2
+3451,"hannah:B-party_size_description lewis:I-party_size_description and:I-party_size_description chelsea:I-party_size_description want:O to:O go:O to:O a:O cafe:B-restaurant_type in:O Botswana:B-country on:O Apr.:B-timeRange the:I-timeRange seventeenth,:I-timeRange 2024:I-timeRange "," BookRestaurant
+",1
+8791,I:O want:O to:O give:O the:O current:B-object_select textbook:B-object_type 0:B-rating_value stars:B-rating_unit ," RateBook
+",4
+4989,forecast:O for:O Laguna:B-city Heights:I-city Barbados:B-country ," GetWeather
+",2
+2069,I:O want:O top-rated:B-sort veneto:B-cuisine cuisine:O at:O a:O restaurant:B-restaurant_type in:O Antietam:B-city for:O 2:B-party_size_number .:O ," BookRestaurant
+",1
+4701,Weather:O here:B-current_location at:O two:B-timeRange pm:I-timeRange ," GetWeather
+",2
+1513,Add:O tune:B-music_item to:O infinite:B-playlist indie:I-playlist folk:I-playlist ," AddToPlaylist
+",0
+839,insert:O Rock:B-playlist Me:I-playlist UP:I-playlist song:B-music_item to:O my:B-playlist_owner list:O ," AddToPlaylist
+",0
+3465,Book:O reservations:O for:O five:B-party_size_number at:O Eleven:B-restaurant_name Madison:I-restaurant_name Park:I-restaurant_name today:B-timeRange within:B-spatial_relation walking:I-spatial_relation distance:I-spatial_relation from:O Flaxton:B-city ," BookRestaurant
+",1
+661,Include:O golden:B-entity_name boy:I-entity_name in:O Pop:B-playlist Dance:I-playlist ," AddToPlaylist
+",0
+4589,Will:O it:O be:O snowy:B-condition_description in:O Parnell:B-city ?:O ," GetWeather
+",2
+1276,Add:O a:O Mary:B-artist Fahl:I-artist tune:B-music_item to:O the:O Pre-Party:B-playlist R&B:I-playlist Jams:I-playlist playlist.:O ," AddToPlaylist
+",0
+749,add:O album:B-music_item to:O my:B-playlist_owner piano:B-playlist ballads:I-playlist ," AddToPlaylist
+",0
+4139,Is:O it:O freezing:B-condition_temperature near:B-spatial_relation Medley:B-city ?:O ," GetWeather
+",2
+6498,Play:O theme:B-music_item music:O from:O 2011:B-year .:O ," PlayMusic
+",3
+6049,Play:O most:B-sort popular:I-sort from:O Nil:B-artist Burak:I-artist on:O Slacker:B-service ," PlayMusic
+",3
+585,add:O Días:B-entity_name Felices:I-entity_name to:O my:B-playlist_owner todo:B-playlist reggaeton:I-playlist playlist:O ," AddToPlaylist
+",0
+3040,I:O need:O to:O book:O a:O restaurant:B-restaurant_type for:O seven:B-party_size_number people:O at:O elevenses:B-timeRange Seafood:B-restaurant_name restaurant:I-restaurant_name ," BookRestaurant
+",1
+1351,Can:O you:O make:O an:O addition:O to:O the:O Old:B-playlist Enough:I-playlist To:I-playlist Enjoy:I-playlist This:I-playlist playlist:O with:O Martin:B-artist Barre:I-artist ?:O ," AddToPlaylist
+",0
+8561,Rate:O Tropic:B-object_name of:I-object_name Capricorn:I-object_name two:B-rating_value stars:B-rating_unit ," RateBook
+",4
+2281,I:O want:O to:O eat:O for:O two:B-party_size_number at:O a:O brasserie:B-restaurant_type in:O Gwynedd:B-city Valley:I-city TN:B-state with:O pickled:B-served_dish cucumber:I-served_dish in:B-timeRange one:I-timeRange second:I-timeRange ," BookRestaurant
+",1
+1875,book:O The:B-restaurant_name Kegs:I-restaurant_name Drive-In:I-restaurant_name in:B-timeRange 37:I-timeRange weeks:I-timeRange in:O Saudi:B-country Arabia:I-country ," BookRestaurant
+",1
+3415,I'd:O like:O a:O reservation:O for:O Thornbury:B-restaurant_name Castle:I-restaurant_name three:B-timeRange hours:I-timeRange from:I-timeRange now:I-timeRange in:O NM:B-state .:O ," BookRestaurant
+",1
+8050,I'd:O like:O to:O rate:O this:B-object_select textbook:B-object_type 4:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+4298,"What's:O the:O weather:O forecast:O for:O TN:B-state on:O december:B-timeRange seventh,:I-timeRange 2026:I-timeRange ?:O "," GetWeather
+",2
+8903,How:B-object_name do:O I:O rate:O the:O book:B-object_type White:B-object_name Teeth:I-object_name only:O 4:B-rating_value stars:B-rating_unit ?:O ," RateBook
+",4
+6748,Play:O music:O on:O Iheart:B-service ," PlayMusic
+",3
+5517,Is:O the:O forecast:O hot:B-condition_temperature in:B-timeRange 1:I-timeRange hour:I-timeRange in:O Leasburg:B-city ?:O ," GetWeather
+",2
+3853,"Find:O the:O weather:O prediction:O for:O Camdeboo-Nationalpark:B-geographic_poi for:O jan.:B-timeRange eleventh,:I-timeRange 2037:I-timeRange .:O "," GetWeather
+",2
+1848,Book:O a:O reservation:O for:O ten:B-party_size_number at:O a:O restaurant:B-restaurant_type in:O AMerican:B-state Samoa:I-state at:O 2:B-timeRange am:I-timeRange ," BookRestaurant
+",1
+8304,I:O think:O that:O this:B-object_select novel:B-object_type should:O get:O 2:B-rating_value points:B-rating_unit and:O a:O rating:O of:O 6:B-best_rating ," RateBook
+",4
+6198,I:O want:O to:O hear:O Sebastian:B-artist 's:O songs:O from:O the:O thirties:B-year on:O Youtube:B-service ," PlayMusic
+",3
+752,Put:O a:O track:B-music_item into:O my:B-playlist_owner Classic:B-playlist Country:I-playlist playlist.:O ," AddToPlaylist
+",0
+7910,rate:O Theodore:B-object_name Boone::I-object_name The:I-object_name Accused:I-object_name five:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+4059,How:O is:O the:O weather:O in:O Indian:B-city Creek:I-city Village:I-city ?:O ," GetWeather
+",2
+7648,give:O 1:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit to:O this:B-object_select novel:B-object_type ," RateBook
+",4
+6864,play:O 1977:B-year good:B-sort track:B-music_item tunes:O ," PlayMusic
+",3
+3027,Book:O a:O restaurant:B-restaurant_type for:O nine:B-party_size_number in:O South:B-country Sudan:I-country .:O ," BookRestaurant
+",1
+6842,I:O want:O to:O hear:O some:O acid:B-genre punk:I-genre music:O ," PlayMusic
+",3
+4443,Will:O it:O be:O sunny:B-condition_description in:O Corcovado:B-city Indonesia:B-country ?:O ," GetWeather
+",2
+3135,I:O want:O a:O table:O for:O eight:B-party_size_number in:O Yakima:B-city Rhode:B-state Island:I-state ," BookRestaurant
+",1
+2062,"Book:O a:O reservation:O at:O a:O restaurant:B-restaurant_type with:O me,:B-party_size_description matilda:I-party_size_description and:I-party_size_description deana:I-party_size_description "," BookRestaurant
+",1
+3053,I:O want:O to:O eat:O mezes:B-served_dish at:O the:O pub:B-restaurant_type for:O 1:B-party_size_number at:O four:B-timeRange PM:I-timeRange ," BookRestaurant
+",1
+1778,Add:O A:B-entity_name Gate:I-entity_name Through:I-entity_name Bloodstained:I-entity_name Mirrors:I-entity_name to:O feelin':B-playlist good:I-playlist playlist:O ," AddToPlaylist
+",0
+8174,Rate:O The:B-object_name Starship:I-object_name Trap:I-object_name 5:B-rating_value stars:B-rating_unit ," RateBook
+",4
+1990,Can:O you:O get:O me:O reservations:O for:O a:O highly:B-sort rated:I-sort restaurant:B-restaurant_type in:O Seychelles:B-country ," BookRestaurant
+",1
+7568,Rate:O this:B-object_select chronicle:B-object_part_of_series_type one:B-rating_value of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+3196,"I:O want:O to:O book:O the:O distant:B-spatial_relation downtown:B-poi Tribeca:B-restaurant_name Grill:I-restaurant_name for:O august:B-timeRange the:I-timeRange twenty-third,:I-timeRange 2025:I-timeRange for:O wilda:B-party_size_description and:I-party_size_description jacklyn:I-party_size_description "," BookRestaurant
+",1
+1302,Add:O album:B-music_item to:O princesas:B-playlist indie:I-playlist ," AddToPlaylist
+",0
+1252,Add:O Warm:B-entity_name and:I-entity_name Beautiful:I-entity_name to:O the:O ironing:B-playlist playlist.:O ," AddToPlaylist
+",0
+6343,Play:O Inventions:B-album For:I-album The:I-album New:I-album Season:I-album ," PlayMusic
+",3
+8632,rate:O the:O book:B-object_type series:B-object_part_of_series_type Sons:B-object_name of:I-object_name Destiny:I-object_name a:O five:B-rating_value ," RateBook
+",4
+8941,I:O would:O give:O The:B-object_name Northern:I-object_name Reaches:I-object_name a:O rating:O of:O one:B-rating_value ," RateBook
+",4
+6086,Can:O I:O hear:O the:O latest:B-sort music:O from:O Bahar:B-artist Kizil:I-artist ?:O ," PlayMusic
+",3
+2448,"book:O a:O table:O for:O me,:B-party_size_description leanne:I-party_size_description and:I-party_size_description tami:I-party_size_description at:O a:O restaurant:B-restaurant_type serving:O caucasian:B-cuisine food:B-restaurant_type "," BookRestaurant
+",1
+6155,play:O primus:B-genre ," PlayMusic
+",3
+826,please:O put:O Linzi:B-artist Stoppard:I-artist into:O my:B-playlist_owner sxsw:B-playlist fresh:I-playlist playlist:O ," AddToPlaylist
+",0
+1257,this:O track:B-music_item should:O go:O into:O my:B-playlist_owner playlist:O called:O This:B-playlist Is:I-playlist Beethoven:I-playlist ," AddToPlaylist
+",0
+8169,I:O would:O give:O Dead:B-object_name Man:I-object_name Falling:I-object_name 5:B-rating_value points:B-rating_unit and:O a:O best:O rating:O of:O 6:B-best_rating ," RateBook
+",4
+7445,I:O want:O to:O listen:O to:O Roger:B-artist Daltrey:I-artist from:O the:O sixties:B-year on:O slacker:B-service ," PlayMusic
+",3
+1811,add:O Daedelus:B-artist to:O my:B-playlist_owner Lazy:B-playlist Chill:I-playlist Afternoon:I-playlist ," AddToPlaylist
+",0
+8411,Rate:O Cuisines:B-object_name of:I-object_name the:I-object_name Axis:I-object_name of:I-object_name Evil:I-object_name and:I-object_name Other:I-object_name Irritating:I-object_name States:I-object_name one:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+2930,book:O a:O table:O for:O nine:B-timeRange PM:I-timeRange at:O a:O pub:B-restaurant_type in:O MA:B-state ," BookRestaurant
+",1
+4301,"Is:O it:O going:O to:O be:O freezing:B-condition_temperature at:O tea:B-timeRange time:O in:O Michigantown:B-city ,:O KS:B-state "," GetWeather
+",2
+1045,my:B-playlist_owner Disco:B-playlist Forever:I-playlist playlist:O needs:O an:O album:B-music_item by:O sawai:B-artist gandharva:I-artist .:O ," AddToPlaylist
+",0
+2065,I'd:O like:O to:O get:O reservations:O for:O four:B-party_size_number at:O a:O restaurant:B-restaurant_type that:O serves:O apple:B-served_dish sauce:I-served_dish .:O ," BookRestaurant
+",1
+824,Add:O the:O album:B-music_item to:O the:O fantasía:B-playlist playlist:O ," AddToPlaylist
+",0
+3417,I:O want:O to:O book:O a:O restaurant:B-restaurant_type far:B-spatial_relation from:O the:O Municipal:B-poi Borough:I-poi of:I-poi Mitcham:I-poi for:O 10:B-party_size_number people.:O ," BookRestaurant
+",1
+7970,For:O this:B-object_select essay:B-object_type I:O give:O a:O posiabble:O 3:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+2519,I:O need:O to:O book:O a:O table:O for:O five:B-party_size_number at:O the:O Crooked:B-restaurant_name House:I-restaurant_name of:I-restaurant_name Windsor:I-restaurant_name .:O ," BookRestaurant
+",1
+2122,Book:O me:O a:O table:O at:O the:O highly:B-sort rated:I-sort cafeteria:B-restaurant_type in:O Federated:B-state States:I-state Of:I-state Micronesia:I-state ," BookRestaurant
+",1
+5679,play:O Netflix:B-service tunes:O from:O 2003:B-year on:O an:O album:B-music_item ," PlayMusic
+",3
+1979,"Please:O find:O me:O a:O table:O at:O a:O place:O that:O serves:O glace:B-served_dish ,:O has:O room:O for:O six:B-party_size_number and:O a:O pub:B-restaurant_type atmosphere:O "," BookRestaurant
+",1
+542,I:O want:O to:O add:O an:O album:B-music_item to:O noreen's:B-playlist_owner endorphin:B-playlist rush:I-playlist playlist.:O ," AddToPlaylist
+",0
+897,I'd:O like:O to:O put:O Ryō:B-entity_name Yamazaki:I-entity_name onto:O my:B-playlist_owner sylvia:B-playlist plath:I-playlist playlist.:O ," AddToPlaylist
+",0
+5781,Play:O some:O music:O on:O Last:B-service Fm:I-service ," PlayMusic
+",3
+8947,Please:O rate:O The:B-object_name Lightning:I-object_name of:I-object_name August:I-object_name five:B-rating_value points:B-rating_unit .:O ," RateBook
+",4
+1762,Add:O album:B-music_item to:O Acoustic:B-playlist Spring:I-playlist ," AddToPlaylist
+",0
+284,Please:O add:O this:O this:O tune:B-music_item to:O the:O playlist:O this:B-playlist is:I-playlist selena:I-playlist ," AddToPlaylist
+",0
+4664,"How:O is:O the:O weather:O in:O Edesville:B-city ,:O MN:B-state ?:O "," GetWeather
+",2
+917,add:O Chris:B-artist Walla:I-artist to:O Trabajo:B-playlist Relax:I-playlist ," AddToPlaylist
+",0
+4545,Will:O it:O snow:B-condition_description in:O my:O current:B-current_location location:I-current_location ," GetWeather
+",2
+276,Add:O tune:B-music_item to:O cleaning:B-playlist the:I-playlist house:I-playlist ," AddToPlaylist
+",0
+7344,Play:O the:O track:B-music_item titled:O Faget:B-track ," PlayMusic
+",3
+5199,What's:O the:O weather:O in:O the:O U.S.:B-country Virgin:I-country Islands:I-country ," GetWeather
+",2
+3361,I:O want:O to:O take:O my:B-party_size_description bf:I-party_size_description and:I-party_size_description I:I-party_size_description to:O get:O some:O pain:B-served_dish perdu:I-served_dish from:O a:O food:B-restaurant_type truck:I-restaurant_type ," BookRestaurant
+",1
+2977,Book:O The:B-restaurant_name Oriel:I-restaurant_name in:O Allison:B-city for:O a:O party:O of:O four:B-party_size_number .:O ," BookRestaurant
+",1
+8584,give:O The:B-object_name Search:I-object_name for:I-object_name the:I-object_name Snow:I-object_name Leopard:I-object_name a:O rating:O of:O zero:B-rating_value of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+5189,Will:O there:O be:O sun:B-condition_description at:O four:B-timeRange PM:I-timeRange at:O Runkaus:B-geographic_poi Strict:I-geographic_poi Nature:I-geographic_poi Reserve:I-geographic_poi ," GetWeather
+",2
+2477,I:O would:O like:O to:O book:O a:O restaurant:B-restaurant_type for:O 9:B-party_size_number on:O Dec.:B-timeRange 13:I-timeRange ," BookRestaurant
+",1
+4376,Is:O it:O getting:O colder:B-condition_temperature in:O Leonard:B-geographic_poi Harrison:I-geographic_poi State:I-geographic_poi Park:I-geographic_poi ," GetWeather
+",2
+8261,I:O rate:O Step:B-object_name by:I-object_name Wicked:I-object_name Step:I-object_name 1:B-rating_value stars:B-rating_unit ," RateBook
+",4
+6447,"Play:O a:O 1969:B-year ballad:B-music_item by:O beth:B-artist nielsen:I-artist chapman:I-artist ,:O new:B-sort first.:O "," PlayMusic
+",3
+3572,Need:O a:O table:O for:O sep.:B-timeRange first:I-timeRange in:O Haiti:B-country for:O a:O party:O of:O three:B-party_size_number ," BookRestaurant
+",1
+2763,book:O a:O restaurant:B-restaurant_type on:O martin:B-timeRange luther:I-timeRange king:I-timeRange jr.:I-timeRange day:I-timeRange with:O parking:B-facility ," BookRestaurant
+",1
+8849,Give:O the:O Televised:B-object_name Morality:I-object_name series:B-object_part_of_series_type a:O one:B-rating_value .:O ," RateBook
+",4
+2633,Book:O osteria:B-restaurant_type restaurant:I-restaurant_type for:O 1:B-party_size_number person:O in:O MI:B-state .:O ," BookRestaurant
+",1
+1307,add:O als:B-entity_name het:I-entity_name om:I-entity_name de:I-entity_name liefde:I-entity_name gaat:I-entity_name to:O my:B-playlist_owner this:B-playlist is:I-playlist handel:I-playlist playlist:O ," AddToPlaylist
+",0
+7727,rate:O this:B-object_select book:B-object_type chronicle:B-object_part_of_series_type 1:B-rating_value points:B-rating_unit ," RateBook
+",4
+2607,I'd:O like:O to:O eat:O at:O a:O restaurant:B-restaurant_type one:B-timeRange minute:I-timeRange from:I-timeRange now:I-timeRange that's:O highly:B-sort rated:I-sort ," BookRestaurant
+",1
+3758,What:O will:O the:O weather:O be:O in:O Waverly:B-city City:I-city Brazil:B-country on:O Purple:B-timeRange Heart:I-timeRange Day:I-timeRange ?:O ," GetWeather
+",2
+4284,Is:O it:O snowy:B-condition_description in:O DeMotte:B-city MS:B-state ," GetWeather
+",2
+1157,add:O this:O artist:B-music_item to:O disco:B-playlist fever:I-playlist playlist:O ," AddToPlaylist
+",0
+3345,party:O of:O four:B-party_size_number somewhere:O in:O SD:B-state ," BookRestaurant
+",1
+3325,my:B-party_size_description brother:I-party_size_description in:I-party_size_description law:I-party_size_description and:I-party_size_description I:I-party_size_description would:O like:O to:O go:O to:O Guinea-Bissau:B-country for:O food:O ," BookRestaurant
+",1
+7734,Give:O The:B-object_name CIA:I-object_name and:I-object_name the:I-object_name Cult:I-object_name of:I-object_name Intelligence:I-object_name a:O rating:O of:O 5:B-rating_value .:O ," RateBook
+",4
+3723,Will:O it:O snowstorm:B-condition_description in:O Long:B-geographic_poi Lake:I-geographic_poi National:I-geographic_poi Wildlife:I-geographic_poi Refuge:I-geographic_poi ," GetWeather
+",2
+6614,Play:O new:B-sort movement:B-music_item from:O Mike:B-artist Oldfield:I-artist on:O Vimeo:B-service ," PlayMusic
+",3
+5698,Play:O eighties:B-year ," PlayMusic
+",3
+5962,Please:O play:O a:O song:B-music_item off:O the:O Curtis:B-artist Lee:I-artist album:B-music_item Rough:B-album Diamonds:I-album ," PlayMusic
+",3
+7856,"The:O book:B-object_type Choper,:B-object_name Coffee,:I-object_name Gilson:I-object_name should:O get:O a:O zero:B-rating_value "," RateBook
+",4
+9156,I:O give:O four:B-rating_value stars:B-rating_unit to:O this:B-object_select chronicle:B-object_part_of_series_type .:O ," RateBook
+",4
+7579,Rate:O The:B-object_name Warrior:I-object_name Prophet:I-object_name 3:B-rating_value of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+7456,Will:O you:O play:O my:O Nuestros:B-playlist 80:I-playlist playlist:O ," PlayMusic
+",3
+6245,Play:O Regulate…g:B-album Funk:I-album Era:I-album by:O artist:O Iouri:B-artist Bachmet:I-artist on:O groove:B-service shark:I-service ," PlayMusic
+",3
+5348,show:O weather:O forecast:O in:O Kenya:B-country ," GetWeather
+",2
+6707,Play:O a:O 2009:B-year concerto:B-music_item on:O Deezer:B-service .:O ," PlayMusic
+",3
+4049,what:O is:O the:O forecast:O for:O the:O distant:B-spatial_relation future:O in:O Sugar:B-city Bush:I-city ," GetWeather
+",2
+570,Place:O this:O tune:B-music_item onto:O my:B-playlist_owner dinner:B-playlist for:I-playlist 2:I-playlist playlist.:O ," AddToPlaylist
+",0
+3209,Get:O me:O a:O table:O at:O a:O bar:B-restaurant_type which:O has:O a:O spa:B-facility .:O ," BookRestaurant
+",1
+1450,add:O song:B-music_item to:O Zen:B-playlist Focus:I-playlist playlist:O ," AddToPlaylist
+",0
+6282,Play:O a:O 2013:B-year song:B-music_item on:O Groove:B-service Shark:I-service ," PlayMusic
+",3
+607,Can:O you:O add:O some:O disco:B-entity_name to:O my:B-playlist_owner playlist:O called:O Genuine:B-playlist R&B:I-playlist ," AddToPlaylist
+",0
+3280,I:O want:O a:O table:O for:O 5:B-party_size_number next:B-timeRange fall:I-timeRange om:O Curacao:B-country ," BookRestaurant
+",1
+4156,what:O is:O the:O weather:O of:O Nebraska:B-state ," GetWeather
+",2
+7152,turn:O on:O Last:B-service Fm:I-service ," PlayMusic
+",3
+2010,at:O 4:B-timeRange am:I-timeRange book:O a:O bar:B-restaurant_type in:O the:O spa:B-facility in:O Shamrock:B-city for:O eight:B-party_size_number ," BookRestaurant
+",1
+1852,Book:O a:O restaurant:B-restaurant_type in:O Swaziland:B-country in:B-timeRange 1:I-timeRange hour:I-timeRange .:O ," BookRestaurant
+",1
+3445,Book:O a:O table:O for:O 3:B-party_size_number at:O a:O top-rated:B-sort restaurant:B-restaurant_type .:O ," BookRestaurant
+",1
+8857,I:O give:O the:O following:B-object_select album:B-object_type two:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit .:O ," RateBook
+",4
+6679,Play:O top:B-sort music:O from:O Charles:B-artist L.:I-artist Johnson:I-artist on:O vimeo:B-service ," PlayMusic
+",3
+327,please:O put:O this:O song:B-music_item by:O nas:B-artist in:O my:B-playlist_owner Hype:B-playlist playlist:O ," AddToPlaylist
+",0
+1734,add:O olympia:B-entity_name 1959:I-entity_name to:O from:B-playlist the:I-playlist delta:I-playlist to:I-playlist chicago:I-playlist ," AddToPlaylist
+",0
+7176,have:O Zvooq:B-service play:O songs:O from:O the:O fifties:B-year ," PlayMusic
+",3
+7577,I:O wish:O to:O give:O this:B-object_select textbook:B-object_type a:O zero:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+3438,"Book:O something:O for:O my:B-party_size_description girlfriend:I-party_size_description and:I-party_size_description I:I-party_size_description at:O a:O food:B-restaurant_type truck:I-restaurant_type that:O has:O pizzas:B-served_dish in:O Brookwood:B-city on:O October:B-timeRange fifteenth,:I-timeRange 2020:I-timeRange "," BookRestaurant
+",1
+5688,Open:O pandora:B-service and:O play:O udhreko:B-track choli:I-track from:O Chowdiah:B-artist ," PlayMusic
+",3
+2563,"Book:O a:O restaurant:B-restaurant_type neighboring:B-spatial_relation IL:B-state for:O me,:B-party_size_description rachelle:I-party_size_description and:I-party_size_description wilda:I-party_size_description .:O "," BookRestaurant
+",1
+4586,what:O is:O the:O forecast:O for:O the:O current:B-current_location position:I-current_location ," GetWeather
+",2
+2279,Book:O the:O Fashion:B-restaurant_name Café:I-restaurant_name for:O elevenses:B-timeRange .:O ," BookRestaurant
+",1
+3900,I:O need:O the:O weather:O for:O 7/13/2036:B-timeRange in:O Gwynedd:B-city Valley:I-city ," GetWeather
+",2
+6252,Play:O music:O from:O 2012:B-year on:O Netflix:B-service .:O ," PlayMusic
+",3
+8380,give:O three:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit in:O current:B-object_select essay:B-object_type ," RateBook
+",4
+3169,I:O need:O a:O reservation:O for:O an:O indoor:B-facility restaurant:B-restaurant_type in:O China:B-country ," BookRestaurant
+",1
+8853,rate:O First:B-object_name Man::I-object_name The:I-object_name Life:I-object_name of:I-object_name Neil:I-object_name A.:I-object_name Armstrong:I-object_name three:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+139,add:O dan:B-artist the:I-artist automator:I-artist to:O forever:B-playlist country:I-playlist ," AddToPlaylist
+",0
+3745,How:O much:O rainfall:B-condition_description is:O there:O faraway:B-spatial_relation from:O Douglass:B-city ?:O ," GetWeather
+",2
+6655,Play:O thirties:B-year symphony:B-music_item music:O from:O Nigga:B-artist on:O Iheart:B-service ," PlayMusic
+",3
+4845,How:O will:O the:O weather:O be:O in:B-timeRange six:I-timeRange and:I-timeRange a:I-timeRange half:I-timeRange months:I-timeRange in:O CO:B-state ?:O ," GetWeather
+",2
+13,add:O megon:B-artist mcdonough:I-artist indie:B-playlist songs:I-playlist for:I-playlist slackers:I-playlist to:O my:B-playlist_owner playlist:O artist:B-music_item ," AddToPlaylist
+",0
+774,add:O this:O tune:B-music_item to:O the:O Deep:B-playlist Dark:I-playlist Indie:I-playlist Folk:I-playlist playlist:O ," AddToPlaylist
+",0
+3253,Book:O a:O table:O at:O a:O bar:B-restaurant_type in:O Cambodia:B-country that:O serves:O cheese:B-served_dish fries:I-served_dish .:O ," BookRestaurant
+",1
+2872,Book:O a:O table:O at:O South:B-restaurant_name Street:I-restaurant_name Diner:I-restaurant_name close:B-spatial_relation to:O your:B-poi teenager's:I-poi college:I-poi .:O ," BookRestaurant
+",1
+5782,Play:O the:O last:B-sort theme:B-music_item by:O Behzad:B-artist Mirkhani:I-artist .:O ," PlayMusic
+",3
+7017,play:O Asia:B-artist Nitollano:I-artist using:O itunes:B-service ," PlayMusic
+",3
+3646,i:O need:O to:O book:O a:O restaurant:B-restaurant_type for:O five:B-party_size_number in:O Liberia:B-country at:O The:B-restaurant_name Maisonette:I-restaurant_name ," BookRestaurant
+",1
+6052,Play:O some:O fifties:B-year music:O by:O Origa:B-artist .:O ," PlayMusic
+",3
+857,Add:O to:O my:B-playlist_owner playlist:O heavy:B-playlist gamer:I-playlist the:O name:O blaydon:B-entity_name races:I-entity_name ," AddToPlaylist
+",0
+4548,I'd:O like:O to:O know:O how:O the:O weather:O will:O be:O at:O 8:B-timeRange pm:I-timeRange in:O Tennessee:B-state .:O ," GetWeather
+",2
+2467,Book:O a:O restaurant:B-restaurant_type in:O Bouchon:B-restaurant_name for:O 1:B-party_size_number ," BookRestaurant
+",1
+8541,rate:O the:O Always:B-object_name Running:I-object_name series:B-object_part_of_series_type 0:B-rating_value points:B-rating_unit ," RateBook
+",4
+7472,Play:O the:O music:O of:O Tupac:B-artist Shakur:I-artist ," PlayMusic
+",3
+2879,"book:O a:O spot:O for:O marlene,:B-party_size_description jordan:I-party_size_description and:I-party_size_description I:I-party_size_description on:O oct.:B-timeRange the:I-timeRange 6th:I-timeRange "," BookRestaurant
+",1
+5225,Is:O there:O going:O to:O be:O a:O depression:B-condition_description two:B-timeRange hundred:I-timeRange sixteen:I-timeRange days:I-timeRange and:I-timeRange a:I-timeRange half:I-timeRange from:I-timeRange now:I-timeRange in:O Mill:B-geographic_poi Bluff:I-geographic_poi State:I-geographic_poi Park:I-geographic_poi ," GetWeather
+",2
+3697,book:O me:O a:O taverna:B-restaurant_type restaurant:I-restaurant_type ," BookRestaurant
+",1
+3233,Lets:O go:O to:O a:O steakhouse:B-restaurant_type before:O we:B-timeRange go:O to:O the:O pool:B-facility ," BookRestaurant
+",1
+807,add:O global:B-entity_name underground:I-entity_name 006:I-entity_name sydney:I-entity_name to:O my:B-playlist_owner Best:B-playlist Metal:I-playlist of:I-playlist the:I-playlist New:I-playlist Millennium:I-playlist ," AddToPlaylist
+",0
+8642,I:O give:O the:O next:B-object_select essay:B-object_type 4:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit .:O ," RateBook
+",4
+5059,what's:O the:O weather:O going:O tbe:O twenty:B-timeRange three:I-timeRange minutes:I-timeRange from:I-timeRange now:I-timeRange in:O Federico:B-geographic_poi Albert:I-geographic_poi National:I-geographic_poi Reserve:I-geographic_poi ," GetWeather
+",2
+4281,show:O weather:O forcast:O for:O T.H.:B-geographic_poi Stone:I-geographic_poi Memorial:I-geographic_poi St.:I-geographic_poi Joseph:I-geographic_poi Peninsula:I-geographic_poi State:I-geographic_poi Park:I-geographic_poi on:O one:B-timeRange hour:I-timeRange from:I-timeRange now:I-timeRange ," GetWeather
+",2
+5789,I:O want:O to:O listen:O to:O some:O Saori:B-artist Atsumi:I-artist from:O the:O twenties:B-year on:O Deezer:B-service ," PlayMusic
+",3
+4983,Will:O it:O storm:B-condition_description in:O North:B-city Sioux:I-city City:I-city AL:B-state ," GetWeather
+",2
+1243,add:O this:O track:B-music_item to:O my:B-playlist_owner Comedy:B-playlist New:I-playlist Releases:I-playlist ," AddToPlaylist
+",0
+7367,play:O robin:B-track hood:I-track and:I-track the:I-track bishop:I-track of:I-track hereford:I-track by:O Jon:B-artist Mayer:I-artist ," PlayMusic
+",3
+7291,play:O Sunshine:B-playlist Reggae:I-playlist on:O youtube:B-service ," PlayMusic
+",3
+7815,I:O would:O give:O this:B-object_select book:B-object_type a:O value:O of:O 2:B-rating_value and:O a:O best:O rating:O of:O 6:B-best_rating ," RateBook
+",4
+5040,Is:O there:O a:O snowstorm:B-condition_description coming:O to:O Ukraine:B-country ," GetWeather
+",2
+633,add:O Hemanta:B-artist Kumar:I-artist Mukhopadhyay:I-artist album:B-music_item in:O Funky:B-playlist Jams:I-playlist ," AddToPlaylist
+",0
+3937,Is:O it:O hotter:B-condition_temperature now:B-timeRange in:O Hicks:B-city ," GetWeather
+",2
+8111,give:O four:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit for:O this:B-object_select chronicle:B-object_part_of_series_type ," RateBook
+",4
+8347,I:O would:O give:O this:B-object_select textbook:B-object_type a:O rating:O of:O 0:B-rating_value and:O a:O best:O rating:O of:O 6:B-best_rating ," RateBook
+",4
+995,Add:O a:O tune:B-music_item to:O the:O Calm:B-playlist Vibes:I-playlist playlist.:O ," AddToPlaylist
+",0
+6471,play:O music:O by:O Bonobo:B-artist ," PlayMusic
+",3
+1233,add:O Olga:B-artist Souza:I-artist to:O virginia's:B-playlist_owner femme:B-playlist fatale:I-playlist playlist:O ," AddToPlaylist
+",0
+6233,play:O Lastfm:B-service pop:B-genre tunes:O ," PlayMusic
+",3
+106,Can:O you:O put:O in:B-entity_name person:I-entity_name at:I-entity_name carnegie:I-entity_name hall:I-entity_name on:O my:B-playlist_owner winter:B-playlist playlist:O ," AddToPlaylist
+",0
+8421,rate:O this:O book:B-object_type titled:O The:B-object_name Silver:I-object_name Chalice:I-object_name a:O 1:B-rating_value ," RateBook
+",4
+2759,I:O want:O to:O book:O at:O a:O pub:B-restaurant_type with:O parking:B-facility in:O Cuba:B-country .:O ," BookRestaurant
+",1
+4060,is:O it:O supposed:O to:O get:O colder:B-condition_temperature here:B-current_location on:O 12/28/2019:B-timeRange ," GetWeather
+",2
+1749,put:O once:B-entity_name bitten:I-entity_name twice:I-entity_name bitten:I-entity_name into:O the:B-playlist pulse:I-playlist of:I-playlist americana:I-playlist ," AddToPlaylist
+",0
+4649,Will:O weather:O conditions:O be:O stormy:B-condition_description here:B-current_location from:O 6/15/2025:B-timeRange onward.:O ," GetWeather
+",2
+8246,The:O Half-Life:B-object_name chronicle:B-object_part_of_series_type deserves:O 3:B-rating_value points:B-rating_unit ," RateBook
+",4
+6402,Play:O some:O seventies:B-year track:B-music_item from:O top:B-sort Rie:B-artist Tomosaka:I-artist ," PlayMusic
+",3
+157,add:O the:O album:B-music_item to:O my:B-playlist_owner Latin:B-playlist Pop:I-playlist Rising:I-playlist playlist:O ," AddToPlaylist
+",0
+3593,book:O a:O spot:O in:O MI:B-state ," BookRestaurant
+",1
+4219,What's:O the:O weather:O at:O four:B-timeRange pm:I-timeRange in:O Honduras:B-country ," GetWeather
+",2
+3373,I:O want:O to:O take:O four:B-party_size_number friends:O to:O the:O pub:B-restaurant_type for:O some:O tuna:B-served_dish casserole:I-served_dish ," BookRestaurant
+",1
+6243,play:O the:O top:B-sort nineties:B-year melody:B-music_item by:O Gus:B-artist G:I-artist ," PlayMusic
+",3
+4383,What's:O the:O weather:O in:O Low:B-city Moor:I-city ," GetWeather
+",2
+2068,I:O need:O reservations:O at:O a:O restaurant:B-restaurant_type at:O 20:B-timeRange o'clock:I-timeRange in:O FM:B-state ," BookRestaurant
+",1
+6538,play:O ep:B-music_item by:O Arjen:B-artist Anthony:I-artist Lucassen:I-artist ," PlayMusic
+",3
+6699,Play:O breathtaking:B-playlist music:O ," PlayMusic
+",3
+127,put:O this:O tune:B-music_item on:O my:B-playlist_owner your:B-playlist favorite:I-playlist coffeehouse:I-playlist playlist:O ," AddToPlaylist
+",0
+1506,Add:O unreachable:B-entity_name to:O my:B-playlist_owner wine:B-playlist &:I-playlist dine:I-playlist playlist.:O ," AddToPlaylist
+",0
+566,Add:O the:O artist:B-music_item Michael:B-artist Schenker:I-artist to:O ina's:B-playlist_owner this:B-playlist is:I-playlist jennifer:I-playlist lopez:I-playlist playlist:O ," AddToPlaylist
+",0
+2383,Book:O a:O steakhouse:B-restaurant_type with:O a:O spa:B-facility for:O seven:B-party_size_number people.:O ," BookRestaurant
+",1
+3240,book:O a:O table:O for:O 3:B-party_size_number far:B-spatial_relation from:O Tullytown:B-poi at:O a:O coffeehouse:B-restaurant_type with:O a:O smoking:B-facility room:I-facility ," BookRestaurant
+",1
+1137,Add:O Sweet:B-entity_name Black:I-entity_name Angel:I-entity_name to:O my:B-playlist_owner Diarios:B-playlist de:I-playlist Bicicleta:I-playlist playlist:O ," AddToPlaylist
+",0
+141,put:O this:O song:B-music_item by:O rayvon:B-artist on:O my:B-playlist_owner all:B-playlist out:I-playlist 80s:I-playlist playlist:O ," AddToPlaylist
+",0
+1438,I'd:O like:O t:O add:O Day:B-entity_name After:I-entity_name Day:I-entity_name to:O evangeline's:B-playlist_owner Party:B-playlist of:I-playlist the:I-playlist Century:I-playlist playlist:O ," AddToPlaylist
+",0
+664,Add:O a:O Tom:B-artist Thacker:I-artist tune:B-music_item to:O my:B-playlist_owner rock:B-playlist classics:I-playlist ," AddToPlaylist
+",0
+1655,Add:O Don:B-entity_name and:I-entity_name Sherri:I-entity_name to:O the:O electrosafari:B-playlist playlist.:O ," AddToPlaylist
+",0
+3986,Tell:O me:O if:O it:O will:O storm:B-condition_description at:O my:O current:B-current_location location:I-current_location ," GetWeather
+",2
+3943,What:O is:O the:O weather:O forecast:O for:O Friona:B-city ?:O ," GetWeather
+",2
+4391,What:O will:O the:O weather:O be:O in:O Virginia:B-state ?:O ," GetWeather
+",2
+4474,"is:O it:O going:O to:O be:O chillier:B-condition_temperature in:O Saint:B-city Augustine:I-city ,:O WY:B-state on:O may:B-timeRange 3rd:I-timeRange "," GetWeather
+",2
+6661,Play:O me:O a:O tune:B-music_item by:O Mick:B-artist Brown:I-artist ," PlayMusic
+",3
+2363,Find:O a:O reservation:O for:O three:B-party_size_number in:O Ansonia:B-city MI:B-state ," BookRestaurant
+",1
+513,add:O Eric:B-artist Bibb:I-artist to:O Country:B-playlist Coffeehouse:I-playlist ," AddToPlaylist
+",0
+8548,rate:O Cock:B-object_name and:I-object_name Bull:I-object_name 5:B-rating_value of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+2566,Book:O a:O table:O for:O mamie:B-party_size_description and:I-party_size_description maria:I-party_size_description at:O a:O south:B-cuisine tyrolean:I-cuisine restaurant:B-restaurant_type within:B-spatial_relation walking:I-spatial_relation distance:I-spatial_relation from:O Fisk:B-poi Av-69th:I-poi St:I-poi .:O ," BookRestaurant
+",1
+7829,I:O would:O give:O this:B-object_select chronicle:B-object_part_of_series_type 0:B-rating_value stars:B-rating_unit ," RateBook
+",4
+5021,"Can:O you:O tell:O me:O the:O forecast:O for:O East:B-city Falmouth:I-city ,:O Hungary:B-country "," GetWeather
+",2
+6998,I:O want:O to:O hear:O symphony:B-music_item songs:O from:O Rebecca:B-artist Cartwright:I-artist on:O Last:B-service Fm:I-service ," PlayMusic
+",3
+7638,I:O give:O The:B-object_name Elegant:I-object_name Universe:I-object_name five:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+855,Add:O Sifow:B-artist to:O my:B-playlist_owner Skatepark:B-playlist Punks:I-playlist playlist:O ," AddToPlaylist
+",0
+1057,Add:O ilse:B-artist delange:I-artist to:O my:B-playlist_owner journey:B-playlist playlist:O ," AddToPlaylist
+",0
+1592,Add:O an:O album:B-music_item to:O my:B-playlist_owner list:O clásicos:B-playlist de:I-playlist fogata:I-playlist ," AddToPlaylist
+",0
+3783,What's:O the:O weather:O like:O in:O Forty:B-city Fort:I-city ," GetWeather
+",2
+1109,Please:O put:O David:B-artist Van:I-artist Tieghem:I-artist onto:O my:B-playlist_owner throwback:B-playlist party:I-playlist playlist.:O ," AddToPlaylist
+",0
+997,Add:O Paul:B-artist Young:I-artist to:O my:B-playlist_owner Retrovisor:B-playlist ," AddToPlaylist
+",0
+6701,play:O 1960:B-year chant:B-music_item music:O by:O Hermann:B-artist Baumann:I-artist ," PlayMusic
+",3
+9094,Rate:O the:O current:B-object_select novel:B-object_type five:B-rating_value of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+2716,Book:O a:O restasurant:O in:O Pohick:B-city Delaware:B-state .:O ," BookRestaurant
+",1
+4168,"What:O will:O the:O temperature:O be:O like:O at:O Fort:B-geographic_poi Point,:I-geographic_poi San:I-geographic_poi Francisco:I-geographic_poi the:B-timeRange day:I-timeRange after:I-timeRange tomorrow:I-timeRange "," GetWeather
+",2
+8095,Rate:O A:B-object_name Battle:I-object_name of:I-object_name Nerves:I-object_name three:B-rating_value stars:B-rating_unit out:O of:O 6:B-best_rating ," RateBook
+",4
+2594,book:O a:O spot:O at:O a:O crab:B-served_dish restaurant:B-restaurant_type ," BookRestaurant
+",1
+959,put:O playa:B-artist fly:I-artist onto:O my:B-playlist_owner 2010:B-playlist Decade:I-playlist playlist:O ," AddToPlaylist
+",0
+1461,Add:O por:B-entity_name tu:I-entity_name maldito:I-entity_name amor:I-entity_name to:O my:B-playlist_owner orgullo:B-playlist gay:I-playlist ," AddToPlaylist
+",0
+1712,Add:O Raisins:B-entity_name secs:I-entity_name et:I-entity_name amandes:I-entity_name to:O this:B-playlist is:I-playlist new:I-playlist edition:I-playlist ," AddToPlaylist
+",0
+8406,I:O give:O The:B-object_name Savage:I-object_name Mind:I-object_name a:O rating:O of:O zero:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit .:O ," RateBook
+",4
+2408,Can:O you:O get:O me:O seating:O at:O a:O pub:B-restaurant_type in:O South:B-country Korea:I-country that:O serves:O milk:B-served_dish toast:I-served_dish for:O supper:B-timeRange ," BookRestaurant
+",1
+7006,I:O want:O to:O hear:O some:O Boris:B-artist Grebenchtchikov:I-artist on:O Zvooq:B-service ," PlayMusic
+",3
+2073,Please:O book:O reservations:O for:O 3:B-party_size_number people:O at:O a:O restaurant:B-restaurant_type in:O Alderwood:B-city Manor:I-city ," BookRestaurant
+",1
+3358,book:O a:O restaurant:B-restaurant_type for:O tortelloni:B-served_dish for:O eight:B-party_size_number ," BookRestaurant
+",1
+2119,"book:O a:O restaurant:B-restaurant_type in:O Fort:B-city Gates:I-city ,:O FL:B-state "," BookRestaurant
+",1
+4844,what:O is:O the:O weather:O of:O Ludowici:B-city at:O 4:B-timeRange am:I-timeRange ," GetWeather
+",2
+4654,What:O is:O the:O weather:O like:O within:B-spatial_relation walking:I-spatial_relation distance:I-spatial_relation of:O the:O Bothwell:B-geographic_poi Lodge:I-geographic_poi State:I-geographic_poi Historic:I-geographic_poi Site:I-geographic_poi ," GetWeather
+",2
+2561,Book:O a:O reservation:O for:O nine:B-party_size_number at:O an:O outdoor:B-facility restaurant:B-restaurant_type ," BookRestaurant
+",1
+6728,Play:O music:O on:O Spotify:B-service .:O ," PlayMusic
+",3
+7880,rate:O the:O current:B-object_select book:B-object_type novel:I-object_type 5:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+311,Put:O Beside:B-entity_name You:I-entity_name in:O my:B-playlist_owner spotify:B-playlist orchestra:I-playlist cello:I-playlist playlist.:O ," AddToPlaylist
+",0
+3072,"I'm:O looking:O to:O book:O a:O table:O at:O a:O place:O in:O Newton:B-city Falls:I-city ,:O prefereably:O within:B-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation that:O has:O space:O for:O 6:B-party_size_number "," BookRestaurant
+",1
+160,Add:O this:O tune:B-music_item to:O the:O Heavy:B-playlist Gamer:I-playlist playlist.:O ," AddToPlaylist
+",0
+7504,Use:O Groove:B-service Shark:I-service to:O play:O Krizz:B-artist Kaliko:I-artist ," PlayMusic
+",3
+7462,Play:O a:O song:B-music_item from:O 2003:B-year ," PlayMusic
+",3
+6309,play:O Zvooq:B-service latest:B-sort track:B-music_item by:O Peter:B-artist Appleyard:I-artist ," PlayMusic
+",3
+1750,Add:O another:O MC:B-artist chris:I-artist track:B-music_item to:O my:B-playlist_owner Blues:B-playlist Roots:I-playlist playlist.:O ," AddToPlaylist
+",0
+475,Add:O moby:B-entity_name grape:I-entity_name live:I-entity_name to:O enamorándose:B-playlist ," AddToPlaylist
+",0
+7751,I:O am:O giving:O this:O current:B-object_select book:B-object_type under:O the:O series:B-object_part_of_series_type section:O one:B-rating_value stars:B-rating_unit ," RateBook
+",4
+4346,what:O is:O the:O weather:O forecast:O in:B-timeRange 11:I-timeRange seconds:I-timeRange for:O Frederick:B-geographic_poi Douglass:I-geographic_poi National:I-geographic_poi Historic:I-geographic_poi Site:I-geographic_poi ," GetWeather
+",2
+1656,Add:O Barry:B-artist McGuire:I-artist to:O my:B-playlist_owner playlist:O called:O have:B-playlist a:I-playlist laugh:I-playlist .:O ," AddToPlaylist
+",0
+3702,I'd:O like:O a:O table:O for:O eight:B-party_size_number at:O a:O close-by:B-spatial_relation place:O in:O Carpenterville:B-city ," BookRestaurant
+",1
+6004,Play:O me:O a:O song:B-music_item from:O 1968:B-year on:O Spotify:B-service ," PlayMusic
+",3
+3963,What:O weather:O will:O HI:B-state have:O will:O there:O be:O hail:B-condition_description twenty:B-timeRange one:I-timeRange minutes:I-timeRange from:I-timeRange now:I-timeRange ," GetWeather
+",2
+3485,Book:O a:O restaurant:B-restaurant_type in:O Palau:B-state for:O two:B-party_size_number people.:O ," BookRestaurant
+",1
+4617,Will:O there:O be:O a:O blizzard:B-condition_description next:B-timeRange friday:I-timeRange close:B-spatial_relation in:O TN:B-state ?:O ," GetWeather
+",2
+8867,The:O current:B-object_select novel:B-object_type I'm:O reading:O gets:O only:O a:O one:B-rating_value out:O of:O 6:B-best_rating .:O ," RateBook
+",4
+4251,Warren:B-geographic_poi Island:I-geographic_poi State:I-geographic_poi Park:I-geographic_poi distant:B-spatial_relation Weather:O forecast:O for:O 11:B-timeRange am:I-timeRange ," GetWeather
+",2
+8748,Rate:O The:B-object_name Bishop:I-object_name a:O 1:B-rating_value ," RateBook
+",4
+956,Add:O louis:B-artist nelson:I-artist delisle:I-artist to:O the:B-playlist pulse:I-playlist of:I-playlist americana:I-playlist ," AddToPlaylist
+",0
+3672,Book:O a:O restaurant:B-restaurant_type in:O Gate:B-city City:I-city for:O 5:B-party_size_number people.:O ," BookRestaurant
+",1
+2037,Reserve:O a:O table:O for:O teresa:B-party_size_description and:I-party_size_description elnora:I-party_size_description at:O a:O fast:B-restaurant_type food:I-restaurant_type joint:I-restaurant_type which:O serves:O fish:B-served_dish and:I-served_dish chips:I-served_dish ," BookRestaurant
+",1
+3757,Will:O it:O be:O colder:B-condition_temperature in:O Litchfield:B-city ," GetWeather
+",2
+6576,Play:O me:O a:O Xuefei:B-artist Yang:I-artist symphony:B-music_item on:O Groove:B-service Shark:I-service ," PlayMusic
+",3
+8575,rate:O The:B-object_name White:I-object_name Goddess:I-object_name 2:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+4211,How:O cold:B-condition_temperature is:O it:O in:O my:O current:B-current_location position:I-current_location ?:O ," GetWeather
+",2
+4963,what:O is:O the:O forecast:O for:O Sanilac:B-geographic_poi Petroglyphs:I-geographic_poi Historic:I-geographic_poi State:I-geographic_poi Park:I-geographic_poi ," GetWeather
+",2
+5671,I:O want:O to:O hear:O the:O newest:B-sort music:O from:O The:B-artist Railway:I-artist Children:I-artist ," PlayMusic
+",3
+2556,book:O John:B-restaurant_name Pearson:I-restaurant_name Soda:I-restaurant_name Works:I-restaurant_name restaurant:B-restaurant_type on:O 7/27/2036:B-timeRange ," BookRestaurant
+",1
+1516,add:O my:B-entity_name hands:I-entity_name to:O travelling:B-playlist playlist:O ," AddToPlaylist
+",0
+8020,Rate:O The:B-object_name Life:I-object_name and:I-object_name Loves:I-object_name of:I-object_name a:I-object_name She-Devil:I-object_name two:B-rating_value stars:B-rating_unit ," RateBook
+",4
+4863,"Check:O the:O forecast:O for:O Fernwood:B-city ,:O MT:B-state .:O "," GetWeather
+",2
+1095,add:O this:O tune:B-music_item to:O my:B-playlist_owner Dance:B-playlist playlist:O ," AddToPlaylist
+",0
+6010,play:O zvooq:B-service Southern:B-playlist Gothic:I-playlist ," PlayMusic
+",3
+862,Add:O this:O piece:O to:O my:B-playlist_owner spotify:B-playlist orchestra:I-playlist cello:I-playlist playlist::O colors:B-entity_name of:I-entity_name the:I-entity_name wind:I-entity_name ," AddToPlaylist
+",0
+6833,Play:O the:O album:B-music_item Have:B-album Another:I-album Ball:I-album ," PlayMusic
+",3
+2360,"nancy,:B-party_size_description elma:I-party_size_description ruiz:I-party_size_description and:I-party_size_description molly:I-party_size_description want:O to:O eat:O at:O a:O restaurant:B-restaurant_type in:O Gibraltar:B-country "," BookRestaurant
+",1
+8586,rate:O this:B-object_select novel:B-object_type zero:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+8116,Rate:O Seeing:B-object_name with:I-object_name the:I-object_name Eyes:I-object_name of:I-object_name Love:I-object_name 5:B-rating_value points:B-rating_unit ," RateBook
+",4
+1417,Add:O this:O track:B-music_item to:O my:B-playlist_owner This:B-playlist Is:I-playlist Thomas:I-playlist Rhett:I-playlist playlist:O ," AddToPlaylist
+",0
+5949,play:O a:O 1983:B-year concerto:B-music_item by:O Ayaka:B-artist on:O Itunes:B-service ," PlayMusic
+",3
+577,add:O this:O song:B-music_item to:O the:O Pre-Party:B-playlist playlist:O ," AddToPlaylist
+",0
+2516,Can:O you:O get:O a:O table:O at:O The:B-restaurant_name Triple:I-restaurant_name Door:I-restaurant_name in:O District:B-state Of:I-state Columbia:I-state for:O me:B-party_size_description and:I-party_size_description deborah:I-party_size_description vasquez:I-party_size_description ," BookRestaurant
+",1
+6462,Play:O a:O song:B-music_item from:O my:O workout:B-playlist playlist:O on:O Groove:B-service Shark:I-service ," PlayMusic
+",3
+5852,I'd:O like:O to:O hear:O songs:O from:O Iheart:B-service ," PlayMusic
+",3
+1249,add:O banking:B-entity_name violence:I-entity_name and:I-entity_name the:I-entity_name inner:I-entity_name life:I-entity_name today:I-entity_name to:O my:B-playlist_owner retro:B-playlist gaming:I-playlist playlist:O ," AddToPlaylist
+",0
+6698,Play:O some:O acapella:B-genre music:O ," PlayMusic
+",3
+1961,book:O a:O restaurant:B-restaurant_type for:O 4:B-party_size_number that's:O not:B-spatial_relation far:I-spatial_relation from:O CA:B-state ," BookRestaurant
+",1
+1918,Book:O a:O table:O for:O 2:B-party_size_number at:O the:O Seward:B-restaurant_name Community:I-restaurant_name Cafe:I-restaurant_name within:B-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation in:O Shabbona:B-city ," BookRestaurant
+",1
+3351,Book:O me:O an:O indoor:B-facility pub:B-restaurant_type in:O Jersey:B-country ," BookRestaurant
+",1
+472,add:O Michael:B-artist Hayvoronsky:I-artist to:O Lo:B-playlist Que:I-playlist Suena:I-playlist Los:I-playlist Angeles:I-playlist ," AddToPlaylist
+",0
+7486,Play:O music:O by:O Fidel:B-artist Nadal:I-artist sorted:O by:O newest:B-sort .:O ," PlayMusic
+",3
+7323,I:O want:O to:O hear:O music:O off:O my:O Indie:B-playlist Festival:I-playlist playlist:O ," PlayMusic
+",3
+3038,I'd:O like:O to:O eat:O in:B-timeRange 1:I-timeRange minute:I-timeRange at:O a:O neighboring:B-spatial_relation neighborhood:B-poi restaurant:B-restaurant_type ," BookRestaurant
+",1
+5469,What:O is:O the:O weather:O supposed:O to:O be:O like:O in:O New:B-state Jersey:I-state three:B-timeRange months:I-timeRange from:I-timeRange now:I-timeRange ," GetWeather
+",2
+5990,Play:O Techno:B-genre on:O Lastfm:B-service ," PlayMusic
+",3
+6593,PLay:O some:O fourties:B-year music:O from:O Erin:B-artist Harkes:I-artist ," PlayMusic
+",3
+260,go:O ahead:O and:O add:O blowfly:B-artist to:O my:B-playlist_owner This:B-playlist Is:I-playlist Schubert:I-playlist list:O ," AddToPlaylist
+",0
+2050,Book:O a:O restaurant:B-restaurant_type for:O 3:B-party_size_number people:O at:O eighteen:B-timeRange oclock:O in:O Saint:B-country Vincent:I-country and:I-country the:I-country Grenadines:I-country .:O ," BookRestaurant
+",1
+3630,I:O need:O a:O table:O for:O six:B-party_size_number near:B-spatial_relation the:O Russia:B-country bistro:B-restaurant_type that:O has:O wifi:B-facility ," BookRestaurant
+",1
+3559,Book:O a:O table:O for:O ten:B-party_size_number people:O at:O a:O restaurant:B-restaurant_type which:O serves:O snack:B-served_dish .:O ," BookRestaurant
+",1
+6264,Play:O music:O from:O 2007:B-year .:O ," PlayMusic
+",3
+6400,Play:O some:O Robbie:B-artist Merrill:I-artist .:O ," PlayMusic
+",3
+6598,Play:O Spotify:B-service ," PlayMusic
+",3
+7362,play:O latest:B-sort Shaggy:B-artist music:O ," PlayMusic
+",3
+293,Please:O put:O the:O album:B-music_item onto:O fresh:B-playlist folk:I-playlist .:O ," AddToPlaylist
+",0
+970,I:O want:O you:O to:O add:O the:O currently:O playing:O This:B-entity_name Generation:I-entity_name into:O my:B-playlist_owner playlist:O called:O funtime:B-playlist activity:I-playlist ," AddToPlaylist
+",0
+3625,Can:O you:O get:O seating:O for:O a:O group:O of:O 6:B-party_size_number at:O twenty:B-timeRange o'clock:I-timeRange at:O a:O restaurant:B-restaurant_type and:O spa:B-facility faraway:B-spatial_relation from:O Palmyra:B-poi ," BookRestaurant
+",1
+4293,What's:O the:O weather:O here:B-current_location ," GetWeather
+",2
+3156,Book:O a:O restaurant:B-restaurant_type this:B-timeRange year:I-timeRange for:O party:O of:O 2:B-party_size_number ," BookRestaurant
+",1
+6286,Play:O Giovanni:B-artist Battista:I-artist Guadagnini:I-artist 's:O 1982:B-year tracks:B-playlist .:O ," PlayMusic
+",3
+7790,give:O one:B-rating_value out:O of:O 6:B-best_rating to:O Encyclopedia:B-object_name Magica:I-object_name chronicle:B-object_part_of_series_type ," RateBook
+",4
+4071,Is:O it:O chilly:B-condition_temperature in:O Ecola:B-geographic_poi State:I-geographic_poi Park:I-geographic_poi at:O 2:B-timeRange pm:I-timeRange ," GetWeather
+",2
+1529,this:O tune:B-music_item should:O go:O on:O my:B-playlist_owner coffee:B-playlist table:I-playlist jazz:I-playlist playlist:O ," AddToPlaylist
+",0
+2670,Book:O a:O restaurant:B-restaurant_type in:O FL:B-state in:O the:O city:O of:O Lochearn:B-city for:O my:B-party_size_description step:I-party_size_description son:I-party_size_description and:I-party_size_description I:I-party_size_description ," BookRestaurant
+",1
+2504,I:O need:O a:O table:O for:O 8:B-party_size_number people:O at:O a:O restaurant:B-restaurant_type in:O District:B-state Of:I-state Columbia:I-state .:O ," BookRestaurant
+",1
+26,Add:O Jon:B-artist McLaughlin:I-artist to:O my:B-playlist_owner forever:B-playlist country:I-playlist playlist.:O ," AddToPlaylist
+",0
+8430,give:O 0:B-rating_value rating:O to:O She:B-object_name and:I-object_name Allan:I-object_name book:B-object_type ," RateBook
+",4
+8960,For:O Adaptive:B-object_name Coloration:I-object_name in:I-object_name Animals:I-object_name I:O give:O 4:B-rating_value points:B-rating_unit ," RateBook
+",4
+2570,Book:O a:O party:O for:O 7:B-party_size_number at:O a:O food:B-restaurant_type court:I-restaurant_type with:O potato:B-served_dish salad:I-served_dish in:O Alabama:B-state in:B-timeRange eleven:I-timeRange hours:I-timeRange ," BookRestaurant
+",1
+7609,give:O this:B-object_select album:B-object_type three:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+1043,"Add:O crying,:B-entity_name waiting,:I-entity_name hoping:I-entity_name to:O my:B-playlist_owner weekly:B-playlist buzz:I-playlist playlist.:O "," AddToPlaylist
+",0
+5797,Please:O play:O a:O song:B-music_item for:O me:O from:O 1959:B-year ," PlayMusic
+",3
+5740,Play:O the:O concert:O from:O Philip:B-artist Oakey:I-artist 1973:B-year concert:O on:O Netflix:B-service ," PlayMusic
+",3
+3086,"Book:O The:B-restaurant_name Crown:I-restaurant_name at:I-restaurant_name Whitebrook:I-restaurant_name in:O the:O Solomon:B-country Islands:I-country for:O Dec.:B-timeRange the:I-timeRange twenty-third,:I-timeRange 2029:I-timeRange .:O "," BookRestaurant
+",1
+6149,Play:O the:O top:B-sort symphony:B-music_item music:O from:O Ejigayehu:B-artist Shibabaw:I-artist ," PlayMusic
+",3
+1558,Add:O iene:B-entity_name miene:I-entity_name mutte:I-entity_name to:O Women:B-playlist of:I-playlist R&B:I-playlist playlist:O ," AddToPlaylist
+",0
+1991,I:O would:O like:O reservations:O for:O Cliff:B-restaurant_name House:I-restaurant_name in:B-timeRange seven:I-timeRange months:I-timeRange for:O six:B-party_size_number people.:O ," BookRestaurant
+",1
+4868,"Is:O it:O hot:B-condition_temperature in:O Gold:B-city Beach:I-city ,:O Bahrain:B-country ?:O "," GetWeather
+",2
+4397,What:O will:O the:O weather:O be:O in:O Wakarusa:B-city ," GetWeather
+",2
+8806,rate:O The:B-object_name Breaking:I-object_name Point:I-object_name a:O three:B-rating_value ," RateBook
+",4
+1966,Book:O Mars:B-restaurant_name 2112:I-restaurant_name in:O Rwanda:B-country for:O 4:B-party_size_number people.:O ," BookRestaurant
+",1
+5826,Do:O you:O have:O something:O like:O Impossible:B-track Is:I-track Nothing:I-track by:O Abderrahmane:B-artist Abdelli:I-artist ?:O ," PlayMusic
+",3
+6469,Play:O a:O track:B-music_item from:O 1985:B-year .:O ," PlayMusic
+",3
+7187,Play:O Eve:B-artist ," PlayMusic
+",3
+5337,"Tell:O me:O the:O weather:O forecast:O for:O Carmichaels:B-city ,:O Gambia:B-country at:O one:B-timeRange am:I-timeRange "," GetWeather
+",2
+7443,Play:O some:O music:O from:O the:O fourties:B-year .:O ," PlayMusic
+",3
+6213,Play:O me:O a:O Felix:B-artist Kubin:I-artist from:O No:B-album Light:I-album on:O Spotify:B-service ," PlayMusic
+",3
+5807,I:O want:O to:O listen:O to:O nineties:B-year chant:B-music_item songs:O ," PlayMusic
+",3
+3258,I:O need:O a:O table:O for:O 3:B-party_size_number at:O David:B-restaurant_name Whitney:I-restaurant_name House:I-restaurant_name in:O Brazil:B-country ," BookRestaurant
+",1
+8070,give:O The:B-object_name Enemy:I-object_name Within:I-object_name saga:B-object_part_of_series_type 3:B-rating_value stars:B-rating_unit for:O me:O ," RateBook
+",4
+4825,What:O is:O the:O forecast:O for:O Harrison–Crawford:B-geographic_poi State:I-geographic_poi Forest:I-geographic_poi ," GetWeather
+",2
+2762,Can:O I:O get:O a:O table:O at:O The:B-restaurant_name Fort:I-restaurant_name ?:O ," BookRestaurant
+",1
+2114,Book:O a:O tavern:B-restaurant_type in:O Rhode:B-state Island:I-state that:O serves:O saucisse:B-served_dish .:O ," BookRestaurant
+",1
+6094,Play:O me:O a:O seventies:B-year ep:B-music_item ," PlayMusic
+",3
+1896,Book:O a:O table:O for:O doris:B-party_size_description and:I-party_size_description I:I-party_size_description in:O New:B-city Tulsa:I-city ," BookRestaurant
+",1
+2837,book:O a:O restaurant:B-restaurant_type in:O MS:B-state that:O can:O seat:O ten:B-party_size_number at:O 01:51:47:B-timeRange pm:I-timeRange ," BookRestaurant
+",1
+6813,Play:O the:O top-20:B-sort music:O by:O merz:B-artist ," PlayMusic
+",3
+9137,Rate:O this:B-object_select textbook:B-object_type 5:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+6695,Can:O you:O play:O a:O song:B-music_item by:O Ken:B-artist ," PlayMusic
+",3
+4351,Will:O it:O be:O windy:B-condition_description in:O Tequesta:B-city ?:O ," GetWeather
+",2
+8384,I:O give:O The:B-object_name Caxtons:I-object_name chronicle:B-object_part_of_series_type 1:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit .:O ," RateBook
+",4
+3284,book:O a:O restaurant:B-restaurant_type for:O 5:B-party_size_number ," BookRestaurant
+",1
+8967,give:O 3:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit to:O this:B-object_select essay:B-object_type ," RateBook
+",4
+5413,what:O will:O the:O temperate:B-condition_temperature be:O here:B-current_location on:O Shmini:B-timeRange Atzeret:I-timeRange ," GetWeather
+",2
+2908,Please:O book:O a:O restaurant:B-restaurant_type for:O 45:B-timeRange weeks:I-timeRange from:I-timeRange now:I-timeRange in:O FM:B-state ," BookRestaurant
+",1
+8562,Give:O The:B-object_name Lost:I-object_name Princess:I-object_name 3:B-rating_value stars:B-rating_unit .:O ," RateBook
+",4
+3063,book:O a:O spot:O for:O 9:B-party_size_number at:O Dinner:B-restaurant_name in:I-restaurant_name the:I-restaurant_name Sky:I-restaurant_name in:O SC:B-state ," BookRestaurant
+",1
+518,Can:O you:O add:O a:O tune:B-music_item by:O natalie:B-artist macmaster:I-artist to:O my:B-playlist_owner viajes:B-playlist playlist:O ," AddToPlaylist
+",0
+8299,Rate:O this:B-object_select album:B-object_type zero:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+6121,play:O Wanted:B-track by:O Erykah:B-artist Badu:I-artist ," PlayMusic
+",3
+1703,add:O xiang:B-artist xiang:I-artist album:B-music_item to:O my:B-playlist_owner Madden:B-playlist NFL:I-playlist 16:I-playlist ," AddToPlaylist
+",0
+8655,4:B-rating_value stars:B-rating_unit out:O of:O 6:B-best_rating is:O the:O rating:O for:O Fires:B-object_name of:I-object_name Azeroth:I-object_name ," RateBook
+",4
+8274,I:O am:O giving:O this:O current:B-object_select textbook:B-object_type 4:B-rating_value stars:B-rating_unit ," RateBook
+",4
+1589,Add:O autry:B-artist inman:I-artist to:O my:B-playlist_owner Hanging:B-playlist Out:I-playlist and:I-playlist Relaxing:I-playlist playlist.:O ," AddToPlaylist
+",0
+816,Add:O the:O album:B-music_item to:O my:B-playlist_owner Wild:B-playlist Country:I-playlist playlist.:O ," AddToPlaylist
+",0
+2084,Find:O me:O a:O table:O for:O 1:B-party_size_number at:O a:O restaurant:B-restaurant_type with:O a:O pool:B-facility at:O 3:B-timeRange am:I-timeRange in:O Hitchcock:B-city FL:B-state ," BookRestaurant
+",1
+2809,Book:O COVA:B-restaurant_name in:O Frisco:B-city City:I-city for:O me:B-party_size_description and:I-party_size_description therese:I-party_size_description at:O eight:B-timeRange pm:I-timeRange ," BookRestaurant
+",1
+3418,"Make:O dinner:O reservation:O for:O 3:B-party_size_number people:O on:O june:B-timeRange 23rd,:I-timeRange 2040:I-timeRange in:O Blodgett:B-city .:O "," BookRestaurant
+",1
+7000,Play:O One:B-track Way:I-track Ticket:I-track by:O Ray:B-artist Kennedy:I-artist .:O ," PlayMusic
+",3
+4886,Check:O the:O weather:O forecast:O for:O Pineridge:B-city .:O ," GetWeather
+",2
+3077,book:O a:O spot:O at:O the:O food:B-restaurant_type truck:I-restaurant_type in:O MA:B-state ," BookRestaurant
+",1
+7507,Play:O a:O Ladyhawke:B-artist record:B-music_item ," PlayMusic
+",3
+3370,need:O a:O table:O at:O a:O highly:B-sort rated:I-sort restaurant:B-restaurant_type within:B-spatial_relation walking:I-spatial_relation distance:I-spatial_relation from:O downtown:B-poi for:O luisa:B-party_size_description and:I-party_size_description I:I-party_size_description ," BookRestaurant
+",1
+5096,Show:O me:O a:O forecast:O for:O Malaysia:B-country ," GetWeather
+",2
+4364,what:O is:O the:O 7:B-timeRange day:B-timeRange for:O Cheat:B-geographic_poi Canyon:I-geographic_poi Wildlife:I-geographic_poi Management:I-geographic_poi Area:I-geographic_poi ," GetWeather
+",2
+1322,my:B-playlist_owner indietronic:B-playlist playlist:O needs:O until:B-entity_name the:I-entity_name end:I-entity_name of:I-entity_name time:I-entity_name added:O ," AddToPlaylist
+",0
+6279,I:O want:O ohear:O the:O 1996:B-year soundtrack:B-music_item from:O deezer:B-service ," PlayMusic
+",3
+761,add:O new:B-playlist metal:I-playlist tracks:I-playlist in:O my:B-playlist_owner tune:B-music_item ," AddToPlaylist
+",0
+4752,Is:O it:O chilly:B-condition_temperature in:O Curacao:B-country ," GetWeather
+",2
+7402,Play:O music:O on:O Deezer:B-service .:O ," PlayMusic
+",3
+7009,Play:O March:B-track Of:I-track The:I-track Soviet:I-track Tankmen:I-track from:O Gloria:B-artist Gaither:I-artist ," PlayMusic
+",3
+624,I:O want:O to:O put:O this:O song:B-music_item in:O my:B-playlist_owner new:B-playlist boots:I-playlist playlist:O ," AddToPlaylist
+",0
+1458,add:O this:O Candi:B-artist Staton:I-artist artist:B-music_item to:O my:B-playlist_owner Dancefloor:B-playlist Hits:I-playlist ," AddToPlaylist
+",0
+8140,I'm:O rating:O The:B-object_name Skystone:I-object_name with:O three:B-rating_value points:B-rating_unit ," RateBook
+",4
+2869,book:O a:O bar:B-restaurant_type with:O mediterranean:B-cuisine food:O for:O three:B-party_size_number people:O ," BookRestaurant
+",1
+7965,the:O stars:B-rating_unit for:O Behind:B-object_name the:I-object_name Beat:I-object_name should:O number:O four:B-rating_value for:O this:O chronicle:B-object_part_of_series_type ," RateBook
+",4
+289,put:O kan:B-entity_name on:O my:B-playlist_owner Indie:B-playlist Rock:I-playlist Road:I-playlist Trip:I-playlist ," AddToPlaylist
+",0
+1382,add:O nico:B-artist to:O my:B-playlist_owner rock:B-playlist to:I-playlist work:I-playlist ," AddToPlaylist
+",0
+5527,what:O is:O the:O forecast:O in:O Bearmouth:B-city in:O Virgin:B-state Islands:I-state in:B-timeRange 3:I-timeRange months:I-timeRange ," GetWeather
+",2
+266,Add:O el:B-artist pavo:I-artist dustin:I-artist to:O viajes:B-playlist ," AddToPlaylist
+",0
+8413,rate:O the:O series:B-object_part_of_series_type The:B-object_name Quantity:I-object_name Theory:I-object_name of:I-object_name Insanity:I-object_name 1:B-rating_value ," RateBook
+",4
+7798,I:O would:O rate:O Eater:B-object_name of:I-object_name Wasps:I-object_name a:O value:O of:O zero:B-rating_value and:O a:O best:O rating:O of:O 6:B-best_rating ," RateBook
+",4
+5831,Play:O some:O fast:B-genre fusion:I-genre on:O Spotify:B-service ," PlayMusic
+",3
+8049,rat:O the:O current:B-object_select textbook:B-object_type a:O two:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+1172,Add:O tune:B-music_item to:O my:B-playlist_owner hot:B-playlist 50:I-playlist ," AddToPlaylist
+",0
+4712,"Check:O the:O weather:O for:O Eagle:B-city Harbor:I-city ,:O Tanzania:B-country "," GetWeather
+",2
+4329,Will:O it:O be:O hot:B-condition_temperature three:B-timeRange minutes:I-timeRange from:I-timeRange now:I-timeRange faraway:B-spatial_relation from:O Saint:B-geographic_poi Croix:I-geographic_poi State:I-geographic_poi Park:I-geographic_poi ," GetWeather
+",2
+6011,Play:O Expresión:B-album from:O Mickey:B-artist Finn:I-artist ," PlayMusic
+",3
+79,I:O want:O to:O add:O Anna:B-artist Semenovich:I-artist to:O the:O dinner:B-playlist with:I-playlist friends:I-playlist playlist:O ," AddToPlaylist
+",0
+1606,Add:O another:O track:B-music_item to:O my:B-playlist_owner Catch:B-playlist 'Em:I-playlist All:I-playlist playlist.:O ," AddToPlaylist
+",0
+7612,Give:O Miso:B-object_name Soup:I-object_name a:O rating:O of:O one:B-rating_value points:B-rating_unit .:O ," RateBook
+",4
+4485,Will:O it:O be:O colder:B-condition_temperature in:O Delaware:B-state ?:O ," GetWeather
+",2
+1695,my:B-playlist_owner timeless:B-playlist love:I-playlist songs:I-playlist playlist:O should:O include:O viderunt:B-entity_name omnes:I-entity_name ," AddToPlaylist
+",0
+8435,I:O would:O rate:O this:B-object_select book:B-object_type 3:B-rating_value points:B-rating_unit out:O of:O 6:B-best_rating ," RateBook
+",4
+5295,Will:O it:O be:O sunny:B-condition_description one:B-timeRange hundred:I-timeRange thirty:I-timeRange five:I-timeRange days:I-timeRange from:I-timeRange now:I-timeRange in:O Monterey:B-geographic_poi Bay:I-geographic_poi National:I-geographic_poi Marine:I-geographic_poi Sanctuary:I-geographic_poi ," GetWeather
+",2
+236,add:O Caleigh:B-artist Peters:I-artist to:O my:B-playlist_owner women:B-playlist of:I-playlist country:I-playlist list:O ," AddToPlaylist
+",0
+3191,"I:O need:O a:O highly:B-sort rated:I-sort oyster:B-restaurant_type bar:I-restaurant_type in:O AR:B-state in:B-timeRange a:I-timeRange month:I-timeRange for:O jeanne:B-party_size_description collins,:I-party_size_description amy:I-party_size_description and:I-party_size_description I:I-party_size_description "," BookRestaurant
+",1
+3713,Book:O The:B-restaurant_name Mustard:I-restaurant_name Seed:I-restaurant_name in:O Turks:B-country and:I-country Caicos:I-country Islands:I-country for:O 9:B-party_size_number people.:O ," BookRestaurant
+",1
+2323,"1:B-timeRange minute:I-timeRange from:I-timeRange now:I-timeRange ,:O I:O will:O need:O reservations:O at:O a:O restaurant:B-restaurant_type in:O Vanlue:B-city .:O "," BookRestaurant
+",1
+3132,Book:O a:O food:B-restaurant_type truck:I-restaurant_type that:O is:O highly:B-sort rated:I-sort in:O Honduras:B-country ," BookRestaurant
+",1
+6708,play:O a:O tune:B-music_item from:O 1962:B-year ," PlayMusic
+",3
+7805,rate:O this:B-object_select book:B-object_type a:O five:B-rating_value .:O ," RateBook
+",4
+5340,Is:O it:O cloudy:B-condition_description in:O Choptank:B-city ," GetWeather
+",2
+3107,"Book:O a:O restaurant:B-restaurant_type in:O Nebraska:B-state on:O january:B-timeRange 25,:I-timeRange 2034:I-timeRange for:O me:B-party_size_description and:I-party_size_description my:I-party_size_description mommy:I-party_size_description .:O "," BookRestaurant
+",1
+7258,Play:O a:O twenties:B-year tune:B-music_item by:O Jodie:B-artist Aysha:I-artist .:O ," PlayMusic
+",3
+6530,Play:O the:O theme:B-music_item music:O from:O 1963:B-year by:O Yuki:B-artist Koyanagi:I-artist ," PlayMusic
+",3
+892,Put:O the:O song:B-music_item playing:O on:O laverne's:B-playlist_owner rapcaviar:B-playlist playlist:O ," AddToPlaylist
+",0
+361,add:O david:B-artist dallas:I-artist to:O my:B-playlist_owner latin:B-playlist dance:I-playlist cardio:I-playlist playlist:O ," AddToPlaylist
+",0
+8404,rate:O I:B-object_name Commitments:I-object_name 5:B-rating_value of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+7215,Use:O pandora:B-service to:O play:O music:O from:O stano:B-artist in:O the:O year:O 2005:B-year ," PlayMusic
+",3
+6502,Play:O a:O 1998:B-year sound:B-music_item track:I-music_item from:O Sam:B-artist The:I-artist Kid:I-artist on:O Last:B-service Fm:I-service ," PlayMusic
+",3
+584,this:O track:B-music_item should:O get:O added:O to:O Spain:B-playlist Top:I-playlist 50:I-playlist ," AddToPlaylist
+",0
+1316,add:O artist:B-music_item abdel:B-artist halim:I-artist hafez:I-artist to:O my:B-playlist_owner conexiones:B-playlist playlist:O ," AddToPlaylist
+",0
+3214,book:O a:O tea:B-restaurant_type house:I-restaurant_type for:O 6:B-party_size_number members:O with:O soul:B-cuisine food:I-cuisine ," BookRestaurant
+",1
+8580,Rate:O Notes:B-object_name from:I-object_name the:I-object_name Internet:I-object_name Apocalypse:I-object_name four:B-rating_value of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+2773,book:O a:O spot:O for:O one:B-party_size_number at:O a:O food:B-restaurant_type court:I-restaurant_type in:O Riddlesburg:B-city ," BookRestaurant
+",1
+3908,Will:O it:O be:O colder:B-condition_temperature 1:B-timeRange minute:I-timeRange from:I-timeRange now:I-timeRange in:O Jersey:B-country ," GetWeather
+",2
+1911,reserve:O a:O table:O for:O two:B-party_size_number at:O the:O restaurant:B-restaurant_type at:O 9:B-timeRange pm:I-timeRange ," BookRestaurant
+",1
+4553,Will:O it:O be:O chilly:B-condition_temperature 17:B-timeRange hours:I-timeRange from:I-timeRange now:I-timeRange in:O Cold:B-geographic_poi Creek:I-geographic_poi Conservation:I-geographic_poi Area:I-geographic_poi ," GetWeather
+",2
+1035,Add:O this:O tune:B-music_item to:O my:B-playlist_owner Top:B-playlist 100:I-playlist Rock:I-playlist Tracks:I-playlist on:I-playlist Spotify:I-playlist ," AddToPlaylist
+",0
+5638,use:O Iheart:B-service radio:O to:O play:O eighties:B-year music:O from:O Hugh:B-artist Masekela:I-artist .:O ," PlayMusic
+",3
+4642,"What:O is:O the:O weather:O forecast:O for:O my:O current:B-current_location spot:I-current_location on:O Jan.:B-timeRange third,:I-timeRange 2036:I-timeRange "," GetWeather
+",2
+5322,What's:O the:O forecast:O for:O North:B-city AMityville:I-city ?:O ," GetWeather
+",2
+3804,"Is:O it:O cold:B-condition_temperature in:O Breckenridge:B-city ,:O Colorado:B-state ?:O "," GetWeather
+",2
+4544,"what:O is:O the:O weather:O in:O current:B-current_location location:I-current_location on:O december:B-timeRange the:I-timeRange 23rd,:I-timeRange 2027:I-timeRange "," GetWeather
+",2
+4940,Will:O there:O be:O a:O blizzard:B-condition_description in:O Saudi:B-country Arabia:I-country around:B-spatial_relation 2:B-timeRange o'clock:I-timeRange ," GetWeather
+",2
+8185,This:O current:B-object_select book:B-object_type deserves:O 3:B-rating_value points:B-rating_unit ," RateBook
+",4
+630,Include:O in:B-entity_name my:I-entity_name dreams:I-entity_name in:O the:O this:B-playlist is:I-playlist new:I-playlist edition:I-playlist playlist.:O ," AddToPlaylist
+",0
+4937,What:O is:O the:O weather:O for:O Charlotte:B-city Hall:I-city Saint:B-country Kitts:I-country and:I-country Nevis:I-country ," GetWeather
+",2
+2597,I:O want:O to:O eat:O at:O the:O bar:B-restaurant_type Saint:B-country Vincent:I-country and:I-country the:I-country Grenadines:I-country at:O thursday:B-timeRange for:O five:B-party_size_number people:O ," BookRestaurant
+",1
+792,For:O the:O Classic:B-playlist Road:I-playlist Trip:I-playlist Songs:I-playlist add:O the:O entity:O unwelcome:B-entity_name ," AddToPlaylist
+",0
+8792,rate:O the:O last:B-object_select textbook:B-object_type three:B-rating_value stars:B-rating_unit ," RateBook
+",4
+3527,"I:O need:O a:O table:O for:O me,:B-party_size_description violet:I-party_size_description and:I-party_size_description maude:I-party_size_description at:O a:O restaurant:B-restaurant_type in:O NE:B-state "," BookRestaurant
+",1
+1772,add:O this:O artist:B-music_item to:O cynthia's:B-playlist_owner fresh:B-playlist finds:I-playlist ," AddToPlaylist
+",0
+7487,Play:O the:O best:B-sort Sebastian:B-artist Karlsson:I-artist melody:B-music_item on:O Youtube:B-service ," PlayMusic
+",3
+5835,Play:O me:O a:O 2003:B-year song:B-music_item by:O Charles:B-artist Neidich:I-artist ," PlayMusic
+",3
+8064,current:B-object_select album:B-object_type gets:O a:O value:O of:O 0:B-rating_value ," RateBook
+",4
+1668,Add:O a:O song:B-music_item from:O Randy:B-artist Rhoads:I-artist to:O my:B-playlist_owner 50:B-playlist Clásicos:I-playlist playlist:O ," AddToPlaylist
+",0
+1216,I:O want:O to:O add:O Indestructible:B-entity_name to:O my:B-playlist_owner playlist:O a:B-playlist mis:I-playlist niños:I-playlist de:I-playlist 30:I-playlist ," AddToPlaylist
+",0
+962,add:O The:B-artist Crowd:I-artist to:O corinne's:B-playlist_owner acoustic:B-playlist soul:I-playlist playlist:O ," AddToPlaylist
+",0
+8331,0:B-rating_value stars:B-rating_unit for:O this:B-object_select textbook:B-object_type ," RateBook
+",4
+4936,Is:O it:O freezing:B-condition_temperature in:O Vega:B-city Alta:I-city ," GetWeather
+",2
+8422,I:O want:O to:O rate:O The:B-object_name Ingenuity:I-object_name Gap:I-object_name 3:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+2865,I'd:O like:O to:O get:O 4:B-party_size_number seats:O at:O a:O restaurant:B-restaurant_type .:O ," BookRestaurant
+",1
+1218,Add:O this:O marilyn:B-artist manson:I-artist tune:B-music_item to:O Latin:B-playlist Party:I-playlist Anthems:I-playlist ," AddToPlaylist
+",0
+2445,I'm:O looking:O for:O a:O churrascaria:B-restaurant_type place:O with:O wifi:B-facility that:O can:O serve:O a:O party:O of:O five:B-party_size_number .:O ," BookRestaurant
+",1
+5967,Play:O satire:B-genre ," PlayMusic
+",3
+2454,Can:O I:O get:O a:O table:O for:O 3:B-party_size_number in:O GU:B-state at:O a:O restaurant:B-restaurant_type in:O the:O neighboring:B-spatial_relation area:I-spatial_relation that:O serves:O chicken:B-served_dish french:I-served_dish ?:O ," BookRestaurant
+",1
+2599,"book:O a:O spot:O for:O me,:B-party_size_description tiffany:I-party_size_description and:I-party_size_description sondra:I-party_size_description at:O a:O top-rated:B-sort restaurant:B-restaurant_type in:O MS:B-state with:O udupi:B-cuisine "," BookRestaurant
+",1
+6684,play:O Safe:B-album Rock:I-album And:I-album Roll:I-album Sucks:I-album on:O Lastfm:B-service ," PlayMusic
+",3
+4272,How:O is:O the:O forecast:O for:O OK:B-state ?:O ," GetWeather
+",2
+144,Add:O shot:B-entity_name forth:I-entity_name self:I-entity_name living:I-entity_name to:O my:B-playlist_owner Folk:B-playlist Metal:I-playlist Warriors:I-playlist playlist.:O ," AddToPlaylist
+",0
+2999,Can:O you:O get:O me:O a:O table:O reserved:O for:O three:B-timeRange hundred:I-timeRange thirty:I-timeRange three:I-timeRange days:I-timeRange from:I-timeRange now:I-timeRange for:O eight:B-party_size_number people:O at:O a:O highly:B-sort rated:I-sort fast:B-restaurant_type food:I-restaurant_type place:O that:O serves:O north:B-cuisine indian:I-cuisine food:O not:B-spatial_relation distant:I-spatial_relation from:O Moores:B-city Mill:I-city ," BookRestaurant
+",1
+4195,What's:O the:O weather:O now:B-timeRange in:O Salmon:B-geographic_poi Lake:I-geographic_poi State:I-geographic_poi Park:I-geographic_poi ," GetWeather
+",2
+4434,In:O Hawaii:B-state will:O it:O be:O warmer:B-condition_temperature at:O 3:B-timeRange am:I-timeRange ," GetWeather
+",2
+6914,play:O chant:B-music_item by:O Prurient:B-artist ," PlayMusic
+",3
+5718,Play:O the:O Mother:B-album Lode:I-album by:O Tamio:B-artist Okuda:I-artist ," PlayMusic
+",3
+8640,rate:O this:B-object_select series:B-object_part_of_series_type two:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+8364,Give:O The:B-object_name Dark:I-object_name Abode:I-object_name chronicle:B-object_part_of_series_type 2:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit .:O ," RateBook
+",4
+8522,Rate:O this:B-object_select book:B-object_type four:B-rating_value points:B-rating_unit ," RateBook
+",4
+2025,restaurant:B-restaurant_type scandinavian:B-cuisine in:O Grenada:B-country ," BookRestaurant
+",1
+8480,rate:O this:O with:O zero:B-rating_value points:B-rating_unit for:O the:O saga:B-object_part_of_series_type called:O A:B-object_name Good:I-object_name Recovery:I-object_name out:O of:O 6:B-best_rating ," RateBook
+",4
+8702,the:O stars:B-rating_unit total:O 6:B-best_rating but:O Journey:B-object_name Under:I-object_name the:I-object_name Midnight:I-object_name Sun:I-object_name gets:O a:O four:B-rating_value ," RateBook
+",4
+2098,Find:O a:O table:O for:O two:B-party_size_number in:O a:O place:O not:B-spatial_relation far:I-spatial_relation in:O Culdesac:B-city ," BookRestaurant
+",1
+4504,Is:O it:O going:O to:O be:O warmer:B-condition_temperature in:O Town:B-geographic_poi Kelloe:I-geographic_poi Bank:I-geographic_poi ?:O ," GetWeather
+",2
+6632,"Play:O something:O from:O my:O Songs:B-playlist For:I-playlist You,:I-playlist Not:I-playlist Your:I-playlist Parents:I-playlist playlist:O "," PlayMusic
+",3
+1603,add:O Hot:B-playlist House:I-playlist to:O Have:B-entity_name You:I-entity_name Met:I-entity_name Miss:I-entity_name Jones:I-entity_name ," AddToPlaylist
+",0
+2899,I:O want:O to:O eat:O at:O a:O scandinavian:B-cuisine restaurant:B-restaurant_type that:O is:O highly:B-sort rated:I-sort in:O Bonita:B-city Texas:B-state ," BookRestaurant
+",1
+4157,Is:O it:O supposed:O to:O be:O chillier:B-condition_temperature in:O Favoretta:B-city ," GetWeather
+",2
+7918,Rate:O this:B-object_select novel:B-object_type 1:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+5327,What's:O the:O forecast:O for:O tonight:B-timeRange far:B-spatial_relation from:O East:B-geographic_poi Carpathian:I-geographic_poi Biosphere:I-geographic_poi Reserve:I-geographic_poi ?:O ," GetWeather
+",2
+2018,"I:O need:O seats:O for:O six:B-party_size_number at:O a:O pub:B-restaurant_type on:O January:B-timeRange 15th,:I-timeRange 2030:I-timeRange "," BookRestaurant
+",1
+9100,Give:O one:B-rating_value out:O of:O 6:B-best_rating to:O A:B-object_name Week:I-object_name in:I-object_name the:I-object_name Woods:I-object_name ," RateBook
+",4
+2889,"book:O a:O restaurant:B-restaurant_type in:O Clawson:B-city ,:O MS:B-state for:O one:B-party_size_number "," BookRestaurant
+",1
+8285,Give:O the:O saga:B-object_part_of_series_type called:O The:B-object_name Bridges:I-object_name of:I-object_name Madison:I-object_name County:I-object_name four:B-rating_value of:O 6:B-best_rating stars:B-rating_unit .:O ," RateBook
+",4
+3013,Book:O me:O a:O tibetan:B-cuisine restaurant:B-restaurant_type for:O my:B-party_size_description boss:I-party_size_description and:I-party_size_description I:I-party_size_description .:O ," BookRestaurant
+",1
+5533,What's:O the:O forecast:O for:O Jefferson:B-geographic_poi National:I-geographic_poi Expansion:I-geographic_poi Memorial:I-geographic_poi around:B-spatial_relation eight:B-timeRange am:I-timeRange ?:O ," GetWeather
+",2
+8426,Please:O rate:O this:B-object_select book:B-object_type and:O album:B-object_type 4:B-rating_value to:O 6:B-best_rating stars:B-rating_unit .:O ," RateBook
+",4
+1949,Make:O a:O restaurant:B-restaurant_type reservation:O for:O me:B-party_size_description and:I-party_size_description my:I-party_size_description son:I-party_size_description at:O twenty:B-timeRange three:I-timeRange o'clock:I-timeRange .:O ," BookRestaurant
+",1
+4806,What:O is:O the:O humidity:B-condition_description like:O in:O faraway:B-spatial_relation on:O AK:B-state ," GetWeather
+",2
+608,Add:O Kd:B-artist lang:I-artist to:O my:B-playlist_owner Deep:B-playlist Focus:I-playlist playlist:O ," AddToPlaylist
+",0
+6262,Find:O a:O top:B-sort fifty:I-sort zahir:B-artist howaida:I-artist concerto:B-music_item from:O the:O seventies:B-year ," PlayMusic
+",3
+2204,Book:O a:O table:O at:O a:O diner:B-restaurant_type which:O serves:O thousand:B-served_dish island:I-served_dish dressing:I-served_dish in:O Ivory:B-country Coast:I-country .:O ," BookRestaurant
+",1
+5934,play:O the:O greatest:B-sort Vimeo:B-service tunes:O by:O angelo:B-artist amorevoli:I-artist on:O soundtrack:B-music_item ," PlayMusic
+",3
+2721,I:O need:O a:O table:O for:O six:B-party_size_number at:O a:O bar:B-restaurant_type that:O serves:O varenyky:B-cuisine ," BookRestaurant
+",1
+6610,Play:O music:O from:O 1958:B-year .:O ," PlayMusic
+",3
+8523,Rate:O Canto:B-object_name for:I-object_name a:I-object_name Gypsy:I-object_name two:B-rating_value of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+5497,Will:O it:O be:O cold:B-condition_temperature here:B-current_location in:B-timeRange one:I-timeRange hour:I-timeRange ?:O ," GetWeather
+",2
+5873,Play:O Foundling:B-album by:O Jean:B-artist Grae:I-artist on:O Vimeo:B-service .:O ," PlayMusic
+",3
+2720,"Can:O I:O book:O a:O restaurant:B-restaurant_type that:O serves:O pastelaria:B-cuisine in:O Takilma:B-city ,:O Virgin:B-state Islands:I-state ?:O "," BookRestaurant
+",1
+3875,what:O is:O the:O midnight:B-timeRange forecast:O for:O Argentina:B-country ," GetWeather
+",2
+2901,Find:O a:O popular:B-sort diner:B-restaurant_type that:O serves:O brazilian:B-cuisine close:B-spatial_relation by:I-spatial_relation Oklahoma:B-state for:O nine:B-party_size_number people.:O ," BookRestaurant
+",1
+887,Add:O this:O track:B-music_item to:O winnie's:B-playlist_owner post:B-playlist metal:I-playlist playlist:O ," AddToPlaylist
+",0
+4420,I:O need:O the:O wather:O for:O next:B-timeRange week:I-timeRange in:O the:O Philippines:B-country ," GetWeather
+",2
+691,Add:O to:O the:O Rock:B-playlist Games:B-entity_name ," AddToPlaylist
+",0
+2818,Please:O make:O reservations:O for:O 4:B-party_size_number for:O the:O hog:B-served_dish fry:I-served_dish from:O the:O food:B-restaurant_type truck:I-restaurant_type ," BookRestaurant
+",1
+3947,"What:O will:O the:O weather:O be:O like:O in:O Lambertville:B-city ,:O India:B-country at:O ten:B-timeRange pm:I-timeRange "," GetWeather
+",2
+4260,What:O is:O the:O weather:O forecast:O for:O Theodore:B-geographic_poi Roosevelt:I-geographic_poi Inaugural:I-geographic_poi National:I-geographic_poi Historic:I-geographic_poi Site:I-geographic_poi ," GetWeather
+",2
+7203,Play:O the:O music:O from:O the:O playlist:O Get:B-playlist Lit:I-playlist ," PlayMusic
+",3
+7147,Can:O you:O play:O the:O greatest:B-sort sarah:B-artist brightman:I-artist song:B-music_item ," PlayMusic
+",3
+8782,give:O three:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit to:O this:B-object_select textbook:B-object_type ," RateBook
+",4
+3489,Book:O a:O restaurant:B-restaurant_type for:O one:B-party_size_number for:O this:B-timeRange month:I-timeRange .:O ," BookRestaurant
+",1
+7217,Play:O the:O playlist:O Grime:B-playlist Shutdown:I-playlist ," PlayMusic
+",3
+4510,forecast:O for:O Wisconsin:B-state at:O 10:B-timeRange PM.:I-timeRange ," GetWeather
+",2
+6565,Play:O my:O Futuros:B-playlist Hits:I-playlist playlist:O on:O Spotify:B-service .:O ," PlayMusic
+",3
+1020,Please:O add:O a:O track:B-music_item by:O david:B-artist freiberg:I-artist to:O my:B-playlist_owner workout:B-playlist playlist.:O ," AddToPlaylist
+",0
+1385,Add:O beijing:B-entity_name huanying:I-entity_name ni:I-entity_name to:O my:B-playlist_owner workday:B-playlist lounge:I-playlist playlist:O ," AddToPlaylist
+",0
+5507,Is:O it:O forecast:O to:O be:O chilly:B-condition_temperature in:O Iowa:B-state ?:O ," GetWeather
+",2
+3318,"book:O me:O a:O restaurant:B-restaurant_type for:O me,:B-party_size_description geneva:I-party_size_description and:I-party_size_description wilda:I-party_size_description for:O now:B-timeRange in:O Blacksville:B-city "," BookRestaurant
+",1
+5183,What:O is:O the:O weather:O forecast:O in:B-timeRange 2:I-timeRange seconds:I-timeRange for:O South:B-state Carolina:I-state ," GetWeather
+",2
+4608,what:O is:O the:O Oct.:B-timeRange 10:I-timeRange forecast:O for:O Cuyabeno:B-geographic_poi Wildlife:I-geographic_poi Reserve:I-geographic_poi ," GetWeather
+",2
+1925,Book:O reservations:O at:O Phase:B-restaurant_name 1:I-restaurant_name in:O La:B-city Jara:I-city ," BookRestaurant
+",1
+2221,Find:O a:O table:O at:O a:O bar:B-restaurant_type for:O milagros:B-party_size_description and:I-party_size_description I:I-party_size_description in:O Mount:B-city Pocono:I-city ," BookRestaurant
+",1
+3893,Forecast:O in:O Layhigh:B-city ," GetWeather
+",2
+8462,Rate:O The:B-object_name Hard:I-object_name Life:I-object_name 0:B-rating_value stars:B-rating_unit ," RateBook
+",4
+7485,Play:O the:O top:B-sort ten:I-sort by:O Andrea:B-artist Del:I-artist Rosario:I-artist .:O ," PlayMusic
+",3
+4041,Will:O there:O be:O a:O snowstorm:B-condition_description in:O NC:B-state 6:B-timeRange years:I-timeRange from:I-timeRange now:I-timeRange ," GetWeather
+",2
+2544,I'd:O like:O to:O eat:O at:O a:O restaurant:B-restaurant_type with:O wifi:B-facility ," BookRestaurant
+",1
+2232,book:O a:O table:O for:O ten:B-party_size_number downtown:B-poi at:O a:O close-by:B-spatial_relation restaurant:B-restaurant_type ," BookRestaurant
+",1
+379,add:O September:B-artist to:O winter:B-playlist music:I-playlist ," AddToPlaylist
+",0
+7478,Please:O play:O anything:O by:O george:B-artist formby:I-artist jr:I-artist ," PlayMusic
+",3
+559,please:O add:O this:O album:B-music_item to:O the:O playlist:O titled:O Hip:B-playlist Hop:I-playlist 2017:I-playlist New:I-playlist School:I-playlist ," AddToPlaylist
+",0
+3934,Can:O you:O tell:O me:O the:O weather:O forecast:O for:O six:B-timeRange am:I-timeRange in:O Grenada:B-country ," GetWeather
+",2
+5105,show:O weather:O forecast:O at:O three:B-timeRange am:I-timeRange .in:O Wauregan:B-city ," GetWeather
+",2
+7894,Warriors:B-object_name of:I-object_name Legend:I-object_name gets:O a:O 3:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+4883,"Will:O there:O be:O cloud:B-condition_description action:O in:O Saint:B-city Bernard:I-city ,:O Virgin:B-state Islands:I-state "," GetWeather
+",2
+7741,Rate:O The:B-object_name Summer:I-object_name Job:I-object_name 5:B-rating_value stars:B-rating_unit ," RateBook
+",4
+2227,Book:O a:O restaurant:B-restaurant_type for:O 1:B-party_size_number in:B-timeRange nine:I-timeRange weeks:I-timeRange ," BookRestaurant
+",1
+2087,"book:O a:O spot:O for:O gay:B-party_size_description ramos,:I-party_size_description janice:I-party_size_description gonzales:I-party_size_description and:I-party_size_description I:I-party_size_description at:O a:O bar:B-restaurant_type in:O Timbo:B-city "," BookRestaurant
+",1
+5584,Will:O it:O get:O chillier:B-condition_temperature in:B-timeRange 2:I-timeRange seconds:I-timeRange in:O Republic:B-country of:I-country the:I-country Congo:I-country ?:O ," GetWeather
+",2
+2446,Make:O me:O a:O reservation:O at:O a:O popular:B-sort place:O that:O serves:O udupi:B-cuisine at:O a:O restaurant:B-restaurant_type ," BookRestaurant
+",1
+1143,put:O donnie:B-entity_name g:I-entity_name don:I-entity_name gorilla:I-entity_name on:O my:B-playlist_owner classical:B-playlist romance:I-playlist playlist:O ," AddToPlaylist
+",0
+3194,Book:O a:O table:O for:O 1:B-party_size_number somewhere:O in:O Andorra:B-country ," BookRestaurant
+",1
+7890,Know:B-object_name Ye:I-object_name Not:I-object_name Agincourt?:I-object_name gets:O 4:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+948,Put:O this:O tune:B-music_item on:O All:B-playlist A:I-playlist Cappella:I-playlist ," AddToPlaylist
+",0
+8228,Rate:O the:O current:B-object_select textbook:B-object_type one:B-rating_value of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+6579,I:O want:O to:O hear:O some:O The:B-album Roches:I-album ," PlayMusic
+",3
+2772,get:O me:O a:O reservation:O at:O a:O brasserie:B-restaurant_type that:O serves:O jain:B-cuisine in:O Pinto:B-city ," BookRestaurant
+",1
+709,Add:O ricky:B-artist nelson:I-artist to:O my:B-playlist_owner Classical:B-playlist X:I-playlist playist:O ," AddToPlaylist
+",0
+6014,Play:O some:O movement:B-music_item music:O by:O Perez:B-artist Prado:I-artist on:O Iheart:B-service ," PlayMusic
+",3
+6064,play:O Paula:B-artist Campbell:I-artist music:O from:O 1993:B-year ," PlayMusic
+",3
+5284,Will:O it:O be:O freezing:B-condition_temperature nearby:B-spatial_relation Thap:B-geographic_poi Lan:I-geographic_poi National:I-geographic_poi Park:I-geographic_poi at:O 4:B-timeRange pm:I-timeRange ," GetWeather
+",2
+3627,book:O a:O irish:B-cuisine serving:O brasserie:B-restaurant_type in:O AZ:B-state ," BookRestaurant
+",1
+1135,I:O want:O to:O add:O Black:B-entity_name Ribbons:I-entity_name to:O the:O i:B-playlist love:I-playlist my:I-playlist neo:I-playlist soul:I-playlist playlist:O ," AddToPlaylist
+",0
+8741,give:O one:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit to:O current:B-object_select series:B-object_part_of_series_type ," RateBook
+",4
+7498,Play:O Zvooq:B-service ," PlayMusic
+",3
+1075,Add:O tune:B-music_item to:O Genuine:B-playlist R&B:I-playlist ," AddToPlaylist
+",0
+5844,play:O Christina:B-artist Milian:I-artist latest:B-sort music:O ," PlayMusic
+",3
+6207,play:O a:O ballad:B-music_item by:O Giorgio:B-artist Moroder:I-artist ," PlayMusic
+",3
+5599,I:O need:O a:O table:O in:O Uruguay:B-country in:B-timeRange 213:I-timeRange days:I-timeRange when:O it's:O chillier:B-condition_temperature ," GetWeather
+",2
+6355,play:O a:O good:B-sort John:B-artist Maher:I-artist record:B-music_item with:O Netflix:B-service ," PlayMusic
+",3
+3938,Tell:O me:O if:O it'll:O be:O overcast:B-condition_description nearby:B-spatial_relation Papua:B-country New:I-country Guinea:I-country ," GetWeather
+",2
+5891,Play:O music:O from:O 1954:B-year ," PlayMusic
+",3
+5262,Is:O there:O going:O to:O be:O any:O rainfall:B-condition_description close:B-spatial_relation to:O Windber:B-city in:B-timeRange 365:I-timeRange days:I-timeRange ," GetWeather
+",2
+5317,Tell:O me:O the:O weather:O forecast:O in:O Greensburg:B-city ," GetWeather
+",2
+6736,Play:O music:O by:O Paul:B-artist Mccartney:I-artist ," PlayMusic
+",3
+6128,Please:O play:O Bitch:B-track Please:I-track Ii:I-track ," PlayMusic
+",3
+4205,Will:O the:O weather:O be:O okay:O in:O Northern:B-geographic_poi Luzon:I-geographic_poi Heroes:I-geographic_poi Hill:I-geographic_poi National:I-geographic_poi Park:I-geographic_poi 4:B-timeRange and:I-timeRange a:I-timeRange half:I-timeRange months:I-timeRange from:I-timeRange now:I-timeRange ?:O ," GetWeather
+",2
+4172,what:O is:O the:O Jan.:B-timeRange 8:I-timeRange forecast:O for:O here:B-current_location ," GetWeather
+",2
+4432,What's:O the:O weather:O going:O to:O be:O like:O at:O 10:21:20:B-timeRange close:B-spatial_relation by:I-spatial_relation ID:B-state ," GetWeather
+",2
+8837,"I:O give:O The:B-object_name History:I-object_name of:I-object_name the:I-object_name Saracens:I-object_name a:O three:B-rating_value ,:O or:O 6:B-best_rating points:B-rating_unit "," RateBook
+",4
+8167,Rate:O The:B-object_name Saint:I-object_name in:I-object_name Trouble:I-object_name 1:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+5071,Will:O it:O be:O hotter:B-condition_temperature at:O nine:B-timeRange am:I-timeRange in:O Serbia:B-country ," GetWeather
+",2
+5632,Play:O the:O last:B-sort soundtrack:B-music_item from:O the:O sixties:B-year ," PlayMusic
+",3
+3912,Will:O it:O be:O hotter:B-condition_temperature in:O Pecan:B-city Grove:I-city ," GetWeather
+",2
+408,Put:O The:B-entity_name Broken:I-entity_name Wave:I-entity_name on:O lo:B-playlist más:I-playlist dance:I-playlist ," AddToPlaylist
+",0
+8708,rate:O this:B-object_select album:B-object_type 1:B-rating_value ," RateBook
+",4
+2806,I'd:O like:O to:O eat:O within:B-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation of:O Lawrence:B-poi St:I-poi for:O a:O party:O of:O one:B-party_size_number ," BookRestaurant
+",1
+2605,Book:O a:O table:O for:O three:B-party_size_number at:O a:O restaurant:B-restaurant_type in:O Louisiana:B-state ," BookRestaurant
+",1
+4653,Is:O it:O supposed:O to:O hail:B-condition_description in:O NY:B-state ," GetWeather
+",2
+7522,rate:O this:B-object_select essay:B-object_type a:O two:B-rating_value ," RateBook
+",4
+6114,Can:O you:O play:O a:O song:B-music_item from:O the:O newest:B-sort movement:B-music_item by:O prince:B-artist on:O Lastfm:B-service ," PlayMusic
+",3
+671,please:O put:O live:B-entity_name with:I-entity_name me:I-entity_name onto:O my:B-playlist_owner playlist:O named:O CARÁCTER:B-playlist LATINO:I-playlist ," AddToPlaylist
+",0
+399,put:O Sarah:B-artist Blasko:I-artist onto:O my:B-playlist_owner The:B-playlist MetalSucks:I-playlist Playlist:I-playlist ," AddToPlaylist
+",0
+1428,Please:O add:O to:O my:B-playlist_owner playlist:O Hype:B-playlist the:O name:O introducing:B-entity_name a:I-entity_name r:I-entity_name rahman:I-entity_name ," AddToPlaylist
+",0
+4334,What's:O the:O weather:O forecast:O for:O Connecticut:B-state ," GetWeather
+",2
+8766,rate:O this:B-object_select book:B-object_type 4:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+8816,Rate:O this:B-object_select chronicle:B-object_part_of_series_type three:B-rating_value of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+7826,I:O want:O to:O give:O the:O chronicle:B-object_part_of_series_type What:B-object_name We:I-object_name Talk:I-object_name About:I-object_name When:I-object_name We:I-object_name Talk:I-object_name About:I-object_name Love:I-object_name 4:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+7971,Give:O the:O current:B-object_select novel:B-object_type I:O am:O reading:O a:O five:B-rating_value stars:B-rating_unit rating.:O ," RateBook
+",4
+5907,Please:O play:O a:O movement:B-music_item by:O Rupam:B-artist Islam:I-artist ," PlayMusic
+",3
+8356,rate:O the:O current:B-object_select book:B-object_type series:B-object_part_of_series_type two:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+5808,Play:O some:O fourties:B-year music:O on:O Spotify:B-service .:O ," PlayMusic
+",3
+8369,This:O current:B-object_select book:B-object_type only:O nets:O 3:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+8242,I:O give:O this:B-object_select series:B-object_part_of_series_type a:O one:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+779,"add:O Hello,:B-entity_name My:I-entity_name Lover,:I-entity_name Goodbye:I-entity_name to:O my:B-playlist_owner Deathcore:B-playlist playlist:O "," AddToPlaylist
+",0
+6616,Please:O play:O songs:O by:O Lil:B-artist Jon:I-artist ," PlayMusic
+",3
+833,Please:O add:O checkmate:B-entity_name to:O my:B-playlist_owner irish:B-playlist folk:I-playlist –:I-playlist jigs:I-playlist &:I-playlist reels:I-playlist playlist:O ," AddToPlaylist
+",0
+3366,table:O for:O 1:B-party_size_number please:O ," BookRestaurant
+",1
+5780,Create:O a:O theme:B-music_item station:O with:O Jim:B-artist Creeggan:I-artist records:O and:O collabs:O ," PlayMusic
+",3
+2088,Reserve:O me:O seating:O midday:B-timeRange at:O Bear:B-restaurant_name Hotel:I-restaurant_name ," BookRestaurant
+",1
+1644,Can:O you:O put:O a:O song:B-music_item by:O Rick:B-artist Astley:I-artist on:O my:B-playlist_owner hot:B-playlist 50:I-playlist playlist:O ," AddToPlaylist
+",0
+2336,Book:O a:O reservation:O for:O a:O party:O of:O four:B-party_size_number within:B-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation of:O Districts:B-poi of:I-poi Sweden:I-poi ," BookRestaurant
+",1
+5510,What's:O the:O weather:O going:O to:O be:O like:O around:B-spatial_relation Lewis:B-geographic_poi and:I-geographic_poi Clark:I-geographic_poi Trail:I-geographic_poi sixteen:B-timeRange hours:I-timeRange from:I-timeRange now:I-timeRange ?:O ," GetWeather
+",2
+4600,Will:O it:O be:O cold:B-condition_temperature at:O 1:B-timeRange am:I-timeRange in:O Boon:B-city ?:O ," GetWeather
+",2
+3441,Make:O me:O a:O reservation:O for:O july:B-timeRange the:I-timeRange tenth:I-timeRange at:O The:B-restaurant_name Nosh:I-restaurant_name Bar:I-restaurant_name for:O a:O party:O of:O two:B-party_size_number ," BookRestaurant
+",1
+2431,book:O a:O restaurant:B-restaurant_type for:O 6:B-party_size_number ," BookRestaurant
+",1
+3350,Book:O a:O table:O for:O seven:B-party_size_number in:O a:O pub:B-restaurant_type in:O Iraq:B-country which:O offers:O gluten:B-cuisine free:I-cuisine food:O about:O 141:B-timeRange days:I-timeRange from:I-timeRange now:I-timeRange .:O ," BookRestaurant
+",1
+8260,give:O After:B-object_name Worlds:I-object_name Collide:I-object_name a:O 1:B-rating_value ," RateBook
+",4
+1346,add:O Love:B-entity_name Story:I-entity_name wa:I-entity_name Totsuzen:I-entity_name ni:I-entity_name to:O the:B-playlist martin:I-playlist garrix:I-playlist show:I-playlist playlist:O ," AddToPlaylist
+",0
+4731,"What:O are:O the:O weather:O conditions:O in:O Patagonia:B-city ,:O South:B-country Africa:I-country ?:O "," GetWeather
+",2
+2618,"Book:O a:O restaurant:B-restaurant_type with:O a:O pool:B-facility far:B-spatial_relation from:O robbie's:B-poi hostel:I-poi for:O me,:B-party_size_description chandra:I-party_size_description and:I-party_size_description noelle:I-party_size_description at:O nine:B-timeRange PM:I-timeRange .:O "," BookRestaurant
+",1
+6557,play:O the:O song:B-music_item Si:B-track No:I-track Te:I-track Hubiera:I-track Conocido:I-track by:O Haidar:B-artist Salim:I-artist ," PlayMusic
+",3
+8833,this:B-object_select saga:B-object_part_of_series_type is:O definitely:O worth:O 4:B-rating_value stars:B-rating_unit .:O ," RateBook
+",4
+7444,Open:O Vimeo:B-service and:O play:O Lee:B-artist Mellor:I-artist good:B-sort songs:O ," PlayMusic
+",3
+3518,Book:O a:O reservation:O for:O a:O restaurant:B-restaurant_type serving:O wontons:B-served_dish for:O ten:B-party_size_number people:O in:O Leopold:B-city ," BookRestaurant
+",1
+7234,Can:O I:O hear:O Anna:B-artist Vissi:I-artist 's:O new:B-sort music:O on:O Pandora:B-service ?:O ," PlayMusic
+",3
+894,my:B-playlist_owner feelin':B-playlist good:I-playlist playlist:O needs:O some:O Mai:B-artist Selim:I-artist in:O it.:O ," AddToPlaylist
+",0
+6493,Play:O music:O from:O 2012:B-year by:O Yossif:B-artist Kobzon:I-artist on:O last:B-service fm:I-service .:O ," PlayMusic
+",3
+7008,Play:O something:O by:O Holly:B-artist Cole:I-artist on:O lastfm:B-service ," PlayMusic
+",3
+7614,rate:O current:B-object_select book:B-object_type 0:B-rating_value stars:B-rating_unit ," RateBook
+",4
+5414,will:O there:O be:O hail:B-condition_description in:O Kaffir:B-city ," GetWeather
+",2
+3637,I:O want:O to:O book:O an:O indonesian:B-cuisine food:B-restaurant_type truck:I-restaurant_type .:O ," BookRestaurant
+",1
+2288,"Lets:O take:O me,:B-party_size_description cherry:I-party_size_description and:I-party_size_description tracie:I-party_size_description to:O a:O Noyack:B-city bar:B-restaurant_type "," BookRestaurant
+",1
+5204,What's:O the:O weather:O forecast:O for:O here:B-current_location on:O Jul.:B-timeRange 23:I-timeRange ?:O ," GetWeather
+",2
+3143,need:O a:O table:O at:O Colony:B-restaurant_name in:O Sri:B-country Lanka:I-country next:B-timeRange year:I-timeRange ," BookRestaurant
+",1
+7834,Rate:O the:O Sacred:B-object_name Fire:I-object_name series:B-object_part_of_series_type 5:B-rating_value points:B-rating_unit ," RateBook
+",4
+7432,Play:O some:O Gospel:B-genre music.:O ," PlayMusic
+",3
+7718,Rate:O Timeline:B-object_name of:I-object_name science:I-object_name fiction:I-object_name 4:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+8871,rate:O this:B-object_select essay:B-object_type 2:B-rating_value points:B-rating_unit ," RateBook
+",4
+8992,Rate:O this:B-object_select textbook:B-object_type only:O three:B-rating_value points:B-rating_unit ," RateBook
+",4
+3210,I:O need:O a:O reservation:O in:B-timeRange 1:I-timeRange second:I-timeRange in:O Atlas:B-city with:O a:O party:O of:O nine:B-party_size_number ," BookRestaurant
+",1
+9080,Rate:O the:O current:B-object_select novel:B-object_type 1:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+5401,what:O will:O the:O weather:O be:O at:O Mu:B-geographic_poi Ko:I-geographic_poi Phetra:I-geographic_poi National:I-geographic_poi Park:I-geographic_poi on:O Administrative:B-timeRange Professionals:I-timeRange Day:I-timeRange ," GetWeather
+",2
+6642,Play:O The:B-album Way:I-album It:I-album Has:I-album To:I-album Be:I-album by:O Tom:B-artist G:I-artist Warrior:I-artist on:O Zvooq:B-service ," PlayMusic
+",3
+6277,Play:O a:O concerto:B-music_item top:B-sort ten:I-sort sort:O by:O Lloyd:B-artist .:O ," PlayMusic
+",3
+4911,how:O cold:B-condition_temperature is:O it:O in:O Princeton:B-city Junction:I-city ," GetWeather
+",2
+8320,Give:O Whispers:B-object_name in:I-object_name the:I-object_name Graveyard:I-object_name a:O five:B-rating_value .:O ," RateBook
+",4
+6478,Lets:O hear:O some:O booty:B-genre bass:I-genre ," PlayMusic
+",3
+7284,Play:O any:O song:B-music_item from:O 2006:B-year ," PlayMusic
+",3
+5923,Play:O a:O Jim:B-artist Mullen:I-artist ep:B-music_item from:O the:O sixties:B-year ," PlayMusic
+",3
+6495,Play:O the:O Late:B-playlist Night:I-playlist Jazz:I-playlist soundtrack:B-music_item on:O Zvooq:B-service .:O ," PlayMusic
+",3
+5872,Play:O music:O off:O Youtube:B-service .:O ," PlayMusic
+",3
+6558,Play:O some:O Dave:B-artist Pearce:I-artist .:O ," PlayMusic
+",3
+5684,play:O Deezer:B-service tunes:O Are:B-playlist &:I-playlist Be:I-playlist ," PlayMusic
+",3
+7917,five:B-rating_value points:B-rating_unit for:O this:B-object_select novel:B-object_type ," RateBook
+",4
+8986,Assign:O 5:B-rating_value stars:B-rating_unit to:O Lincoln:B-object_name at:I-object_name Gettysburg:I-object_name ," RateBook
+",4
+7264,Play:O the:O playlist:O Gypsy:B-playlist Swing:I-playlist ," PlayMusic
+",3
+1437,Add:O Grey:B-entity_name Cloudy:I-entity_name Lies:I-entity_name to:O the:O hip:B-playlist hop:I-playlist playlist.:O ," AddToPlaylist
+",0
+6450,I:O want:O to:O hear:O music:O from:O the:O Lotus:B-album Flower:I-album album:B-music_item by:O Andy:B-artist Mccoy:I-artist ," PlayMusic
+",3
+1494,add:O this:O artist:B-music_item to:O FIFA:B-playlist 17:I-playlist Soundtrack:I-playlist ," AddToPlaylist
+",0
+2219,"I:O need:O a:O table:O for:O ten:B-party_size_number on:O april:B-timeRange the:I-timeRange eighteenth,:I-timeRange 2030:I-timeRange "," BookRestaurant
+",1
+8994,Rate:O this:B-object_select saga:B-object_part_of_series_type two:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+5565,Will:O it:O be:O stormy:B-condition_description in:O MA:B-state ," GetWeather
+",2
+6875,play:O the:O last:B-sort Chris:B-artist Douglas:I-artist on:O Slacker:B-service ," PlayMusic
+",3
+1748,Add:O bryan:B-artist gregory:I-artist to:O the:O playlist:O Emily:B-playlist Dickinson:I-playlist ," AddToPlaylist
+",0
+621,Add:O tune:B-music_item to:O Reggae:B-playlist Infusions:I-playlist ," AddToPlaylist
+",0
+6718,Use:O Deezer:B-service to:O play:O the:O last:B-sort song:B-music_item from:O Lee:B-artist Dorrian:I-artist ," PlayMusic
+",3
+3554,I:O need:O a:O reservation:O for:O four:B-party_size_number at:O a:O restaurant:B-restaurant_type ," BookRestaurant
+",1
+105,I:O want:O to:O put:O Land:B-entity_name of:I-entity_name the:I-entity_name Dead:I-entity_name into:O my:B-playlist_owner Big:B-playlist Daddy's:I-playlist Booze:I-playlist &:I-playlist Blues:I-playlist playlist.:O ," AddToPlaylist
+",0
+8335,Give:O this:O current:B-object_select book:B-object_type zero:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+6849,I:O want:O to:O hear:O a:O Joel:B-artist Hastings:I-artist melody:B-music_item .:O ," PlayMusic
+",3
+3347,"book:O tea:B-timeRange at:O The:B-restaurant_name Hamburger:I-restaurant_name Wagon:I-restaurant_name for:O 3:B-party_size_number vickie:B-party_size_description reed,:I-party_size_description melody:I-party_size_description and:I-party_size_description I:I-party_size_description in:O Georgia:B-country "," BookRestaurant
+",1
+1031,rate:O tune:B-music_item to:O 90's:B-playlist Baby:I-playlist Makers:I-playlist ," AddToPlaylist
+",0
+7700,give:O 0:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit to:O this:B-object_select album:B-object_type ," RateBook
+",4
+3470,Make:O me:O a:O reservation:O at:O a:O fast:B-restaurant_type food:I-restaurant_type restaurant:I-restaurant_type for:O elba:B-party_size_description and:I-party_size_description corina:I-party_size_description at:O a:O restaurant:B-restaurant_type with:O parking:B-facility ," BookRestaurant
+",1
+340,add:O Tim:B-artist Ryan:I-artist to:O my:B-playlist_owner Grime:B-playlist Shutdown:I-playlist playlist:O ," AddToPlaylist
+",0
+1629,Add:O Born:B-entity_name Free:I-entity_name to:O Fresh:B-playlist R&B:I-playlist ," AddToPlaylist
+",0
+7463,Play:O hanging:B-album in:I-album the:I-album balance:I-album by:O Nik:B-artist Kershaw:I-artist on:O Zvooq:B-service .:O ," PlayMusic
+",3
+6834,Play:O me:O some:O folklore:B-genre music:O ," PlayMusic
+",3
+7061,play:O top-twenty:B-sort song:B-music_item from:O 2015:B-year ," PlayMusic
+",3
+5033,Weather:O for:O Faroe:B-country Islands:I-country ," GetWeather
+",2
+4666,"What:O will:O the:O weather:O be:O like:O here:B-current_location on:O September:B-timeRange 17,:I-timeRange 2040:I-timeRange "," GetWeather
+",2
+1469,Include:O Badmeaningood:B-entity_name Volume4:I-entity_name in:O jaime's:B-playlist_owner Animal:B-playlist Stories:I-playlist playlist.:O ," AddToPlaylist
+",0
+3933,"Tell:O me:O the:O humidity:B-condition_description index:O for:O Elizabethville:B-city ,:O Indiana:B-state "," GetWeather
+",2
+675,put:O this:O Kes:B-artist song:B-music_item on:O the:O feel:B-playlist good:I-playlist indie:I-playlist rock:I-playlist playlist:O ," AddToPlaylist
+",0
+2915,"me,:B-party_size_description maggie:I-party_size_description and:I-party_size_description ellen:I-party_size_description want:O to:O eat:O at:O Lentil:B-restaurant_name as:I-restaurant_name Anything:I-restaurant_name "," BookRestaurant
+",1
+1798,Add:O Showcase:B-entity_name in:I-entity_name a:I-entity_name Suitcase:I-entity_name to:O the:O chill:B-playlist out:I-playlist playlist.:O ," AddToPlaylist
+",0
+7172,Play:O A:B-playlist Sudden:I-playlist Rainstorm:I-playlist playlist.:O ," PlayMusic
+",3
+7318,I:O want:O to:O hear:O Richard:B-artist Falomir:I-artist 's:O best:B-sort song:B-music_item on:O Pandora:B-service ," PlayMusic
+",3
+7605,Rate:O the:O At:B-object_name the:I-object_name Villa:I-object_name Rose:I-object_name series:B-object_part_of_series_type 3:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+5177,Will:O it:O storm:B-condition_description in:O Kinder:B-city Russia:B-country ," GetWeather
+",2
+7259,play:O some:O Annie:B-artist Herring:I-artist beat:B-album street:I-album on:O itunes:B-service ," PlayMusic
+",3
+2622,book:O me:O a:O restaurant:B-restaurant_type at:O Sint:B-country Maarten:I-country on:O sun:B-timeRange .:O ," BookRestaurant
+",1
+2397,Lets:O eat:O at:O Newport:B-restaurant_name Creamery:I-restaurant_name in:O Carnot:B-city ," BookRestaurant
+",1
+1903,Please:O make:O reservations:O for:O nine:B-party_size_number at:O 3:B-timeRange am:I-timeRange .:O ," BookRestaurant
+",1
+8850,Give:O The:B-object_name Denationalization:I-object_name of:I-object_name Money:I-object_name series:B-object_part_of_series_type four:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+7942,I:O give:O The:B-object_name Vinyl:I-object_name Cafe:I-object_name Notebooks:I-object_name a:O 0:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+500,Add:O Tsubasa:B-artist Imai:I-artist to:O my:B-playlist_owner Another:B-playlist Glass:I-playlist playlist:O ," AddToPlaylist
+",0
+3317,book:O a:O highly:B-sort rated:I-sort bar:B-restaurant_type in:O Curacao:B-country for:O one:B-party_size_number ," BookRestaurant
+",1
+7098,Open:O Youtube:B-service and:O play:O Iron:B-album Mountain:I-album Depot:I-album from:O John:B-artist Lomax:I-artist ," PlayMusic
+",3
+7994,I:O give:O the:O previous:B-object_select saga:B-object_part_of_series_type 4:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+8603,Rate:O the:O current:B-object_select saga:B-object_part_of_series_type a:O five:B-rating_value ," RateBook
+",4
+8245,Rate:O The:B-object_name Penelopiad:I-object_name zero:B-rating_value out:O of:O 6:B-best_rating .:O ," RateBook
+",4
+1418,put:O coming:B-entity_name back:I-entity_name to:I-entity_name life:I-entity_name onto:O winter:B-playlist music:I-playlist ," AddToPlaylist
+",0
+3716,Is:O it:O freezing:B-condition_temperature on:O Jun.:B-timeRange the:I-timeRange 21st:I-timeRange in:O Apshawa:B-city South:B-country Africa:I-country ," GetWeather
+",2
+6893,Play:O some:O Glenn:B-artist Miller:I-artist .:O ," PlayMusic
+",3
+4163,"Is:O it:O chilly:B-condition_temperature in:O Henrieville:B-city ,:O Oman:B-country "," GetWeather
+",2
+4656,can:O we:O expect:O cold:B-condition_temperature and:O freezing:B-condition_temperature conditions:O in:O Glacier-Nationalpark:B-geographic_poi ," GetWeather
+",2
+7737,I:O am:O giving:O this:O current:B-object_select novel:B-object_type 1:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+2996,book:O a:O spot:O at:O a:O restaurant:B-restaurant_type with:O wifi:B-facility that:O is:O neighboring:B-spatial_relation Suriname:B-country ," BookRestaurant
+",1
+482,add:O this:O album:B-music_item by:O Karl:B-artist Davydov:I-artist to:O reyna's:B-playlist_owner This:B-playlist Is:I-playlist Luis:I-playlist Fonsi:I-playlist playlist:O ," AddToPlaylist
+",0
+8163,Rate:O Phoenix::B-object_name The:I-object_name Fall:I-object_name &:I-object_name Rise:I-object_name of:I-object_name Videogames:I-object_name one:B-rating_value points:B-rating_unit out:O of:O 6:B-best_rating ," RateBook
+",4
+4539,Weather:O for:O Cougar:B-geographic_poi Canyon:I-geographic_poi Wilderness:I-geographic_poi ," GetWeather
+",2
+4227,Will:O it:O snow:B-condition_description in:O Granbury:B-city ?:O ," GetWeather
+",2
+3687,Book:O a:O top-rated:B-sort food:B-restaurant_type court:I-restaurant_type in:O GU:B-state .:O ," BookRestaurant
+",1
+8173,I:O give:O a:O rating:O of:O 2:B-rating_value to:O the:O book:O Swine:B-object_name Not?:I-object_name ," RateBook
+",4
+808,Put:O transatlantic:B-playlist lullaby:I-playlist on:O sharlene's:B-playlist_owner napoleon:B-artist xiv:I-artist playlist:O ," AddToPlaylist
+",0
+5421,Is:O there:O a:O cloud:B-condition_description in:O the:O sky:O in:O Thornville:B-city on:O Feb.:B-timeRange fifth:I-timeRange ," GetWeather
+",2
+6383,Play:O some:O sixties:B-year music:O by:O gaudi:B-artist on:O last:B-service fm:I-service ," PlayMusic
+",3
+3443,I:O want:O to:O book:O a:O restaurant:B-restaurant_type near:B-spatial_relation Wyoming:B-state for:O 5:B-party_size_number people.:O ," BookRestaurant
+",1
+992,Add:O wiktor:B-artist coj:I-artist to:O the:O Sleep:B-playlist playlist.:O ," AddToPlaylist
+",0
+7767,rate:O Special:B-object_name Assignments:I-object_name 0:B-rating_value of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+3852,what:O is:O the:O forecast:O starting:O on:O 5/17/2037:B-timeRange for:O Austria:B-country for:O warmer:B-condition_temperature temps:O ," GetWeather
+",2
+358,Can:O you:O put:O freddie:B-entity_name freeloader:I-entity_name on:O the:O playlist:O instrumental:B-playlist madness:I-playlist ," AddToPlaylist
+",0
+3302,I:O want:O to:O check:O out:O a:O pub:B-restaurant_type that:O has:O internet:B-facility in:O Homer:B-city City:I-city .:O ," BookRestaurant
+",1
+6418,Play:O fifties:B-year from:O Sirusho:B-artist Harutyunyan:I-artist ," PlayMusic
+",3
+4225,Weather:O for:O Afghanistan:B-country in:B-timeRange one:I-timeRange minute:I-timeRange ," GetWeather
+",2
+5760,play:O an:O album:B-music_item on:O Netflix:B-service by:O chris:B-artist castle:I-artist from:O 2011:B-year ," PlayMusic
+",3
+2129,Book:O a:O tyrolean:B-cuisine restaurant:B-restaurant_type in:O Crocker:B-city Indiana:B-state now:B-timeRange for:O 3:B-party_size_number people.:O ," BookRestaurant
+",1
+8536,rate:O American:B-object_name Tabloid:I-object_name a:O 0:B-rating_value ," RateBook
+",4
+2412,book:O a:O restaurant:B-restaurant_type for:O 2:B-party_size_number at:O top-rated:B-sort Hoonah:B-city TN:B-state ," BookRestaurant
+",1
+6848,Play:O Contigo:B-track En:I-track La:I-track Distancia:I-track ," PlayMusic
+",3
+3207,I:O need:O a:O table:O in:O neighboring:B-spatial_relation Carencro:B-city at:O the:O Bridge:B-restaurant_name Round:I-restaurant_name House:I-restaurant_name ," BookRestaurant
+",1
+6801,Open:O Itunes:B-service and:O play:O Bad:B-album Attitude:I-album ," PlayMusic
+",3
+3095,I:O would:O like:O to:O book:O a:O restaurant:B-restaurant_type in:O Singapore:B-country for:O nine:B-party_size_number in:B-timeRange 19:I-timeRange hours:I-timeRange and:I-timeRange 1:I-timeRange second:I-timeRange ," BookRestaurant
+",1
+4006,What's:O the:O weather:O look:O like:O for:O MH:B-state ," GetWeather
+",2
+8236,give:O 1:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit to:O Revolution:B-object_name World:I-object_name ," RateBook
+",4
+7943,Rate:O this:B-object_select book:B-object_type one:B-rating_value stars:B-rating_unit ," RateBook
+",4
+7426,Play:O the:O top-20:B-sort best:I-sort Chicane:B-artist songs:O on:O Deezer:B-service ," PlayMusic
+",3
+1024,add:O Tarte:B-entity_name to:O bandas:B-playlist sonoras:I-playlist playlist:O ," AddToPlaylist
+",0
+7582,rate:O the:O book:B-object_type The:B-object_name Nightmare:I-object_name Lands:I-object_name 0:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+1707,Add:O this:O track:B-music_item to:O anochecer:B-playlist urbano:I-playlist ," AddToPlaylist
+",0
+9127,Rate:O Encyclopedia:B-object_name of:I-object_name Domestic:I-object_name Animation:I-object_name four:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+7481,Play:O Tomorrow:B-track ," PlayMusic
+",3
+2469,I:O need:O a:O reservation:O at:O sunrise:B-timeRange for:O melva:B-party_size_description and:I-party_size_description heidi:I-party_size_description at:O a:O local:O restaurant:B-restaurant_type .:O ," BookRestaurant
+",1
+2959,I:O need:O a:O reservation:O for:O 4:B-party_size_number in:O Illinois:B-state ," BookRestaurant
+",1
+1084,add:O Get:B-entity_name Happy:I-entity_name to:O cherry's:B-playlist_owner Las:B-playlist Canciones:I-playlist Más:I-playlist Lindas:I-playlist Del:I-playlist Mundo:I-playlist ," AddToPlaylist
+",0
+3268,Book:O a:O reservation:O for:O a:O popular:B-sort bakery:B-restaurant_type in:O Patetown:B-city ," BookRestaurant
+",1
+1970,book:O me:B-party_size_description and:I-party_size_description my:I-party_size_description grandparents:I-party_size_description a:O restaurant:B-restaurant_type in:O Saint:B-city Helens:I-city South:B-state Dakota:I-state ," BookRestaurant
+",1
+1705,add:O ian:B-artist north:I-artist to:O my:B-playlist_owner Autumn:B-playlist Lounge:I-playlist playlist:O ," AddToPlaylist
+",0
+8262,Give:O the:O current:B-object_select novel:B-object_type a:O one:B-rating_value out:O of:O 6:B-best_rating rating.:O ," RateBook
+",4
+6760,Play:O a:O 2001:B-year sound:B-music_item track:I-music_item on:O Deezer:B-service .:O ," PlayMusic
+",3
+6508,Play:O the:O latest:B-sort songs:O by:O Larry:B-artist Gatlin:I-artist on:O Iheart:B-service ," PlayMusic
+",3
+2847,book:O a:O restaurant:B-restaurant_type table:O at:O the:O food:B-restaurant_type court:I-restaurant_type in:O the:O spa:B-facility sixteen:B-timeRange hours:I-timeRange from:I-timeRange now:I-timeRange ," BookRestaurant
+",1
+2997,Book:O me:O a:O table:O for:O one:B-party_size_number at:O Blue:B-restaurant_name Ribbon:I-restaurant_name Barbecue:I-restaurant_name ," BookRestaurant
+",1
+2632,Book:O a:O restaurant:B-restaurant_type in:O the:O Marshall:B-state Islands:I-state for:O two:B-party_size_number people.:O ," BookRestaurant
+",1
+6197,I:O want:O to:O hear:O La:B-track Jaula:I-track De:I-track Oro:I-track by:O Mc:B-artist Ren:I-artist on:O Google:B-service Music:I-service .:O ," PlayMusic
+",3
+7321,Play:O my:O Fusion:B-playlist Fest:I-playlist playlist:O on:O Youtube:B-service ," PlayMusic
+",3
+7884,I:O would:O like:O to:O rate:O the:O book:B-object_type The:B-object_name Three:I-object_name Impostors:I-object_name 2:B-rating_value to:O 6:B-best_rating stars:B-rating_unit .:O ," RateBook
+",4
+3420,Book:O a:O reservation:O for:O 6:B-party_size_number at:O a:O restaurant:B-restaurant_type in:O Deersville:B-city ," BookRestaurant
+",1
+6656,Play:O the:O most:B-sort popular:I-sort Coti:B-artist songs:O on:O Pandora:B-service ," PlayMusic
+",3
+6163,Play:O my:O Acoustic:B-playlist Covers:I-playlist playlist:O on:O Spotify:B-service .:O ," PlayMusic
+",3
+7225,Play:O Within:B-track You:I-track Without:I-track You:I-track by:O Distance:B-artist on:O zvooq:B-service .:O ," PlayMusic
+",3
+8697,rate:O Beaver:B-object_name Towers:I-object_name five:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+8374,rate:O the:O current:B-object_select album:B-object_type 2:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+2758,book:O a:O table:O in:O Sterling:B-city Run:I-city for:O two:B-party_size_number with:O a:O pool:B-facility and:O food:B-restaurant_type court:I-restaurant_type ," BookRestaurant
+",1
+2006,"renee:B-party_size_description sanders,:I-party_size_description marlene:I-party_size_description and:I-party_size_description jewel:I-party_size_description want:O to:O go:O to:O a:O gastropub:B-restaurant_type in:O the:O spa:B-facility "," BookRestaurant
+",1
+6911,Play:O my:O New:B-playlist Indie:I-playlist Mix:I-playlist on:O Google:B-service Music:I-service .:O ," PlayMusic
+",3
+2127,book:O a:O table:O for:O six:B-party_size_number at:O Hubbell:B-restaurant_name House:I-restaurant_name in:O NE:B-state ," BookRestaurant
+",1
+7179,play:O a:O music:O ballad:B-music_item from:O the:O sixties:B-year ," PlayMusic
+",3
+5149,What's:O the:O forecast:O for:O Gamaliel:B-city ," GetWeather
+",2
+1205,Put:O more:O Unbelievable:B-entity_name in:O my:B-playlist_owner grandes:B-playlist unplugged:I-playlist playlist.:O ," AddToPlaylist
+",0
+2276,Find:O a:O reservation:O far:B-spatial_relation from:O my:B-poi work:I-poi location:I-poi in:B-timeRange eight:I-timeRange hours:I-timeRange for:O 8:B-party_size_number people:O at:O Union:B-restaurant_name Auto:I-restaurant_name Company:I-restaurant_name ," BookRestaurant
+",1
+1610,add:O vertexguy:B-artist to:O Beach:B-playlist Vibes:I-playlist ," AddToPlaylist
+",0
+9095,Rate:O this:B-object_select novel:B-object_type 1:B-rating_value points:B-rating_unit .:O ," RateBook
+",4
+3365,book:O a:O spot:O for:O my:B-party_size_description colleague:I-party_size_description and:I-party_size_description I:I-party_size_description at:O a:O pizzeria:B-restaurant_type with:O a:O pool:B-facility in:O Owings:B-city Mills:I-city Wisconsin:B-state ," BookRestaurant
+",1
+1967,"Book:O a:O table:O at:O Central:B-restaurant_name Grocery:I-restaurant_name on:O Mar.:B-timeRange 22nd,:I-timeRange 2020:I-timeRange "," BookRestaurant
+",1
+4519,Will:O it:O be:O warm:B-condition_temperature in:O Powersville:B-city Guam:B-state 23:B-timeRange hours:I-timeRange from:I-timeRange now:I-timeRange ," GetWeather
+",2
+8131,Rate:O the:O Parable:B-object_name of:I-object_name the:I-object_name Sower:I-object_name a:O 2:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+8978,For:O the:O current:B-object_select essay:B-object_type I:O give:O a:O total:O of:O 1:B-rating_value stars:B-rating_unit ," RateBook
+",4
+2875,I:O want:O to:O make:O a:O reservation:O at:O the:O Conflict:B-restaurant_name Kitchen:I-restaurant_name for:O one:B-party_size_number ," BookRestaurant
+",1
+4032,what:O is:O the:O weather:O forecast:O faraway:B-spatial_relation from:O RI:B-state seven:B-timeRange months:I-timeRange from:I-timeRange now:I-timeRange ," GetWeather
+",2
+5200,book:O me:O a:O restaurant:O in:O Aransas:B-city Pass:I-city in:B-timeRange seventeen:I-timeRange hours:I-timeRange ," GetWeather
+",2
+6887,Play:O the:O last:B-sort song:B-music_item by:O Goldie:B-artist ," PlayMusic
+",3
+2389,Book:O a:O restaurant:B-restaurant_type for:O august:B-timeRange fourth:I-timeRange not:B-spatial_relation far:I-spatial_relation from:O the:O Marshall:B-country Islands:I-country .:O ," BookRestaurant
+",1
+818,Add:O women:B-playlist of:I-playlist metal:I-playlist to:O Odetta:B-artist Holmes:I-artist ," AddToPlaylist
+",0
+1025,Add:O Buddy:B-artist DeSylva:I-artist to:O my:B-playlist_owner this:B-playlist is:I-playlist j:I-playlist balvin:I-playlist playlist:O ," AddToPlaylist
+",0
+2141,I:O need:O to:O get:O seats:O for:O me:B-party_size_description and:I-party_size_description my:I-party_size_description ex:I-party_size_description wife:I-party_size_description to:O eat:O in:O Egypt:B-country .:O ," BookRestaurant
+",1
+1647,add:O tune:B-music_item to:O my:B-playlist_owner instrumental:B-playlist funk:I-playlist playlist:O ," AddToPlaylist
+",0
+7287,Play:O the:O song:B-music_item American:B-track Patrol:I-track by:O lauryn:B-artist hill:I-artist ," PlayMusic
+",3
+242,add:O an:O album:B-music_item in:O Guitar:B-playlist Hero:I-playlist Live:I-playlist Playlist:I-playlist ," AddToPlaylist
+",0
+8257,give:O five:B-rating_value stars:B-rating_unit to:O current:B-object_select album:B-object_type ," RateBook
+",4
+4270,what:O is:O the:O Random:B-city Lake:I-city forecast:O for:O hot:B-condition_temperature temps:O ," GetWeather
+",2
+3457,I:O need:O a:O table:O at:O a:O cafeteria:B-restaurant_type for:O a:O party:O of:O 6:B-party_size_number in:O AL:B-state ," BookRestaurant
+",1
+3028,I:O need:O a:O table:O for:O five:B-party_size_number in:O Viroqua:B-city ," BookRestaurant
+",1
+163,add:O Give:B-entity_name Us:I-entity_name Rest:I-entity_name to:O my:B-playlist_owner Very:B-playlist Nearly:I-playlist Nashville:I-playlist playlist:O ," AddToPlaylist
+",0
+40,add:O this:O song:B-music_item onto:O hip:B-playlist hop:I-playlist gaming:I-playlist playlist:O ," AddToPlaylist
+",0
+6647,play:O a:O song:B-music_item by:O Busta:B-artist Rhymes:I-artist ," PlayMusic
+",3
+7758,rate:O this:B-object_select book:B-object_type 5:B-rating_value stars:B-rating_unit out:O of:O 6:B-best_rating ," RateBook
+",4
+7417,use:O Spotify:B-service to:O play:O Nina:B-artist Persson:I-artist from:O 1962:B-year ," PlayMusic
+",3
+8732,I:O want:O to:O give:O this:B-object_select book:B-object_type zero:B-rating_value ," RateBook
+",4
+5136,what:O is:O the:O storm:B-condition_description forecast:O for:O now:B-timeRange in:O Jordan:B-country ," GetWeather
+",2
+7408,Play:O some:O music:O on:O Vimeo:B-service ," PlayMusic
+",3
+4900,What:O will:O the:O weather:O be:O like:O four:B-timeRange seconds:I-timeRange from:I-timeRange now:I-timeRange in:O South:B-state Dakota:I-state ," GetWeather
+",2
+1285,Put:O this:O track:B-music_item from:O The:B-artist Edge:I-artist on:O my:B-playlist_owner funk:B-playlist soul:I-playlist disco:I-playlist playlist:O ," AddToPlaylist
+",0
+4355,is:O it:O freezing:B-condition_temperature in:O Prompton:B-city ," GetWeather
+",2
+6921,Can:O I:O hear:O tod:B-artist ashley:I-artist music:O from:O 1953:B-year ?:O ," PlayMusic
+",3
+8103,Rate:O this:B-object_select novel:B-object_type 1:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+5461,Will:O there:O be:O rain:B-condition_description next:B-timeRange year:I-timeRange in:O New:B-state Hampshire:I-state ?:O ," GetWeather
+",2
+7796,Give:O the:O current:B-object_select book:B-object_type five:B-rating_value stars:B-rating_unit out:O of:O 6:B-best_rating .:O ," RateBook
+",4
+6890,Start:O up:O my:O nostalgic:B-playlist playlist.:O ," PlayMusic
+",3
+8834,"Of:O a:O total:O possible:O of:O 6:B-best_rating ,:O I:O think:O the:O current:B-object_select book:B-object_type is:O a:O five:B-rating_value .:O "," RateBook
+",4
+942,Add:O dahmer:B-entity_name to:O hiphop:B-playlist hot:I-playlist 50:I-playlist ," AddToPlaylist
+",0
+6179,play:O Glenn:B-artist Yarbrough:I-artist tunes:O ," PlayMusic
+",3
+7332,Play:O a:O popular:B-sort Gurdas:B-artist Maan:I-artist track:B-music_item ," PlayMusic
+",3
+5613,Tell:O me:O the:O weather:O forecast:O for:O here:B-current_location ," GetWeather
+",2
+2523,I:O need:O seats:O for:O five:B-party_size_number at:O a:O place:O five:B-timeRange and:I-timeRange a:I-timeRange half:I-timeRange months:I-timeRange from:I-timeRange now:I-timeRange ," BookRestaurant
+",1
+5674,play:O Women:B-playlist of:I-playlist Jazz:I-playlist ," PlayMusic
+",3
+1649,add:O song:B-music_item to:O my:B-playlist_owner Wild:B-playlist Country:I-playlist playlist:O ," AddToPlaylist
+",0
+6268,Play:O some:O seventies:B-year songs:O from:O Luke:B-artist Haines:I-artist off:O of:O youtube:B-service ," PlayMusic
+",3
+5279,Will:O it:O be:O freezing:B-condition_temperature in:B-timeRange seven:I-timeRange minutes:I-timeRange in:O Nora:B-city Fiji:B-country ?:O ," GetWeather
+",2
+4069,What's:O the:O forecast:O far:B-spatial_relation from:O here:B-current_location in:O Turks:B-country and:I-country Caicos:I-country Islands:I-country ?:O ," GetWeather
+",2
+4907,Is:O it:O warm:B-condition_temperature in:O Vietnam:B-country ," GetWeather
+",2
+6491,Play:O the:O 1951:B-year ballad:B-music_item ," PlayMusic
+",3
+6097,Please:O play:O playlist:O TODO:B-playlist REGGAETON:I-playlist ," PlayMusic
+",3
+4490,Will:O there:O be:O sun:B-condition_description in:O the:O Manassas:B-geographic_poi National:I-geographic_poi Battlefield:I-geographic_poi Park:I-geographic_poi ?:O ," GetWeather
+",2
+3037,Can:O you:O make:O reservations:O for:O two:B-party_size_number people:O somewhere:O distant:B-spatial_relation from:O Sutphin:B-poi Blvd:I-poi ," BookRestaurant
+",1
+8979,I:O give:O this:O book:B-object_type Dictionary:B-object_name of:I-object_name the:I-object_name English:I-object_name Language:I-object_name a:O 4:B-rating_value rating:O ," RateBook
+",4
+7964,Rate:O this:B-object_select novel:B-object_type 4:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+6777,I'd:O like:O to:O listen:O to:O Space:B-genre music:O ," PlayMusic
+",3
+4512,what:O is:O the:O cold:B-condition_temperature forecast:O for:O our:O current:B-current_location position:I-current_location ," GetWeather
+",2
+4122,"Weather:O for:O september:B-timeRange seventh,:I-timeRange 2039:I-timeRange in:O Salinas:B-geographic_poi River:I-geographic_poi National:I-geographic_poi Wildlife:I-geographic_poi Refuge:I-geographic_poi "," GetWeather
+",2
+3849,What:O is:O the:O weather:O forecast:O for:O four:B-timeRange pm:I-timeRange close:B-spatial_relation to:O Stretch:B-geographic_poi Point:I-geographic_poi State:I-geographic_poi Park:I-geographic_poi ," GetWeather
+",2
+4178,Tell:O me:O if:O it:O will:O hail:B-condition_description in:O Elliotts:B-city Bluff:I-city at:O five:B-timeRange o'clock:I-timeRange ," GetWeather
+",2
+1536,add:O clem:B-artist burke:I-artist in:O my:B-playlist_owner playlist:O Pre-Party:B-playlist R&B:I-playlist Jams:I-playlist ," AddToPlaylist
+",0
+1255,Add:O a:O song:B-music_item to:O my:B-playlist_owner playlist:O Independent:B-playlist Music:I-playlist Monday:I-playlist ," AddToPlaylist
+",0
+3898,What:O will:O the:O weather:O be:O in:O IN:B-state ?:O ," GetWeather
+",2
+369,Add:O el:B-entity_name choclo:I-entity_name to:O my:B-playlist_owner women:B-playlist of:I-playlist classical:I-playlist list:O ," AddToPlaylist
+",0
+4428,Will:O there:O be:O a:O blizzard:B-condition_description at:O seven:B-timeRange in:O Colorado:B-state ," GetWeather
+",2
+1059,Include:O dschiwan:B-artist gasparjan:I-artist in:O beth's:B-playlist_owner rare:B-playlist groove:I-playlist playlist.:O ," AddToPlaylist
+",0
+7583,Give:O The:B-object_name Plague:I-object_name a:O 0:B-rating_value ," RateBook
+",4
+3364,book:O a:O highly:B-sort rated:I-sort place:O in:O IN:B-state in:B-timeRange seven:I-timeRange years:I-timeRange at:O a:O pub:B-restaurant_type ," BookRestaurant
+",1
+3134,Find:O me:O a:O coffeehouse:B-restaurant_type for:O nine:B-party_size_number in:O Indiana:B-state that:O has:O access:O to:O a:O pool:B-facility ," BookRestaurant
+",1
+1308,Go:O to:O cali:B-playlist fire:I-playlist and:O add:O refrain:B-entity_name to:O my:B-playlist_owner playlist:O ," AddToPlaylist
+",0
+3387,"I:O need:O to:O reserve:O two:B-party_size_number seats:O to:O eat:O at:O in:O Salina:B-city ,:O Alabama:B-state .:O "," BookRestaurant
+",1
+8488,this:B-object_select novel:B-object_type gets:O 1:B-rating_value star:O ," RateBook
+",4
+8650,give:O The:B-object_name Rosales:I-object_name Saga:I-object_name 2:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+6669,Play:O Red:B-track Barchetta:I-track by:O Blind:B-artist Lemon:I-artist Jefferson:I-artist .:O ," PlayMusic
+",3
+9041,Rate:O this:B-object_select essay:B-object_type a:O four:B-rating_value ," RateBook
+",4
+1228,Add:O this:O tune:B-music_item to:O my:B-playlist_owner 70s:B-playlist road:I-playlist trip:I-playlist list:O ," AddToPlaylist
+",0
+5976,play:O some:O nineties:B-year music:O ," PlayMusic
+",3
+2352,"book:O a:O restaurant:B-restaurant_type for:O 2:B-party_size_number in:O Cross:B-city Timbers:I-city ,:O District:B-state Of:I-state Columbia:I-state "," BookRestaurant
+",1
+4417,Will:O the:O weather:O be:O temperate:B-condition_temperature in:O Betances:B-city ," GetWeather
+",2
+5810,Play:O the:O Ricky:B-artist Wilson:I-artist album:B-music_item Spectral:B-album Dusk:I-album ," PlayMusic
+",3
+8771,"Out:O of:O a:O possible:O 6:B-best_rating stars:B-rating_unit ,:O I:O give:O The:B-object_name Princes:I-object_name and:I-object_name The:I-object_name Treasure:I-object_name a:O five:B-rating_value .:O "," RateBook
+",4
+4296,Is:O it:O forecast:O to:O be:O windy:B-condition_description here:B-current_location in:B-timeRange seven:I-timeRange seconds:I-timeRange ?:O ," GetWeather
+",2
+1155,put:O Framed:B-entity_name onto:O my:B-playlist_owner ntc:B-playlist studio:I-playlist sounds:I-playlist playlist:O ," AddToPlaylist
+",0
+8829,give:O four:B-rating_value points:B-rating_unit to:O current:B-object_select essay:B-object_type ," RateBook
+",4
+8361,I:O give:O the:O previous:B-object_select album:B-object_type one:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit .:O ," RateBook
+",4
+2241,I:O would:O like:O to:O make:O a:O reservation:O for:O 2:B-party_size_number for:O brunch:B-timeRange .:O ," BookRestaurant
+",1
+6236,Play:O some:O chant:B-music_item music:O by:O Kevin:B-artist Jonas:I-artist on:O deezer:B-service .:O ," PlayMusic
+",3
+7285,Play:O a:O popular:B-sort sound:B-music_item track:I-music_item by:O Joe:B-artist Pass:I-artist on:O Itunes:B-service .:O ," PlayMusic
+",3
+7702,I'd:O rate:O Days:B-object_name of:I-object_name Blood:I-object_name and:I-object_name Starlight:I-object_name a:O 4:B-rating_value ," RateBook
+",4
+3020,book:O a:O stracciatella:B-served_dish provider:O coffeehouse:B-restaurant_type for:O 10:B-party_size_number ," BookRestaurant
+",1
+1612,add:O Partners:B-entity_name in:I-entity_name Crime:I-entity_name to:O joann's:B-playlist_owner Lo:B-playlist Que:I-playlist Suena:I-playlist Los:I-playlist Angeles:I-playlist ," AddToPlaylist
+",0
+4453,"When:O it:O comes:O to:O Dukes:B-city and:O the:O District:B-state Of:I-state Columbia:I-state ,:O what:O will:O the:O weather:O be:O in:B-timeRange one:I-timeRange hour:I-timeRange "," GetWeather
+",2
+1289,"put:O Claude:B-artist VonStroke:I-artist onto:O my:B-playlist_owner This:B-playlist Is:I-playlist Earth,:I-playlist Wind:I-playlist &:I-playlist Fire:I-playlist "," AddToPlaylist
+",0
+5462,Will:O there:O be:O rain:B-condition_description in:B-timeRange 8:I-timeRange minutes:I-timeRange in:O MD:B-state ," GetWeather
+",2
+6456,I:O want:O to:O hear:O something:O by:O Joe:B-artist Dolce:I-artist on:O Google:B-service Music:I-service ," PlayMusic
+",3
+6594,Play:O a:O seventies:B-year Tom:B-artist Thacker:I-artist ballad:B-music_item ," PlayMusic
+",3
+3104,"Book:O a:O table:O for:O nine:B-party_size_number people:O at:O a:O brasserie:B-restaurant_type on:O Jan.:B-timeRange 16,:I-timeRange 2034:I-timeRange "," BookRestaurant
+",1
+5307,What's:O the:O weather:O in:O Paulette:B-city Yemen:B-country ," GetWeather
+",2
+3297,Book:O me:O a:O table:O for:O 8:B-party_size_number at:O a:O restaurant:B-restaurant_type for:O seven:B-timeRange pm:I-timeRange ," BookRestaurant
+",1
+3810,Is:O it:O supposed:O to:O gt:O colder:B-condition_temperature in:O OR:B-state ," GetWeather
+",2
+910,add:O Eef:B-artist Barzelay:I-artist to:O my:B-playlist_owner Country:B-playlist Coffeehouse:I-playlist ," AddToPlaylist
+",0
+1585,Put:O the:O frl:B-artist menke:I-artist song:B-music_item in:O my:B-playlist_owner comedy:B-playlist top:I-playlist tracks:I-playlist ," AddToPlaylist
+",0
+3884,"What's:O the:O weather:O forecast:O for:O Glade:B-city Park:I-city on:O July:B-timeRange twenty-fifth,:I-timeRange 2033:I-timeRange ?:O "," GetWeather
+",2
+4578,Will:O it:O blizzard:B-condition_description today:B-timeRange in:O Sint:B-country Maarten:I-country ," GetWeather
+",2
+8525,Give:O Love:B-object_name in:I-object_name the:I-object_name Time:I-object_name of:I-object_name Foreclosure:I-object_name 4:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+8566,Give:O 3:B-rating_value /:O 6:B-best_rating stars:B-rating_unit to:O The:B-object_name Simon:I-object_name &:I-object_name Schuster:I-object_name Encyclopedia:I-object_name of:I-object_name Dinosaurs:I-object_name and:I-object_name Prehistoric:I-object_name Creatures:I-object_name ," RateBook
+",4
+1002,Add:O Stephanie:B-artist Biddle:I-artist to:O my:B-playlist_owner Digster:B-playlist Reggae:I-playlist playlist:O ," AddToPlaylist
+",0
+4047,"Will:O there:O be:O a:O lot:O of:O cloud:B-condition_description activity:O next:B-timeRange summer:I-timeRange in:O Nellieburg:B-city ,:O Arkansas:B-state "," GetWeather
+",2
+5731,Can:O you:O play:O a:O top:B-sort 5:I-sort song:B-music_item by:O Manos:B-artist Hadjidakis:I-artist ," PlayMusic
+",3
+4581,Is:O it:O humid:B-condition_description in:O Kuwait:B-country ," GetWeather
+",2
+8499,give:O 5:B-rating_value points:B-rating_unit to:O current:B-object_select novel:B-object_type ," RateBook
+",4
+1789,For:O the:O playlist:O this:B-playlist is:I-playlist mozart:I-playlist add:O Nana:B-entity_name Mizuki:I-entity_name Live:I-entity_name Fighter:I-entity_name -Blue:I-entity_name x:I-entity_name Red:I-entity_name Side-:I-entity_name ," AddToPlaylist
+",0
+7857,I:O rate:O 4:B-rating_value of:O 6:B-best_rating points:B-rating_unit for:O this:B-object_select textbook:B-object_type ," RateBook
+",4
+8532,Rate:O The:B-object_name A-Z:I-object_name Guide:I-object_name to:I-object_name Arranged:I-object_name Marriage:I-object_name 0:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+7620,I:O would:O like:O to:O rate:O this:B-object_select album:B-object_type 3:B-rating_value points:B-rating_unit and:O a:O best:O rating:O of:O 6:B-best_rating ," RateBook
+",4
+3770,What's:O the:O weather:O in:O Oregon:B-state ," GetWeather
+",2
+3626,book:O a:O brasserie:B-restaurant_type for:O connie:B-party_size_description scott:I-party_size_description and:I-party_size_description madeline:I-party_size_description in:O Northern:B-state Mariana:I-state Islands:I-state in:B-timeRange eleven:I-timeRange hours:I-timeRange ," BookRestaurant
+",1
+3552,Book:O a:O northeastern:B-cuisine brazilian:I-cuisine restaurant:B-restaurant_type for:O 10:B-timeRange am:I-timeRange ," BookRestaurant
+",1
+8934,Rate:O the:O current:B-object_select textbook:B-object_type 0:B-rating_value out:O of:O 6:B-best_rating .:O ," RateBook
+",4
+7127,Play:O ep:B-music_item from:O Quasimoto:B-artist from:O the:O nineties:B-year ," PlayMusic
+",3
+5064,what:O is:O the:O weather:O forecast:O for:O Latvia:B-country Strasburg:B-city ," GetWeather
+",2
+2322,Book:O a:O tea:B-timeRange place:O at:O seven:B-party_size_number ," BookRestaurant
+",1
+6900,Play:O some:O good:B-sort music:O from:O 2012:B-year .:O ," PlayMusic
+",3
+5452,will:O it:O be:O chillier:B-condition_temperature in:O Ruskin:B-city ," GetWeather
+",2
+6641,Play:O some:O 1970:B-year Antero:B-artist Manninen:I-artist on:O zvooq:B-service .:O ," PlayMusic
+",3
+1283,I:O want:O to:O put:O this:O artist:B-music_item in:O Mellowed:B-playlist Out:I-playlist Gaming:I-playlist ," AddToPlaylist
+",0
+552,Send:O the:O track:B-music_item from:O andrew:B-artist hewitt:I-artist to:O the:O piano:B-playlist ballads:I-playlist playlist:O ," AddToPlaylist
+",0
+3665,Book:O spot:O for:O eight:B-party_size_number at:O bar:B-restaurant_type that:O serves:O potée:B-served_dish ," BookRestaurant
+",1
+928,I:O want:O to:O add:O Kiara:B-artist to:O my:B-playlist_owner Digster:B-playlist Future:I-playlist Hits:I-playlist playlist:O ," AddToPlaylist
+",0
+4804,"Tell:O me:O if:O there:O will:O be:O a:O snowstorm:B-condition_description on:O Sep.:B-timeRange the:I-timeRange second,:I-timeRange 2028:I-timeRange in:O Olpe:B-city "," GetWeather
+",2
+7119,Play:O the:O playlist:O Tropical:B-playlist Morning:I-playlist on:O Pandora:B-service ," PlayMusic
+",3
+4229,Will:O there:O be:O fog:B-condition_description not:B-spatial_relation far:I-spatial_relation from:O Mexico:B-country on:O Apr.:B-timeRange 27:I-timeRange ," GetWeather
+",2
+5611,"What:O will:O the:O weather:O be:O within:B-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation in:O Minnesota:B-state on:O June:B-timeRange 27th,:I-timeRange 2023:I-timeRange ?:O "," GetWeather
+",2
+8868,Give:O this:B-object_select album:B-object_type three:B-rating_value /:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+5577,What:O is:O the:O weather:O going:O to:O be:O like:O in:O Epleys:B-city in:O South:B-country Georgia:I-country and:I-country the:I-country South:I-country Sandwich:I-country Islands:I-country in:B-timeRange 11:I-timeRange months:I-timeRange ," GetWeather
+",2
+8315,Rate:O this:O current:B-object_select essay:B-object_type five:B-rating_value stars:B-rating_unit out:O of:O 6:B-best_rating total:O ," RateBook
+",4
+4612,What's:O the:O weather:O like:O in:O Hamilton:B-city City:I-city ," GetWeather
+",2
+503,Add:O Cake:B-entity_name to:I-entity_name Bake:I-entity_name to:O lo:B-playlist que:I-playlist suena:I-playlist new:I-playlist york:I-playlist ," AddToPlaylist
+",0
+2813,Book:O a:O reservation:O for:O a:O restaurant:B-restaurant_type serving:O burger:B-served_dish in:O Malaysia:B-country ," BookRestaurant
+",1
+4218,Check:O the:O forecast:O for:O Keene:B-city .:O ," GetWeather
+",2
+5755,Play:O some:O amber:B-artist kuo:I-artist from:O the:O eighties:B-year on:O Spotify:B-service .:O ," PlayMusic
+",3
+5783,"Let:O me:O hear:O the:O top:B-sort album:B-music_item by:O the:O artist,:O Skin:B-artist .:O "," PlayMusic
+",3
+4831,What's:O the:O weather:O forecast:O in:B-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation of:O ME:B-state on:O Apr.:B-timeRange 20:I-timeRange ?:O ," GetWeather
+",2
+5521,Will:O it:O be:O foggy:B-condition_description at:O sunset:B-timeRange in:O Red:B-city Devil:I-city ," GetWeather
+",2
+3303,Please:O book:O a:O brasserie:B-restaurant_type restaurant:I-restaurant_type for:O eight:B-party_size_number in:O Ireland:B-country ," BookRestaurant
+",1
+5897,play:O the:O top-20:B-sort Rita:B-artist Macneil:I-artist songs:O ," PlayMusic
+",3
+407,add:O LISA:B-artist to:O my:B-playlist_owner playlist:O Street:B-playlist Dance:I-playlist ," AddToPlaylist
+",0
+8757,"I:O give:O Emile,:B-object_name or:I-object_name On:I-object_name Education:I-object_name five:B-rating_value points:B-rating_unit .:O "," RateBook
+",4
+2292,I'd:O like:O a:O table:O for:O my:B-party_size_description step:I-party_size_description grandfather:I-party_size_description and:I-party_size_description I:I-party_size_description at:O Five:B-restaurant_name Fifty-Five:I-restaurant_name in:O NV:B-state ," BookRestaurant
+",1
+3652,"book:O a:O spot:O for:O ten:B-party_size_number ,:O tomorrow:B-timeRange at:O a:O popular:B-sort vegan:B-cuisine restaurant:B-restaurant_type that:O is:O close:B-spatial_relation to:O Alabama:B-state "," BookRestaurant
+",1
+3395,I:O need:O a:O reservation:O for:O Orthodox:B-timeRange Good:I-timeRange Friday:I-timeRange ," BookRestaurant
+",1
+3936,what:O will:O the:O weather:O be:O in:O Norway:B-country at:O sunset:B-timeRange ," GetWeather
+",2
+1410,add:O artist:B-music_item to:O lo:B-playlist mejor:I-playlist de:I-playlist los:I-playlist 00's:I-playlist ," AddToPlaylist
+",0
+3422,I:O want:O to:O eat:O breakfast:B-timeRange at:O the:O Green:B-restaurant_name Restaurant:I-restaurant_name Certification:I-restaurant_name ," BookRestaurant
+",1
+7820,rate:O the:O book:B-object_type Dreams:B-object_name of:I-object_name the:I-object_name Raven:I-object_name 5:B-rating_value stars:B-rating_unit ," RateBook
+",4
+4407,what:O is:O the:O forecast:O in:O Texas:B-state ," GetWeather
+",2
+1018,Add:O The:B-entity_name Block:I-entity_name Brochure:I-entity_name Welcome:I-entity_name to:I-entity_name the:I-entity_name Soil:I-entity_name 6:I-entity_name onto:O my:B-playlist_owner Café:B-playlist con:I-playlist Leche:I-playlist list:O ," AddToPlaylist
+",0
+2054,Book:O reservations:O at:O a:O restaurant:B-restaurant_type in:O MI:B-state seven:B-timeRange weeks:I-timeRange from:I-timeRange now:I-timeRange ," BookRestaurant
+",1
+3837,how:O much:O hotter:B-condition_temperature will:O it:O be:O here:B-current_location tomorrow:B-timeRange ," GetWeather
+",2
+6851,Play:O me:O a:O Maia:B-artist Hirasawa:I-artist soundtrack:B-music_item from:O 1951:B-year ," PlayMusic
+",3
+3109,Book:O a:O restaurant:B-restaurant_type for:O eight:B-party_size_number people:O in:B-timeRange six:I-timeRange years:I-timeRange .:O ," BookRestaurant
+",1
+5750,Play:O Before:B-track I:I-track Grew:I-track Up:I-track To:I-track Love:I-track You:I-track by:O Wafah:B-artist Dufour:I-artist ," PlayMusic
+",3
+1256,Add:O Yuna:B-artist Ito:I-artist to:O the:O hot:B-playlist rods:I-playlist &:I-playlist horror:I-playlist shows:I-playlist playlist.:O ," AddToPlaylist
+",0
+5761,Play:O a:O chant:B-music_item from:O 1978:B-year .:O ," PlayMusic
+",3
+5680,Play:O Post:B-playlist Garage:I-playlist Wave:I-playlist Revival:I-playlist playlist.:O ," PlayMusic
+",3
+5900,Play:O some:O soul:B-genre music:O ," PlayMusic
+",3
+323,add:O artist:B-music_item rob:B-artist dougan:I-artist to:O electroNOW:B-playlist ," AddToPlaylist
+",0
+204,add:O the:O song:B-music_item to:O the:O Dub:B-playlist On:I-playlist The:I-playlist Beach:I-playlist playlist:O ," AddToPlaylist
+",0
+3699,Book:O the:O CityZen:B-restaurant_name for:O six:B-party_size_number people.:O ," BookRestaurant
+",1
+2686,in:B-timeRange one:I-timeRange hundred:I-timeRange twenty:I-timeRange seven:I-timeRange days:I-timeRange I'd:O like:O to:O eat:O at:O a:O pizzeria:B-restaurant_type in:O North:B-city Lima:I-city ," BookRestaurant
+",1
+9101,rate:O Mandela::B-object_name The:I-object_name Authorised:I-object_name Biography:I-object_name a:O one:B-rating_value ," RateBook
+",4
+5168,Wuill:O it:O be:O cloudy:B-condition_description in:O Dickson:B-city City:I-city Illinois:B-state ," GetWeather
+",2
+8,Add:O artist:B-music_item to:O playlist:O Epic:B-playlist Gaming:I-playlist ," AddToPlaylist
+",0
+9111,rate:O this:B-object_select textbook:B-object_type 3:B-rating_value out:O 6:B-best_rating ," RateBook
+",4
+877,Add:O viktor:B-artist merjanov:I-artist to:O california:B-playlist rock:I-playlist state:I-playlist ," AddToPlaylist
+",0
+7903,A:B-object_name Day:I-object_name No:I-object_name Pigs:I-object_name Would:I-object_name Die:I-object_name deserves:O a:O best:O rating:O of:O 6:B-best_rating and:O a:O value:O of:O 4:B-rating_value ," RateBook
+",4
+660,add:O country:B-playlist nights:I-playlist by:O A:B-entity_name Journal:I-entity_name of:I-entity_name the:I-entity_name Plague:I-entity_name Year:I-entity_name to:O playlist:O ," AddToPlaylist
+",0
+2583,Book:O a:O popular:B-sort bar:B-restaurant_type in:O Chowchilla:B-city ," BookRestaurant
+",1
+488,add:O this:O Roy:B-artist Orbison:I-artist song:B-music_item onto:O Women:B-playlist of:I-playlist Comedy:I-playlist ," AddToPlaylist
+",0
+8589,I:O want:O to:O give:O this:B-object_select album:B-object_type 4:B-rating_value stars:B-rating_unit ," RateBook
+",4
+3494,book:O me:O a:O reservation:O at:O a:O highly:B-sort rated:I-sort tavern:B-restaurant_type in:O Hornersville:B-city ," BookRestaurant
+",1
+1989,Book:O reservations:O at:O a:O restaurant:B-restaurant_type for:O me:B-party_size_description and:I-party_size_description my:I-party_size_description ex:I-party_size_description husband:I-party_size_description in:O West:B-state Virginia:I-state ," BookRestaurant
+",1
+8061,rate:O the:O book:B-object_type The:B-object_name Devil:I-object_name in:I-object_name Velvet:I-object_name 4:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+4358,What's:O the:O weather:O in:O Blackman:B-city Jordan:B-country ," GetWeather
+",2
+7849,Rate:O this:B-object_select album:B-object_type zero:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+6930,Play:O any:O song:B-music_item from:O 2001:B-year ," PlayMusic
+",3
+4692,"Is:O it:O going:O to:O be:O warm:B-condition_temperature on:O march:B-timeRange the:I-timeRange 12th:I-timeRange in:O Pendleton:B-city ,:O Delaware:B-state ?:O "," GetWeather
+",2
+137,add:O track:B-music_item to:O my:B-playlist_owner Cloud:B-playlist Rap:I-playlist ," AddToPlaylist
+",0
+7208,Play:O Rob:B-artist Dougan:I-artist on:O youtube:B-service ," PlayMusic
+",3
+2584,Book:O a:O nearby:B-spatial_relation northeast:B-cuisine indian:I-cuisine restaurant:B-restaurant_type in:O North:B-state Carolina:I-state for:O ten:B-party_size_number people:O at:O six:B-timeRange am:I-timeRange .:O ," BookRestaurant
+",1
+3513,Please:O book:O a:O room:O to:O accommodate:O one:B-party_size_number in:B-timeRange 11:I-timeRange weeks:I-timeRange near:B-spatial_relation Bahamas:B-country restaurant:B-restaurant_type ," BookRestaurant
+",1
+8591,rate:O this:O current:B-object_select essay:B-object_type 4:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+8195,How:O do:O I:O rate:O this:B-object_select book:B-object_type 4:B-rating_value stars?:O ," RateBook
+",4
+5280,How:O will:O the:O weather:O be:O on:O May:B-timeRange 9:I-timeRange in:O Wyoming:B-state ?:O ," GetWeather
+",2
+3480,I:O need:O a:O reservation:O for:O Little:B-restaurant_name Grill:I-restaurant_name Collective:I-restaurant_name for:O supper:B-timeRange with:O eight:B-party_size_number people:O ," BookRestaurant
+",1
+5330,Can:O you:O tell:O me:O the:O weather:O forecast:O for:O Samoa:B-country ," GetWeather
+",2
+1222,I:O want:O you:O to:O add:O must:B-entity_name b:I-entity_name 21:I-entity_name to:O acoustic:B-playlist covers:I-playlist the:I-playlist mash:I-playlist ups:I-playlist .:O ," AddToPlaylist
+",0
+2511,book:O a:O spot:O at:O a:O highly:B-sort rated:I-sort tavern:B-restaurant_type in:O Colombia:B-country ," BookRestaurant
+",1
+2410,I:O want:O to:O eat:O in:B-timeRange 19:I-timeRange hours:I-timeRange at:O NM:B-state ," BookRestaurant
+",1
+8742,give:O 2:B-rating_value out:O of:O 6:B-best_rating to:O Smoke:B-object_name in:I-object_name the:I-object_name Forest:I-object_name ," RateBook
+",4
+6652,I:O want:O to:O hear:O the:O Live:B-album At:I-album Slane:I-album Castle:I-album album:B-music_item by:O Haifa:B-artist Wehbe:I-artist ," PlayMusic
+",3
+7141,Play:O my:O springtime:B-playlist playlist.:O ," PlayMusic
+",3
+835,Put:O some:O Stu:B-artist Phillips:I-artist in:O the:O women:B-playlist of:I-playlist acoustic:I-playlist playlist.:O ," AddToPlaylist
+",0
+5770,Can:O I:O hear:O a:O symphony:B-music_item from:O the:O seventies:B-year on:O Youtube:B-service ?:O ," PlayMusic
+",3
+7901,this:O chronicle:B-object_part_of_series_type of:O The:B-object_name Origins:I-object_name and:I-object_name History:I-object_name of:I-object_name Consciousness:I-object_name is:O a:O three:B-rating_value ," RateBook
+",4
+4670,Is:O it:O going:O to:O get:O hotter:B-condition_temperature at:O the:O Halfbreed:B-geographic_poi Lake:I-geographic_poi National:I-geographic_poi Wildlife:I-geographic_poi Refuge:I-geographic_poi ," GetWeather
+",2
+5448,What's:O the:O weather:O like:O in:O Wyandotte:B-city Netherlands:B-country Antilles:I-country ," GetWeather
+",2
+3266,"Book:O a:O table:O at:O a:O tavern:B-restaurant_type in:O Albania:B-country for:O annette,:B-party_size_description darlene:I-party_size_description and:I-party_size_description barbara:I-party_size_description james:I-party_size_description for:O ten:B-timeRange AM:I-timeRange "," BookRestaurant
+",1
+3991,"what:O is:O the:O forecast:O for:O Bonner:B-city starting:O oct.:B-timeRange 24th,:I-timeRange 2025:I-timeRange for:O Argentina:B-country "," GetWeather
+",2
+7830,Rate:O Ecology::B-object_name From:I-object_name Individuals:I-object_name to:I-object_name Ecosystems:I-object_name five:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+3469,my:B-party_size_description sons:I-party_size_description and:I-party_size_description I:I-party_size_description want:O to:O dine:O at:O The:B-restaurant_name Water:I-restaurant_name Club:I-restaurant_name in:O Georgia:B-state ," BookRestaurant
+",1
+7025,Play:O 2004:B-year Guy:B-artist Sebastian:I-artist on:O Itunes:B-service ," PlayMusic
+",3
+7628,rate:O this:B-object_select novel:B-object_type 4:B-rating_value out:O of:O 6:B-best_rating ," RateBook
+",4
+7374,Play:O melody:B-music_item music:O from:O the:O fourties:B-year .:O ," PlayMusic
+",3
+4834,How:O temperate:B-condition_temperature will:O it:O be:O here:B-current_location this:B-timeRange week:I-timeRange ?:O ," GetWeather
+",2
+4170,"Tell:O me:O if:O it:O will:O be:O hot:B-condition_temperature on:O Jun.:B-timeRange the:I-timeRange 10th:I-timeRange in:O San:B-city de:I-city Fuca:I-city ,:O Sweden:B-country "," GetWeather
+",2
+263,add:O this:O song:B-music_item to:O Rock:B-playlist Party:I-playlist ," AddToPlaylist
+",0
+155,I:O want:O to:O add:O something:O by:O the:O artist:B-music_item Nadine:B-artist to:O my:B-playlist_owner Workday:B-playlist –:I-playlist Pop:I-playlist playlist:O ," AddToPlaylist
+",0
+1556,add:O M-CABI:B-entity_name to:O the:O playlist:O named:O Pre-Party:B-playlist R&B:I-playlist Jams:I-playlist ," AddToPlaylist
+",0
+5381,Is:O it:O hotter:B-condition_temperature in:O Vernon:B-city ," GetWeather
+",2
+1284,Add:O Strong:B-entity_name to:O the:O Metal:B-playlist Monday:I-playlist playlist:O ," AddToPlaylist
+",0
+130,add:O pangaea:B-entity_name to:O my:B-playlist_owner Gold:B-playlist Edition:I-playlist playlist:O ," AddToPlaylist
+",0
+8310,Rate:O the:O Under:B-object_name the:I-object_name Sign:I-object_name of:I-object_name Saturn:I-object_name 0:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+7822,Give:O this:B-object_select novel:B-object_type two:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+1340,"I:O want:O to:O add:O george:B-artist formby,:I-artist jr:I-artist to:O the:O family:B-playlist favorites:I-playlist playlist:O "," AddToPlaylist
+",0
+2308,I:O want:O a:O table:O for:O 2:B-party_size_number at:O a:O Portugal:B-country restaurant:B-restaurant_type ," BookRestaurant
+",1
+7181,play:O Escapada:B-playlist ," PlayMusic
+",3
+1780,"add:O Tinker,:B-entity_name Tailor:I-entity_name to:O my:B-playlist_owner playlist:O titled:O this:B-playlist is:I-playlist trey:I-playlist songz:I-playlist "," AddToPlaylist
+",0
+6230,play:O some:O seventies:B-year Dj:B-artist Colette:I-artist ," PlayMusic
+",3
+2969,I:O need:O a:O reservation:O for:O ten:B-party_size_number in:O Wisconsin:B-state ," BookRestaurant
+",1
+7371,Play:O my:O Top:B-playlist Gaming:I-playlist Tracks:I-playlist .:O ," PlayMusic
+",3
+1907,I:O need:O a:O reservation:O for:O Chapter:B-restaurant_name One:I-restaurant_name in:O West:B-city Odessa:I-city for:O a:O party:O of:O one:B-party_size_number ," BookRestaurant
+",1
+7800,rate:O the:O book:B-object_type The:B-object_name Ninth:I-object_name Avatar:I-object_name 3:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+4711,What's:O the:O weather:O forecast:O for:O Moss:B-city Hill:I-city ?:O ," GetWeather
+",2
+1950,I:O need:O to:O book:O a:O table:O for:O 7:B-party_size_number in:O Estonia:B-country ," BookRestaurant
+",1
+1004,add:O Puzzles:B-entity_name Like:I-entity_name You:I-entity_name in:O my:B-playlist_owner playlist:O Reggae:B-playlist ," AddToPlaylist
+",0
+6247,"use:O netflix:B-service to:O play:O Bizzy:B-artist Bone:I-artist Kiss:B-track Me:I-track Goodnight,:I-track Sergeant:I-track Major:I-track "," PlayMusic
+",3
+1384,add:O back:B-entity_name at:I-entity_name the:I-entity_name velvet:I-entity_name lounge:I-entity_name to:O my:B-playlist_owner cleaning:B-playlist playlist:O ," AddToPlaylist
+",0
+6473,Play:O any:O song:B-music_item from:O Rebecca:B-artist Hewitt:I-artist ," PlayMusic
+",3
+1046,Add:O the:B-entity_name happy:I-entity_name elf:I-entity_name to:O my:B-playlist_owner Fresh:B-playlist Finds:I-playlist Fire:I-playlist Emoji:I-playlist playlist:O ," AddToPlaylist
+",0
+1802,add:O this:O artist:B-music_item to:O my:B-playlist_owner playlist:O named:O funtime:B-playlist ," AddToPlaylist
+",0
+7936,I:O would:O give:O this:O current:B-object_select chronicle:B-object_part_of_series_type a:O value:O of:O 4:B-rating_value and:O a:O best:O rating:O of:O 6:B-best_rating ," RateBook
+",4
+6183,Play:O The:B-track Garden:I-track Of:I-track Allah:I-track from:O Wade:B-artist Mainer:I-artist ," PlayMusic
+",3
+8073,rate:O the:O current:B-object_select book:B-object_type a:O four:B-rating_value ," RateBook
+",4
+4890,Will:O it:O be:O warmer:B-condition_temperature in:B-timeRange 20:I-timeRange minutes:I-timeRange at:O Natural:B-geographic_poi Park:I-geographic_poi of:I-geographic_poi Las:I-geographic_poi Batuecas:I-geographic_poi ," GetWeather
+",2
+6031,Play:O a:O Scott:B-artist Lafaro:I-artist soundtrack:B-music_item ," PlayMusic
+",3
+2580,I:O need:O a:O reservation:O for:O a:O party:O of:O ten:B-party_size_number in:O Algeria:B-country .:O ," BookRestaurant
+",1
+2184,I:O need:O a:O reservation:O for:O my:B-party_size_description teens:I-party_size_description and:I-party_size_description I:I-party_size_description six:B-timeRange months:I-timeRange from:I-timeRange now:I-timeRange in:O Tennessee:B-state ," BookRestaurant
+",1
+4213,What's:O the:O weather:O going:O to:O be:O one:B-timeRange hour:I-timeRange from:I-timeRange now:I-timeRange in:O Taiwan:B-country ," GetWeather
+",2
+5720,Play:O a:O tune:B-music_item by:O Andrew:B-artist Findon:I-artist ," PlayMusic
+",3
+996,"add:O Please,:B-entity_name Please,:I-entity_name Please,:I-entity_name Let:I-entity_name Me:I-entity_name Get:I-entity_name What:I-entity_name I:I-entity_name Want:I-entity_name to:O my:B-playlist_owner crate:B-playlist diggers:I-playlist anonymous:I-playlist "," AddToPlaylist
+",0
+4571,What:O is:O the:O foreast:O for:O my:O current:B-current_location location:I-current_location ," GetWeather
+",2
+8282,Rate:O the:O current:B-object_select chronicle:B-object_part_of_series_type a:O two:B-rating_value ," RateBook
+",4
+8110,give:O four:B-rating_value out:O of:O 6:B-best_rating star:O to:O this:B-object_select novel:B-object_type ," RateBook
+",4
+2728,book:O rosalie:B-party_size_description stewart:I-party_size_description and:I-party_size_description evelyn:I-party_size_description at:O a:O restaurant:B-restaurant_type ," BookRestaurant
+",1
+5429,What's:O the:O weather:O forecast:O for:O my:O current:B-current_location location:I-current_location on:O jun.:B-timeRange 2:I-timeRange ?:O ," GetWeather
+",2
+5877,Play:O a:O song:B-music_item by:O Tim:B-artist Finn:I-artist on:O Last:B-service Fm:I-service ," PlayMusic
+",3
+3885,Will:O it:O snow:B-condition_description in:O AMy:B-city ," GetWeather
+",2
+6666,Ply:O best:B-sort 1973:B-year sound:B-music_item track:I-music_item ," PlayMusic
+",3
+5321,Is:O it:O chillier:B-condition_temperature in:O Hong:B-country Kong:I-country than:O it:O is:O here:B-current_location ," GetWeather
+",2
+5980,Plan:O an:O album:B-music_item by:O Roni:B-artist Duani:I-artist .:O ," PlayMusic
+",3
+2378,Book:O a:O gastropub:B-restaurant_type that:O has:O balinese:B-cuisine food:O in:B-timeRange twenty:I-timeRange hours:I-timeRange in:O Comunas:B-city for:O my:B-party_size_description nephew:I-party_size_description and:I-party_size_description I:I-party_size_description ," BookRestaurant
+",1
+5355,"weather:O in:O Nationalpark:B-geographic_poi Nevado:I-geographic_poi Tres:I-geographic_poi Cruces:I-geographic_poi on:O mar.:B-timeRange 4th,:I-timeRange 2020:I-timeRange "," GetWeather
+",2
+850,I:O want:O another:O track:B-music_item added:O to:O the:O Korean:B-playlist OSTs:I-playlist playlist.:O ," AddToPlaylist
+",0
+3825,Is:O it:O going:O to:O hail:B-condition_description in:O Niger:B-country ," GetWeather
+",2
+212,add:O this:O track:B-music_item to:O my:B-playlist_owner party:B-playlist playlist:O ," AddToPlaylist
+",0
+8464,I:O want:O to:O rate:O the:O saga:B-object_part_of_series_type The:B-object_name Italian:I-object_name two:B-rating_value to:O 6:B-best_rating points:B-rating_unit .:O ," RateBook
+",4
+4349,Weather:O for:O here:B-current_location right:O now:B-timeRange ," GetWeather
+",2
+7233,play:O some:O eighties:B-year by:O Amirbai:B-artist Karnataki:I-artist ," PlayMusic
+",3
+182,add:O to:O my:B-playlist_owner playlist:O Lazy:B-playlist Chill:I-playlist Afternoon:I-playlist Nothing:B-entity_name Can:I-entity_name Stop:I-entity_name Us:I-entity_name ," AddToPlaylist
+",0
+2576,book:O The:B-restaurant_name Middle:I-restaurant_name East:I-restaurant_name restaurant:B-restaurant_type in:O IN:B-state for:O noon:B-timeRange ," BookRestaurant
+",1
+3682,Grab:O a:O table:O at:O a:O restaurant:B-restaurant_type in:O Minnesota:B-state that:O serves:O ice:B-served_dish cream:I-served_dish cake:I-served_dish ," BookRestaurant
+",1
+8054,Rate:O this:B-object_select novel:B-object_type at:O 2:B-rating_value ," RateBook
+",4
+178,Add:O artist:B-music_item to:O my:B-playlist_owner 80'S:B-playlist PARTY:I-playlist ," AddToPlaylist
+",0
+6862,Play:O On:B-track My:I-track Own:I-track ," PlayMusic
+",3
+234,add:O this:O album:B-music_item by:O richard:B-artist hell:I-artist to:O arlene's:B-playlist_owner playlist:O named:O miami:B-playlist 2017:I-playlist guest:I-playlist list:I-playlist ," AddToPlaylist
+",0
+7532,I:O rate:O The:B-object_name Mathematical:I-object_name Magpie:I-object_name chronicle:B-object_part_of_series_type a:O 0:B-rating_value of:O 6:B-best_rating ," RateBook
+",4
+5492,what:O is:O the:O forecast:O for:O a:B-timeRange day:I-timeRange from:I-timeRange now:I-timeRange in:O Liechtenstein:B-country ," GetWeather
+",2
+5530,Give:O me:O the:O weather:O forecast:O for:O here:B-current_location .:O ," GetWeather
+",2
+1003,I:O want:O you:O to:O put:O this:O track:B-music_item onto:O the:O playlist:O called:O throwback:B-playlist party:I-playlist .:O ," AddToPlaylist
+",0
+8513,give:O two:B-rating_value star:O to:O As:B-object_name Long:I-object_name as:I-object_name We:I-object_name Both:I-object_name Shall:I-object_name Live:I-object_name book:B-object_type ," RateBook
+",4
+5201,what:O is:O the:O forecast:O for:O here:B-current_location at:O 8:B-timeRange am:I-timeRange ," GetWeather
+",2
+5575,What:O are:O the:O weather:O conditions:O in:O Noel:B-city ?:O ," GetWeather
+",2
+6388,I:O want:O to:O hear:O Shooby:B-artist Taylor:I-artist 's:O Tearing:B-album Up:I-album The:I-album Album:I-album Charts:I-album .:O ," PlayMusic
+",3
+3229,me:B-party_size_description and:I-party_size_description my:I-party_size_description grandmother:I-party_size_description want:O to:O eat:O umbrian:B-cuisine food:O on:O January:B-timeRange the:I-timeRange 7th:I-timeRange at:O a:O brasserie:B-restaurant_type .:O ," BookRestaurant
+",1
+7745,Rate:O The:B-object_name Country:I-object_name Blues:I-object_name 3:B-rating_value out:O of:O 6:B-best_rating stars:B-rating_unit ," RateBook
+",4
+5928,Play:O top:B-sort Rosanne:B-artist Cash:I-artist ," PlayMusic
+",3
+7286,use:O Vimeo:B-service to:O play:O De:B-playlist Camino:I-playlist a:I-playlist Clase:I-playlist playlist:O ," PlayMusic
+",3
+3585,Reserve:O a:O table:O for:O two:B-party_size_number for:O jun.:B-timeRange 13th:I-timeRange in:O a:O neighboring:B-spatial_relation bistro:B-restaurant_type which:O serves:O mongolian:B-cuisine food:O in:O Northway:B-city .:O ," BookRestaurant
+",1
+6981,Play:O music:O by:O Damien:B-artist Rice:I-artist ," PlayMusic
+",3
+6209,play:O Robin:B-artist Trower:I-artist Unravel:B-track ," PlayMusic
+",3
+2760,I'd:O like:O a:O table:O for:O 3:B-party_size_number at:O an:O outdoor:B-facility restaurant:B-restaurant_type ," BookRestaurant
+",1
+8069,Give:O Souls:B-object_name in:I-object_name Metal:I-object_name four:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit ," RateBook
+",4
+2525,Book:O a:O table:O for:O six:B-party_size_number around:B-spatial_relation yolanda's:B-poi apartment:I-poi .:O ," BookRestaurant
+",1
+359,want:O to:O add:O this:O Nick:B-artist Mason:I-artist tune:B-music_item to:O the:O Sylvia:B-playlist Plath:I-playlist playlist:O ," AddToPlaylist
+",0
+7269,Can:O you:O use:O Pandora:B-service to:O play:O a:O soundtrack:B-music_item from:O 1999:B-year by:O David:B-artist Sitek:I-artist ?:O ," PlayMusic
+",3
+7442,play:O the:O top:B-sort twenty:I-sort movement:B-music_item songs:O from:O Roberto:B-artist Valverde:I-artist ," PlayMusic
+",3
+4024,Is:O it:O humid:B-condition_description in:O Parc:B-geographic_poi national:I-geographic_poi de:I-geographic_poi Killarney:I-geographic_poi ," GetWeather
+",2
+4525,"What's:O the:O weather:O forecast:O for:O neighboring:B-spatial_relation Delft:B-geographic_poi National:I-geographic_poi Park:I-geographic_poi on:O aug.:B-timeRange the:I-timeRange 8th,:I-timeRange 2028:I-timeRange "," GetWeather
+",2
+6815,Can:O you:O play:O a:O sound:B-music_item track:I-music_item from:O 1963:B-year ?:O ," PlayMusic
+",3
+2353,BOok:O me:O a:O table:O for:O 5:B-party_size_number at:O a:O best:B-sort rated:I-sort restaurant:B-restaurant_type in:O Italy:B-country ," BookRestaurant
+",1
+5986,Play:O a:O record:B-music_item from:O 1950:B-year .:O ," PlayMusic
+",3
+6429,Play:O music:O by:O Susumu:B-artist Hirasawa:I-artist .:O ," PlayMusic
+",3
+1091,Add:O some:O fujimoto:B-artist yae:I-artist to:O my:B-playlist_owner Women:B-playlist of:I-playlist Rock:I-playlist list:O ," AddToPlaylist
+",0
+5335,Will:O it:O be:O chillier:B-condition_temperature in:O Portugal:B-country in:B-timeRange one:I-timeRange hour:I-timeRange ?:O ," GetWeather
+",2
+1105,Add:O Fra:B-entity_name Mols:I-entity_name til:I-entity_name Skagen:I-entity_name to:O my:B-playlist_owner this:B-playlist is:I-playlist trey:I-playlist songz:I-playlist playlist:O ," AddToPlaylist
+",0
+5621,play:O Joshua:B-artist Homme:I-artist Belle:B-album And:I-album Sebastian:I-album Write:I-album About:I-album Love:I-album ," PlayMusic
+",3
+7353,Play:O music:O from:O 2012:B-year on:O google:B-service music:I-service ," PlayMusic
+",3
+5329,What:O will:O the:O weather:O be:O in:O Totowa:B-city Guernsey:B-country ?:O ," GetWeather
+",2
+1624,Add:O od:B-entity_name mene:I-entity_name se:I-entity_name odvikavaj:I-entity_name to:O my:B-playlist_owner laundry:B-playlist ," AddToPlaylist
+",0
+6589,Please:O play:O some:O Black:B-genre Metal:I-genre music:O ," PlayMusic
+",3
+381,add:O j:B-artist p:I-artist pickens:I-artist to:O chill:B-playlist out:I-playlist playlist:O ," AddToPlaylist
+",0
+1193,add:O the:O artist:B-music_item w:B-artist g:I-artist snuffy:I-artist walden:I-artist to:O my:B-playlist_owner Billboard:B-playlist Latin:I-playlist Music:I-playlist Awards:I-playlist Finalists:I-playlist playlist:O ," AddToPlaylist
+",0
+5232,What:O will:O the:O weather:O be:O like:O 1:B-timeRange minute:I-timeRange from:I-timeRange now:I-timeRange within:B-spatial_relation the:I-spatial_relation same:I-spatial_relation area:I-spatial_relation of:O my:O current:B-current_location location:I-current_location ," GetWeather
+",2
+7606,give:O one:B-rating_value out:O of:O 6:B-best_rating points:B-rating_unit to:O The:B-object_name Psychopathic:I-object_name God:I-object_name series:B-object_part_of_series_type ," RateBook
+",4
+2791,book:O me:O a:O restaurant:B-restaurant_type that:O is:O close:B-spatial_relation for:O four:B-party_size_number people:O in:O Enid:B-city ," BookRestaurant
+",1

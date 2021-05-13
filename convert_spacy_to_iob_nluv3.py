@@ -1,0 +1,37 @@
+import os
+import pickle
+
+import spacy
+from spacy.gold import biluo_tags_from_offsets
+with open ('json/train-nlu-v3', 'rb') as fp:
+    TRAIN_DATA = pickle.load(fp)
+
+with open ('json/test-nlu-v3', 'rb') as fp:
+    TEST_DATA = pickle.load(fp)
+
+nlp_blank = spacy.blank('en')
+out_dir = 'iob/nlu-v3'
+try:
+    os.makedirs(out_dir)
+except:
+    pass
+
+with open(os.path.join(out_dir, 'nlu_train_text.txt'), 'w', encoding='utf-8') as fout_text, \
+        open(os.path.join(out_dir, 'nlu_train_labels.txt'), 'w', encoding='utf-8') as fout_labels:
+    for example in TRAIN_DATA:
+        text, entities = example
+        doc = nlp_blank(text)
+        tags = biluo_tags_from_offsets(doc, entities['entities'])
+        tokens = [token.text for token in doc]
+        fout_text.write(' '.join(tokens) + '\n')
+        fout_labels.write(' '.join(tags) + '\n')
+
+with open(os.path.join(out_dir, 'nlu_test_text.txt'), 'w', encoding='utf-8') as fout_text, \
+        open(os.path.join(out_dir, 'nlu_test_labels.txt'), 'w', encoding='utf-8') as fout_labels:
+    for example in TEST_DATA:
+        text, entities = example
+        doc = nlp_blank(text)
+        tags = biluo_tags_from_offsets(doc, entities)
+        tokens = [token.text for token in doc]
+        fout_text.write(' '.join(tokens) + '\n')
+        fout_labels.write(' '.join(tags) + '\n')
