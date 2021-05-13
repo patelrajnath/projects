@@ -49,7 +49,7 @@ commands:
   - name: init-vectors
     help: Download vectors and convert to model
     script:
-      - "python -m spacy init model --vectors-loc assets/vectors.zip en assets/en_fasttext_vectors"
+      - "python -m spacy init vectors en assets/vectors.zip assets/en_fasttext_vectors"
     deps:
       - "assets/vectors.zip"
     outputs_no_cache:
@@ -72,7 +72,7 @@ commands:
   - name: train
     help: "Train a spaCy pipeline using the specified corpus and config"
     script:
-      - "mkdir -p training/${vars.config}"
+      - python -c "import os; os.makedirs(os.path.join('training', '${vars.config}'))"
       - "python -m spacy train ./configs/${vars.config}.cfg -o training/${vars.config} --gpu-id ${vars.gpu_id}"
     deps:
       - "corpus/train.spacy"

@@ -2,22 +2,18 @@
 
 # 🪐 spaCy Project: Categorization of emotions in Reddit posts (Text Classification)
 
-> ⚠️ This project template uses the new [**spaCy v3.0**](https://nightly.spacy.io), which
-> is currently available as a nightly pre-release. You can install it from pip as `spacy-nightly`:
-> `pip install spacy-nightly`. Make sure to use a fresh virtual environment.
-
 This project uses spaCy to train a text classifier on the [GoEmotions dataset](https://github.com/google-research/google-research/tree/master/goemotions) with options for a pipeline with and without transformer weights. To use the BERT-based config, change the `config` variable in the `project.yml`.
 
 ## 📋 project.yml
 
 The [`project.yml`](project.yml) defines the data assets required by the
 project, as well as the available commands and workflows. For details, see the
-[spaCy projects documentation](https://nightly.spacy.io/usage/projects).
+[spaCy projects documentation](https://spacy.io/usage/projects).
 
 ### ⏯ Commands
 
 The following commands are defined by the project. They
-can be executed using [`spacy project run [name]`](https://nightly.spacy.io/api/cli#project-run).
+can be executed using [`spacy project run [name]`](https://spacy.io/api/cli#project-run).
 Commands are only re-run if their inputs have changed.
 
 | Command | Description |
@@ -32,7 +28,7 @@ Commands are only re-run if their inputs have changed.
 ### ⏭ Workflows
 
 The following workflows are defined by the project. They
-can be executed using [`spacy project run [name]`](https://nightly.spacy.io/api/cli#project-run)
+can be executed using [`spacy project run [name]`](https://spacy.io/api/cli#project-run)
 and will run the specified commands in order. Commands are only re-run if their
 inputs have changed.
 
@@ -43,7 +39,7 @@ inputs have changed.
 ### 🗂 Assets
 
 The following assets are defined by the project. They can
-be fetched by running [`spacy project assets`](https://nightly.spacy.io/api/cli#project-assets)
+be fetched by running [`spacy project assets`](https://spacy.io/api/cli#project-assets)
 in the project directory.
 
 | File | Source | Description |
@@ -69,7 +65,7 @@ You can choose your GPU by setting the `gpu_id` variable in the
 
 ### Tuning a hyper-parameter in the config
 
-To change hyperparameters, you can edit the [config](conigs) (or create a new
+To change hyperparameters, you can edit the [config](configs) (or create a new
 custom config). For instance, you could edit the
 `components.textcat.model.tok2vec.encode.width` value, changing it to `32`:
 
@@ -134,11 +130,16 @@ models from the tagger and NER. This requires three changes to the config.
 
 ### Using embeddings from a spaCy package
 
+First, download an existing trained pipeline with word vectors. 
+The word vectors of this model can then be specified in `paths.vectors` 
+or `initialize.vectors`.
+
 ```bash
+spacy download en_core_web_lg
 spacy train \
     configs/cnn.cfg \
-    --training.vectors "en_vectors_web_lg" \
-    --components.textcat.model.tok2vec.embed.also_use_static_vectors true
+    --paths.vectors "en_core_web_lg" \
+    --components.textcat.model.tok2vec.embed.include_static_vectors true
 ```
 
 ### Making and using new embeddings
@@ -163,6 +164,6 @@ Use the vectors:
 ```bash
 spacy train \
     configs/cnn.cfg \
-    --training.vectors "assets/en_fasttext_vectors" \
-    --components.textcat.model.tok2vec.embed.also_use_static_vectors true
+    --paths.vectors "assets/en_fasttext_vectors" \
+    --components.textcat.model.tok2vec.embed.include_static_vectors true
 ```
