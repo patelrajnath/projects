@@ -17,9 +17,9 @@ for row_id, row in df.iterrows():
 
 
 results = dict(
-    f1=metrics.f1_score(true_labels_final, predicted_labels_final),
-    precision=metrics.precision_score(true_labels_final, predicted_labels_final),
-    recall=metrics.recall_score(true_labels_final, predicted_labels_final),
+    f1=metrics.f1_score(true_labels, predicted),
+    precision=metrics.precision_score(true_labels, predicted),
+    recall=metrics.recall_score(true_labels, predicted),
     # f1_span=f1_score_span(true_labels_final, predicted_labels_final),
     # precision_span=precision_score_span(true_labels_final, predicted_labels_final),
     # recall_span=recall_score_span(true_labels_final, predicted_labels_final),
