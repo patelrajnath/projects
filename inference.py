@@ -2,29 +2,9 @@ import re
 
 import pandas
 import spacy
-from spacy.matcher.matcher import Matcher
-from spacy.tokenizer import Tokenizer
 from spacy.training.iob_utils import biluo_tags_from_offsets
 from seqeval import metrics
-from spacy.util import compile_prefix_regex, compile_suffix_regex
-
-
-# def custom_tokenizer(nlp):
-#     infix_re = re.compile(r'''[.\'\,\?\:\;\...\‘\’\`\“\”\"\'~]''')
-#     prefix_re = compile_prefix_regex(nlp.Defaults.prefixes)
-#     suffix_re = compile_suffix_regex(nlp.Defaults.suffixes)
-#
-#     return Tokenizer(nlp.vocab, prefix_search=prefix_re.search,
-#                                 suffix_search=suffix_re.search,
-#                                 infix_finditer=infix_re.finditer,
-#                                 token_match=None)
-
-
 nlp = spacy.load("models/nlu/model-best")
-# nlp.tokenizer = custom_tokenizer(nlp)
-
-# nlp.add_pipe(quote_merger, first=True)  # add it right after the tokenizer
-
 df = pandas.read_csv('csv/nlu/bio/nlu_test.csv', encoding='utf8', sep='\t')
 true_labels = []
 predicted = []
