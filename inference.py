@@ -40,8 +40,8 @@ for row_id, row in df.iterrows():
     pred = biluo_tags_from_offsets(doc, entities)
     true = row.labels.split()
 
-    pred = [p.replace('_', '-') for p in pred]
-    true = [t.replace('_', '-') for t in true]
+    pred = [p.replace('_', '-').replace('U-', 'B-').replace('L-', 'I-') for p in pred]
+    true = [t.replace('_', '-').replace('U-', 'B-').replace('L-', 'I-') for t in true]
 
     if len(pred) != len(true):
         ignored += 1
