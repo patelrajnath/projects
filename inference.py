@@ -1,21 +1,55 @@
+import re
+
 import pandas
 import spacy
+from spacy.matcher.matcher import Matcher
+from spacy.tokenizer import Tokenizer
 from spacy.training.iob_utils import biluo_tags_from_offsets
 from seqeval import metrics
+from spacy.util import compile_prefix_regex, compile_suffix_regex
+
+
+# def custom_tokenizer(nlp):
+#     infix_re = re.compile(r'''[.\'\,\?\:\;\...\‘\’\`\“\”\"\'~]''')
+#     prefix_re = compile_prefix_regex(nlp.Defaults.prefixes)
+#     suffix_re = compile_suffix_regex(nlp.Defaults.suffixes)
+#
+#     return Tokenizer(nlp.vocab, prefix_search=prefix_re.search,
+#                                 suffix_search=suffix_re.search,
+#                                 infix_finditer=infix_re.finditer,
+#                                 token_match=None)
+
 
 nlp = spacy.load("models/nlu/model-best")
-df = pandas.read_csv('csv/nlu/bio/nlu_test.csv')
+# nlp.tokenizer = custom_tokenizer(nlp)
+
+# nlp.add_pipe(quote_merger, first=True)  # add it right after the tokenizer
+
+df = pandas.read_csv('csv/nlu/bio/nlu_test.csv', encoding='utf8', sep='\t')
 true_labels = []
 predicted = []
+ignored = 0
 for row_id, row in df.iterrows():
-    doc = nlp(row.text)
+    content = row.text
+    content_prep = content.replace(' \'', '\'')
+    print(row_id, content_prep)
+    doc = nlp(content_prep)
     entities = []
     for ent in doc.ents:
         entities.append((ent.start_char, ent.end_char, ent.label_))
-    predicted.append(biluo_tags_from_offsets(doc, entities))
-    true_labels.append(row.labels.split())
+    pred = biluo_tags_from_offsets(doc, entities)
+    true = row.labels.split()
 
+    pred = [p.replace('_', '-') for p in pred]
+    true = [t.replace('_', '-') for t in true]
 
+    if len(pred) != len(true):
+        ignored += 1
+        continue
+    predicted.append(pred)
+    true_labels.append(true)
+
+print(f'Samples ignored:{ignored}')
 results = dict(
     f1=metrics.f1_score(true_labels, predicted),
     precision=metrics.precision_score(true_labels, predicted),
