@@ -2,18 +2,38 @@ import re
 
 import pandas
 import spacy
+from spacy.tokens.doc import Doc
 from spacy.training.iob_utils import biluo_tags_from_offsets
 from seqeval import metrics
+
+
+class WhitespaceTokenizer:
+    def __init__(self, vocab):
+        self.vocab = vocab
+
+    def __call__(self, text):
+        words = text.split(" ")
+        return Doc(self.vocab, words=words)
+
+
 nlp = spacy.load("models/nlu/model-best")
+# nlp = spacy.load("models/accounts/model-best")
+# nlp = spacy.load("models/kaggle/model-best")
+
+# Disable the default tokenizer
+nlp.tokenizer = WhitespaceTokenizer(nlp.vocab)
+
 df = pandas.read_csv('csv/nlu/bio/nlu_test.csv', encoding='utf8', sep='\t')
+# df = pandas.read_csv('csv/accounts/bio/accounts_test.csv', encoding='utf8', sep='\t')
+# df = pandas.read_csv('csv/kaggle/test_combined_3.csv', encoding='utf8', sep='\t')
+
 true_labels = []
 predicted = []
 ignored = 0
 for row_id, row in df.iterrows():
     content = row.text
-    content_prep = content.replace(' \'', '\'')
-    print(row_id, content_prep)
-    doc = nlp(content_prep)
+    print(row_id, content)
+    doc = nlp(content)
     entities = []
     for ent in doc.ents:
         entities.append((ent.start_char, ent.end_char, ent.label_))
@@ -24,6 +44,9 @@ for row_id, row in df.iterrows():
     true = [t.replace('_', '-').replace('U-', 'B-').replace('L-', 'I-') for t in true]
 
     if len(pred) != len(true):
+        print(row_id, content)
+        print(pred, len(pred))
+        print(true, len(true))
         ignored += 1
         continue
     predicted.append(pred)
